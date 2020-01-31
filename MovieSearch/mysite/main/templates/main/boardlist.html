@@ -1,0 +1,233 @@
+<html>
+
+<head>
+  <title>게시판</title>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Baloo+Paaji&display=swap" rel="stylesheet">
+
+
+
+  <!-- jQuery !-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+  <!-- Bootstrap !-->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+  <style>
+    body {
+      background: black;
+
+    }
+
+    #searchbar {
+      text-align: center;
+      color: white;
+      margin-top: 40px;
+    }
+
+    #section {
+      height: 550px;
+    }
+
+    #nav {
+      height: 80px;
+      color: #960303;
+      border-bottom: 2px solid #3a0707;
+		font-family: 'Baloo Paaji', cursive;
+    }
+
+    .movieimg {
+      border: 1px solid black;
+      width: 300px;
+      height: 200px;
+      float: left;
+      margin: 2%;
+      list-style: none;
+    }
+	 a:hover{
+		  
+      color: red;
+	  }  
+	a{
+		  
+      color: #960303;
+	  }
+    a:link {
+      text-decoration: none;
+		
+    }
+
+    .search-bar {
+      width: 500px;
+    }
+
+    .secondlist {
+      display: none;
+    }
+
+    .selected {
+      border: 2px solid red;
+    }
+
+    .logo {
+      padding: 5px;
+      margin-left: 15px;
+      float: left;
+    }
+
+    .hide {
+      display: none;
+    }
+
+    .menu {
+      float: right;
+      list-style: none;
+      margin-left: 2%;
+      padding: 15px;
+      font-size: 23px;
+    }
+
+   
+	.boardback{
+	  background:black;
+	  color:white;
+	  border:4px solid grey;	  
+	  border-radius:5px;
+	  text-align-last: left;
+	  }
+    .imgcheck {
+      float: left;
+      text-align: center;
+      cursor: pointer !important;
+      width: 300px;
+      height: 300px;
+      margin-left: 6%;
+
+      margin-top: 2%;
+    }
+
+    .moviecheck1 {
+      background: url("/static/1.jpg") left/50px no-repeat;
+      background-size: 300px 300px;
+      width: 300px;
+      height: 300px;
+    }
+
+    .moviecheck {
+      opcity: 0%;
+      visibility: hidden;
+    }
+
+    .checked {
+      border: 2px solid red;
+    }
+
+    tbody {
+      color: white;
+		
+    }
+	  h6{
+		  text-align-last: right;
+	  }
+
+    .containers {
+      background: white;
+    }
+  </style>
+
+
+
+</head>
+
+<body>
+  <!-- jquery cdn -->
+  <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+  <!-- Bootstrap cdn !-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  <div id="nav">
+    <h1 class="logo"><a href="https://moviesearch-sncjv.run.goorm.io">Search</a></h1>
+    <!-- 헤더공백  -->
+    <nav>
+      <ul>
+        <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/signup">Signup</a></li>
+        {% if user.is_active %}
+        <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/logout">Logout</a></li>
+        <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/profile">Profile</a></li>
+        <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/board">Board</a></li>
+        <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/movies">All</a></li>
+        {% else %}
+        <li class="menu"><a href="/login">Login</a></li>
+        {%endif%}
+
+      </ul>
+
+    </nav>
+  </div>
+
+
+  <div id="searchbar" class="container ">
+    <h2>Search Movie</h2>
+
+    <div class="container boardback" >
+	<br><br>
+      <h2 style="border-bottom:2px solid grey;">제목</h2>
+		
+		
+		<h3>
+			{{lists.title}}
+		</h3>
+      
+      <br>
+      <h5 style="border-bottom:2px solid grey;">내용</h5>
+		<h5>
+			{{lists.comment}}
+	
+		</h5><br><br>
+		
+		<h6>작성자: {{lists.name}} </h6>	
+		<br>
+		    
+	    {% if lists.name == user.username %}
+	<p><a id="check_username" href="{% url "delete" pk=lists.id %}"onclick="return confirm('정말 삭제하시겠습니까?')">삭제</a></p>
+	<p><a href="{% url 'edit' pk=lists.id %}">수정</a></p>  
+
+		{%endif%}
+
+</div>
+    
+		
+		<div id="disqus_thread"></div>
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://moviesearch-1.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+
+  <div id="footer">
+    <!-- Footer공백 -->
+  </div>
+	</div>
+</body>
+
+</html>
+
+
+

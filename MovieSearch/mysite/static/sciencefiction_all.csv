@@ -1,0 +1,648 @@
+id,genres,title,original_language,vote_count,popularity
+24428,Science FictionActionAdventure,The Avengers,en,12000.0,89.887648
+70160,Science FictionAdventureFantasy,The Hunger Games,en,9634.0,20.031667000000002
+102899,Science FictionActionAdventure,Ant-Man,en,6029.0,26.882388
+49047,Science FictionThrillerDrama,Gravity,en,5879.0,18.50194
+131631,Science FictionAdventureThriller,The Hunger Games: Mockingjay - Part 1,en,5767.0,147.098006
+70981,Science FictionAdventureMystery,Prometheus,en,5152.0,16.624854
+246655,Science Fiction,X-Men: Apocalypse,en,4831.0,28.712521999999996
+13475,Science FictionActionAdventure,Star Trek,en,4574.0,15.362632000000001
+119450,Science FictionActionDramaThriller,Dawn of the Planet of the Apes,en,4511.0,75.385211
+1895,Science FictionAdventureAction,Star Wars: Episode III - Revenge of the Sith,en,4200.0,13.165420999999998
+78,Science FictionDramaThriller,Blade Runner,en,3833.0,96.272374
+38,Science FictionDramaRomance,Eternal Sunshine of the Spotless Mind,en,3758.0,12.906327000000001
+87101,Science FictionActionThrillerAdventure,Terminator Genisys,en,3677.0,30.188198
+68724,Science FictionActionDramaThriller,Elysium,en,3510.0,15.232738000000001
+17654,Science Fiction,District 9,en,3451.0,11.589835
+185,Science FictionDrama,A Clockwork Orange,en,3432.0,17.112594
+601,Science FictionAdventureFamilyFantasy,E.T. the Extra-Terrestrial,en,3359.0,19.358546
+8373,Science FictionActionAdventure,Transformers: Revenge of the Fallen,en,3192.0,4.351756
+91314,Science FictionActionAdventure,Transformers: Age of Extinction,en,3136.0,18.495599
+1724,Science FictionActionAdventure,The Incredible Hulk,en,3086.0,19.125536999999998
+62,Science FictionMysteryAdventure,2001: A Space Odyssey,en,3075.0,22.494622
+76757,Science FictionFantasyActionAdventure,Jupiter Ascending,en,2816.0,21.463465
+98566,Science FictionActionAdventureFantasyComedy,Teenage Mutant Ninja Turtles,en,2677.0,22.337973
+82700,Science FictionActionAdventure,After Earth,en,2579.0,10.747641999999999
+158015,Science FictionHorrorThriller,The Purge,en,2498.0,23.207663
+63,Science FictionThrillerMystery,Twelve Monkeys,en,2470.0,12.297305
+80274,Science FictionActionAdventure,Ender's Game,en,2354.0,12.500305
+106,Science FictionActionAdventureThriller,Predator,en,2129.0,18.495694
+1954,Science FictionThriller,The Butterfly Effect,en,2119.0,12.994939
+87421,Science FictionActionThriller,Riddick,en,2066.0,9.596377
+9741,Science FictionThrillerDrama,Unbreakable,en,1994.0,14.67855
+206487,Science FictionThriller,Predestination,en,1971.0,10.524204
+76726,Science FictionDramaThriller,Chronicle,en,1965.0,12.47441
+17431,Science FictionDrama,Moon,en,1831.0,13.336773
+38050,Science FictionThrillerRomance,The Adjustment Bureau,en,1677.0,9.420301
+8077,Science FictionActionHorror,Alien³,en,1664.0,17.126768
+31011,Science FictionDramaRomanceFantasy,Mr. Nobody,en,1616.0,11.817059
+5876,Science FictionHorrorThriller,The Mist,en,1438.0,8.435642
+8078,Science FictionHorrorAction,Alien: Resurrection,en,1388.0,15.57784
+16320,Science FictionActionAdventureThriller,Serenity,en,1287.0,11.919995
+36648,Science FictionActionHorrorThrillerAdventureFantasy,Blade: Trinity,en,1276.0,18.860681
+1272,Science FictionThriller,Sunshine,en,1210.0,12.715571
+238615,Science FictionMysteryThriller,Self/less,en,1122.0,25.301568
+840,Science FictionDrama,Close Encounters of the Third Kind,en,1122.0,10.610446000000001
+244267,Science FictionDrama,I Origins,en,1089.0,11.901185
+929,Science FictionActionThriller,Godzilla,en,1075.0,11.295121
+816,Science FictionComedyCrime,Austin Powers: International Man of Mystery,en,1033.0,11.749158999999999
+871,Science FictionAdventureDramaAction,Planet of the Apes,en,958.0,17.784978
+227719,Science FictionThriller,Project Almanac,en,953.0,9.363482000000001
+23048,Science FictionComedyAdventure,Hot Tub Time Machine,en,911.0,11.967652000000001
+149,Science FictionAnimation,Akira,ja,792.0,10.888917
+169,Science FictionActionThriller,Predator 2,en,743.0,11.736241
+1103,Science FictionAction,Escape from New York,en,720.0,10.124544
+97,Science FictionActionAdventure,Tron,en,717.0,16.574021
+13363,Science FictionDrama,The Man from Earth,en,696.0,9.29906
+199,Science FictionActionAdventureThriller,Star Trek: First Contact,en,671.0,8.808497000000001
+14337,Science FictionDramaThriller,Primer,en,671.0,7.15307
+145135,Science FictionThrillerHorror,Dark Skies,en,668.0,26.972326000000002
+2135,Science FictionAdventureAction,The Time Machine,en,644.0,8.918134
+9482,Science Fiction,Judge Dredd,en,643.0,8.184814999999999
+8452,Science Fiction,The 6th Day,en,603.0,8.413110000000001
+406990,Science FictionThriller,What Happened to Monday,en,598.0,60.581223
+16866,Science FictionAnimationFamilyComedyAdventure,Planet 51,en,573.0,10.44244
+174772,Science FictionThriller,Europa Report,en,549.0,6.964263000000001
+152,Science FictionAdventureMystery,Star Trek: The Motion Picture,en,541.0,8.277764999999999
+42684,Science Fiction,Skyline,en,516.0,7.676017
+168,Science FictionAdventure,Star Trek IV: The Voyage Home,en,490.0,12.596956
+201,Science FictionActionAdventureThriller,Star Trek: Nemesis,en,488.0,11.367801
+1498,Science FictionActionAdventureComedyFamily,Teenage Mutant Ninja Turtles,en,486.0,13.184585
+10153,Science Fiction,Sphere,en,483.0,7.124735
+9920,Science FictionActionThriller,Ultraviolet,en,468.0,11.096655
+193,Science FictionActionAdventureThriller,Star Trek: Generations,en,461.0,8.105708
+9348,Science FictionHorrorAction,Species,en,457.0,13.492845
+84329,Science FictionComedyDramaCrime,Robot & Frank,en,454.0,9.291494
+157,Science FictionActionAdventureThriller,Star Trek III: The Search for Spock,en,443.0,6.197298
+174,Science FictionActionAdventureThriller,Star Trek VI: The Undiscovered Country,en,421.0,5.90057
+200,Science FictionActionAdventureThriller,Star Trek: Insurrection,en,402.0,9.538877000000001
+10357,Science FictionActionDramaThriller,Volcano,en,387.0,13.147917000000001
+172,Science FictionActionAdventureThriller,Star Trek V: The Final Frontier,en,384.0,12.308007
+2067,Science Fiction,Mission to Mars,en,374.0,9.021107
+4858,Science FictionThriller,The Invasion,en,366.0,5.228837
+410199,Science FictionThriller,ARQ,en,340.0,7.1344460000000005
+174675,Science FictionThriller,The Machine,en,336.0,5.871579
+175774,Science FictionFantasyAdventureFamily,Ruby Red,de,330.0,8.582533
+14139,Science FictionThriller,Timecrimes,es,313.0,8.623982
+190847,Science FictionThrillerHorror,The Last Days on Mars,en,304.0,9.113415
+1497,Science FictionAdventureActionComedyFamily,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,en,290.0,7.9942660000000005
+1694,Science FictionComedyHorror,Re-Animator,en,263.0,9.867238
+119431,Science Fiction,Halo 4: Forward Unto Dawn,en,240.0,7.429822
+3604,Science Fiction,Flash Gordon,en,237.0,6.346979
+297556,Science FictionActionAnimationAdventure,Justice League: Throne of Atlantis,en,222.0,6.012379
+10514,Science FictionThriller,The Andromeda Strain,en,196.0,11.081253
+199575,Science FictionDramaThriller,These Final Hours,en,176.0,6.732991
+10216,Science FictionActionHorror,Species II,en,161.0,13.495247
+16258,Science FictionThrillerDramaCrime,The Butterfly Effect 3: Revelations,en,158.0,7.228413000000001
+10540,Science Fiction,Outland,en,153.0,6.918821
+276908,Science FictionComedyDramaRomance,Comet,en,150.0,6.93232
+8069,Science Fiction,Barbarella,en,149.0,14.304205
+328595,Science FictionAction,Parallels,en,148.0,4.081263
+218784,Science FictionComedyHorror,Freaks of Nature,en,146.0,8.515073
+105077,Science FictionActionAdventureDrama,Battlestar Galactica: The Plan,en,145.0,6.190967
+10724,Science FictionActionAdventureThriller,Firefox,en,141.0,8.97528
+84204,Science FictionComedyThrillerHorror,Grabbers,en,140.0,9.609614
+889,Science FictionComedyFamilyRomance,The Flintstones in Viva Rock Vegas,en,140.0,6.053595
+10513,Science FictionHorror,Plan 9 from Outer Space,en,137.0,8.084953
+6341,Science FictionActionThrillerCrimeDrama,Blue Thunder,en,117.0,10.456371
+15239,Science FictionActionComedyHorror,The Toxic Avenger,en,116.0,8.061088
+119569,Science FictionActionFantasy,Marvel One-Shot: Item 47,en,114.0,5.569008
+46837,Science FictionComedyMystery,Kaboom,en,113.0,5.447019999999999
+125490,Science FictionHorror,Antiviral,en,112.0,10.540581
+11071,Science FictionMysteryHorror,Them!,en,111.0,9.222871000000001
+86812,Science FictionDramaMystery,Sound of My Voice,en,109.0,5.2090559999999995
+77561,Science Fiction,EVA,es,108.0,4.788492
+10606,Science Fiction,The Philadelphia Experiment,en,104.0,13.378587
+16633,Science FictionDramaFantasyRomance,Somewhere in Time,en,104.0,5.429213
+168138,Science FictionAdventureThriller,The Last Days,es,103.0,5.961623
+408647,Science FictionAnimationAction,Teen Titans: The Judas Contract,en,98.0,17.086617999999998
+339530,Science FictionActionHorror,Tremors 5: Bloodlines,en,96.0,12.95779
+9278,Science Fiction,Freejack,en,91.0,10.272925
+317182,Science FictionAdventureDramaFantasy,Doctor Who: Last Christmas,en,86.0,4.964132
+97605,Science FictionThriller,Extracted,en,85.0,10.855439
+166822,Science Fiction,Big Ass Spider!,en,80.0,12.48386
+11049,Science FictionMusicAnimation,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,en,79.0,4.8128150000000005
+150004,Science Fiction,Taken,en,76.0,10.62823
+9711,Science FictionActionHorror,Species III,en,76.0,7.711755
+22345,Science FictionComedyFamily,Baby Geniuses,en,75.0,7.707344
+76535,Science FictionFantasy,Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer,en,72.0,4.591036
+112090,Science Fiction,Branded,en,69.0,11.297363
+19405,Science FictionAnimationComedyFamily,Recess: School's Out,en,68.0,4.1956940000000005
+296130,Science FictionHorror,Harbinger Down,en,67.0,3.979592
+15785,Science Fiction,Cherry 2000,en,67.0,2.8497790000000003
+273404,Science FictionDramaMystery,I'll Follow You Down,en,66.0,4.968243
+15050,Science FictionThriller,Brainstorm,en,65.0,9.974312
+301729,Science FictionThrillerFantasy,Terminus,en,65.0,3.377218
+169934,Science FictionAnimationAction,Iron Man: Rise of Technovore,ja,61.0,10.474313
+19761,Science FictionThriller,Saturn 3,en,60.0,4.542917
+35412,Science FictionDramaRomance,On the Beach,en,60.0,4.00437
+61984,Science Fiction,Space Battleship Yamato,ja,59.0,5.23198
+423988,Science Fiction,Kill Switch,en,58.0,12.128886999999999
+10942,Science FictionActionAdventure,Babylon 5: The Gathering,en,57.0,8.232154
+71700,Science FictionThrillerDrama,Repeaters,en,56.0,2.6687939999999997
+354282,Science Fiction,Science Fiction Volume One: The Osiris Child,en,55.0,13.454531
+281979,Science FictionAdventureFamily,Doctor Who: The Waters of Mars,en,52.0,2.66804
+20424,Science FictionThriller,Invaders from Mars,en,51.0,3.262443
+11119,Science FictionAction,Fortress 2,en,51.0,2.603049
+14801,Science FictionThriller,Colossus: The Forbin Project,en,50.0,3.363154
+19673,Science FictionAdventureComedy,Sexmission,pl,49.0,3.6038360000000003
+8854,Science FictionActionAdventure,Steel,en,49.0,2.890462
+14154,Science FictionDramaThriller,War Games: The Dead Code,en,47.0,12.629921000000001
+61901,Science FictionAnimation,The Prodigies,fr,47.0,2.549224
+59197,Science FictionThriller,Battle of Los Angeles,en,46.0,7.987112
+23535,Science FictionThriller,Class of 1999,en,46.0,6.7001729999999995
+308457,Science FictionDramaFamily,Advantageous,en,46.0,3.4365949999999996
+18983,Science FictionHorror,"Godzilla, King of the Monsters!",en,45.0,8.07532
+367326,Science FictionComedyAnimationFamily,Cosmic Scrat-tastrophe,en,45.0,4.3982209999999995
+282758,Science FictionTV Movie,Doctor Who: The Runaway Bride,en,45.0,2.88026
+94590,Science FictionAdventureComedy,Angry Video Game Nerd: The Movie,en,45.0,2.0939330000000003
+225745,Science FictionAnimationDrama,Steins;Gate: The Movie ? Load Region of Deja Vu,ja,44.0,3.384668
+115442,Science FictionDrama,The Wall,de,43.0,3.00007
+282069,Science FictionHorror,Parasyte: Part 1,ja,42.0,3.346011
+14460,Science Fiction,Battle Beyond the Stars,en,42.0,2.921405
+41360,Science FictionThriller,Hunter Prey,en,42.0,2.25904
+342927,Science FictionActionHorror,3-Headed Shark Attack,en,41.0,3.677281
+281778,Science FictionActionFantasy,Survivor,en,41.0,2.788535
+24357,Science FictionActionAnimation,Final Flight of the Osiris,en,41.0,2.679319
+17921,Science FictionHorror,Planet of the Vampires,it,41.0,2.512247
+57812,Science FictionHorror,51,en,41.0,2.160202
+24230,Science FictionThriller,Nemesis,en,40.0,11.483130000000001
+14945,Science FictionAdventureAnimationDramaFantasyRomanceAction,Origin: Spirits of the Past,ja,40.0,11.024939999999999
+334376,Science FictionAnimation,Ghost in the Shell: The New Movie,ja,40.0,5.518129
+296917,Science FictionAnimationAction,Psycho-Pass: The Movie,ja,40.0,4.299518
+164331,Science FictionThriller,Spiders,en,39.0,11.012438000000001
+45556,Science Fiction,Arctic Blast,en,39.0,5.270343
+22076,Science Fiction,Alien Hunter,en,39.0,3.081045
+26689,Science FictionThriller,Retroactive,en,39.0,2.780487
+15125,Science Fiction,Dante 01,en,39.0,2.351413
+55538,Science FictionHorror,Bloody Birthday,en,38.0,2.68115
+399612,Science Fiction,Realive,es,37.0,3.493907
+25834,Science FictionHorror,Xtro,en,37.0,3.267125
+24914,Science FictionAnimation,Kid's Story,en,37.0,3.2538139999999998
+40430,Science Fiction,Journey to the Far Side of the Sun,en,36.0,5.916841000000001
+118624,Science FictionFantasyDrama,Doomsday Book,ko,36.0,2.3741220000000003
+64502,Science FictionThrillerActionHorror,The Day of the Triffids,en,35.0,2.751991
+312793,Science FictionComedy,The Walking Deceased,en,35.0,1.76195
+37178,Science Fiction,Virtuality,en,34.0,3.1727380000000003
+262848,Science FictionFantasyHorror,Phantasm: Ravager,en,34.0,2.2039310000000003
+17803,Science FictionThriller,12:01,en,33.0,8.811327
+26932,Science Fiction,The Island of Dr. Moreau,en,33.0,8.780704
+140161,Science Fiction,V: The Final Battle,en,33.0,3.126689
+17110,Science Fiction,One Point O,en,33.0,2.399033
+2927,Science Fiction,Moon 44,en,32.0,5.854206
+14573,Science Fiction,Natural City,ko,32.0,3.885246
+15618,Science FictionAction,Robot Jox,en,32.0,3.312779
+285135,Science FictionTV Movie,Zodiac,en,32.0,3.2997300000000003
+385320,Science FictionActionHorror,Zoombies,en,32.0,2.512293
+24749,Science FictionDrama,Iceman,en,32.0,2.491724
+26508,Science FictionDramaWarDocumentaryTV Movie,The War Game,en,32.0,1.761241
+335209,Science Fiction,Doctor Who: Voyage of the Damned,en,32.0,1.654309
+18839,Science FictionAnimationActionCrime,Ghost in the Shell: Stand Alone Complex - The Laughing Man,ja,31.0,4.099225
+298077,Science Fiction,Ambition,en,31.0,1.9200599999999999
+24660,Science FictionAnimation,A Detective Story,en,30.0,1.7984650000000002
+15096,Science Fiction,20 Million Miles to Earth,en,29.0,8.875771
+36349,Science FictionActionThriller,Black Moon Rising,en,29.0,2.379451
+28430,Science FictionDrama,The Day the Earth Caught Fire,en,28.0,3.1502369999999997
+24960,Science FictionAnimation,World Record,en,28.0,2.774738
+45887,Science Fiction,Alive in Joburg,en,28.0,1.954502
+39465,Science FictionActionFantasyAdventure,Godzilla vs. Mothra,ja,28.0,1.8382189999999998
+39466,Science FictionActionAdventureFantasy,Godzilla vs. SpaceGodzilla,ja,28.0,1.7285259999999998
+190250,Science FictionThriller,ABE,en,28.0,1.586141
+136476,Science FictionThriller,State of Emergency,pt,28.0,1.334551
+270654,Science Fiction,Parts Per Billion,en,27.0,8.279917
+15493,Science FictionActionComedy,Star Wreck: In the Pirkinning,fi,27.0,7.759197
+1811,Science FictionDramaComedy,Nowhere,en,27.0,3.324489
+16068,Science FictionAdventureAction,Babylon 5: The Legend of the Rangers - To Live and Die in Starlight,en,27.0,2.698788
+28763,Science FictionHorror,Island of Terror,en,27.0,2.5006009999999996
+282070,Science FictionHorror,Parasyte: Part 2,ja,27.0,2.240411
+436994,Science FictionThriller,Lucid Dream,ko,27.0,1.7488380000000001
+90118,Science FictionComedyHorror,A Little Bit Zombie,en,27.0,1.623545
+15981,Science FictionAnimationComedyCrime,Dead Leaves,ja,27.0,1.254481
+37627,Science FictionFantasyFamilyMusic,The Little Prince,en,26.0,6.582652
+331501,Science FictionMysteryHorrorThriller,Residue,en,26.0,6.2013620000000005
+30194,Science FictionThriller,The Manhattan Project,en,26.0,4.29831
+19492,Science Fiction,Captain EO,en,26.0,3.716093
+39464,Science FictionDramaHorror,Godzilla vs. Hedorah,ja,26.0,2.6315020000000002
+16123,Science Fiction,100 Million BC,en,26.0,2.312713
+39264,Science FictionFantasy,Godzilla vs. Megalon,ja,26.0,2.298163
+110122,Science Fiction,Astronaut: The Last Push,en,26.0,2.295459
+13529,Science Fiction,Daft Punk's Electroma,en,26.0,2.129522
+24959,Science FictionAnimation,Program,en,26.0,1.851765
+51859,Science FictionActionComedyAnimationWestern,Trigun: Badlands Rumble,en,25.0,1.959207
+7456,Science FictionThriller,Die Wolke,de,25.0,1.574594
+268105,Science Fiction,The Similars,es,25.0,1.386193
+73920,Science FictionDrama,Dead Man's Letters,ru,25.0,0.887192
+30202,Science FictionThriller,Children of the Damned,en,24.0,2.416299
+121565,Science FictionThrillerDrama,Errors of the Human Body,en,24.0,2.285454
+17991,Science FictionHorrorDramaThriller,Tetsuo II: Body Hammer,ja,24.0,2.0182919999999998
+306963,Science Fiction,Wanderers,en,24.0,1.621875
+24675,Science FictionAnimation,Beyond,en,24.0,1.521274
+42114,Science FictionHorror,Nightmares,en,23.0,3.861469
+16387,Science Fiction,Daleks' Invasion Earth: 2150 A.D.,en,23.0,2.997399
+11795,Science Fiction,Guyver: Dark Hero,en,23.0,2.037617
+62697,Science FictionHorrorMystery,Bug,en,23.0,1.9815459999999998
+17566,Science FictionAnimationFantasy,Brave Story,ja,23.0,1.817657
+429101,Science Fiction,Anti Matter,en,22.0,4.57264
+341886,Science FictionHorror,June,en,22.0,2.285686
+20980,Science FictionComedy,Liquid Sky,en,22.0,1.0762129999999999
+41571,Science FictionDrama,The Heart of the World,xx,22.0,1.0716379999999999
+313943,Science Fiction,Revolt,en,21.0,8.442584
+282313,Science FictionDramaThriller,The Reconstruction of William Zero,en,21.0,4.741389
+383538,Science FictionActionThriller,The Shadow Effect,en,21.0,2.548897
+259830,Science Fiction,Scintilla,en,21.0,1.9198060000000001
+36683,Science FictionAdventureMystery,20th Century Boys - Chapter 1: Beginning of the End,ja,21.0,1.889519
+298026,Science FictionCrimeHorror,Reaper,en,21.0,1.753718
+21874,Science FictionThriller,Looker,en,21.0,1.457778
+83880,Science FictionActionComedy,Super Shark,fr,21.0,0.774131
+58903,Science FictionThrillerHorror,Creature,en,20.0,5.475876
+17135,Science Fiction,Omega Doom,en,20.0,4.759885
+421443,Science Fiction,Teleios,en,20.0,2.296394
+26581,Science FictionAdventure,Dr. Who and the Daleks,en,20.0,2.1879419999999996
+39469,Science FictionAction,Godzilla: Tokyo S.O.S.,ja,20.0,1.8926020000000001
+74629,Science FictionComedy,Attack of the 50 Ft. Woman,en,20.0,1.554208
+64976,Science FictionHorrorThriller,Day of the Animals,en,19.0,4.34926
+260372,Science Fiction,Bermuda Tentacles,en,19.0,2.4047169999999998
+18627,Science Fiction,Son of Godzilla,en,19.0,1.925084
+13317,Science FictionDrama,The Aerial,es,19.0,1.59064
+20004,Science Fiction,Epoch,en,18.0,6.421741
+133701,Science Fiction,Tears of Steel,en,18.0,3.611436
+35002,Science FictionFantasyAdventure,When Dinosaurs Ruled the Earth,en,18.0,2.600011
+37843,Science FictionHorrorComedy,Blood Beach,en,18.0,2.2320450000000003
+42469,Science FictionHorror,The Creeping Flesh,en,18.0,1.870702
+36855,Science FictionComedyFamily,The Reluctant Astronaut,en,18.0,1.765691
+167948,Science FictionComedy,Space Milkshake,en,18.0,1.737986
+80034,Science Fiction,Earth's Final Hours,en,18.0,1.396593
+38849,Science FictionThriller,Android,en,18.0,1.295139
+36075,Science FictionHorror,Splatter: Naked Blood,ja,18.0,1.209099
+32228,Science FictionThrillerDramaAction,5ive Days to Midnight,en,18.0,1.05306
+30374,Science Fiction,Crack in the World,en,17.0,1.7601930000000001
+31278,Science FictionAction,The Pumaman,en,17.0,1.706648
+136921,Science Fiction,Pixels,en,17.0,1.190657
+44263,Science FictionActionThriller,City Under Siege,cn,17.0,1.087389
+52302,Science FictionFantasyHorror,Matango: Attack of the Mushroom People,ja,17.0,1.066454
+25392,Science Fiction,Destination Moon,en,17.0,0.940976
+43353,Science Fiction,Robot Monster,en,17.0,0.892476
+140979,Science Fiction,Electronic Labyrinth THX 1138 4EB,en,17.0,0.727025
+29290,Science FictionDramaHorror,The Green Slime,en,16.0,2.893789
+172721,Science FictionActionComedyAdventure,End of the World,en,16.0,1.912981
+48490,Science FictionThrillerAction,The New Barbarians,en,16.0,1.740832
+22379,Science FictionAdventure,Slipstream,en,16.0,1.697976
+48397,Science FictionHorrorThrillerMystery,Beyond Loch Ness,en,16.0,1.602897
+39829,Science FictionAdventure,The Six Million Dollar Man,en,16.0,1.4184860000000001
+19757,Science Fiction,Icarus XB 1,cs,16.0,1.408341
+4798,Science FictionDrama,"Je t'aime, je t'aime",fr,16.0,1.2366409999999999
+15990,Science FictionAnimation,The Cathedral,en,16.0,0.903483
+25874,Science Fiction,The Illustrated Man,en,15.0,2.2370919999999996
+19312,Science FictionThrillerTV Movie,The Black Hole,en,15.0,1.992289
+266433,Science Fiction,Ejecta,en,15.0,1.860814
+25114,Science FictionAdventureMystery,20th Century Boys - Chapter 2: The Last Hope,ja,15.0,1.7470310000000002
+297544,Science FictionAdventure,Age of Ice,en,15.0,1.725587
+40249,Science FictionHorror,They Nest,en,15.0,1.590236
+7837,Science FictionThrillerAction,The Time Shifters,en,15.0,1.504521
+35610,Science Fiction,Philadelphia Experiment II,en,15.0,1.155075
+37744,Science Fiction,Rocketship X-M,en,15.0,1.1137620000000001
+33691,Science Fiction,Stereo,en,15.0,1.080535
+42904,Science FictionActionDrama,Supernova,en,14.0,6.416966
+86304,Science FictionThriller,All Superheroes Must Die,en,14.0,5.9289819999999995
+421725,Science FictionComedyAnimation,Scrat: Spaced Out,en,14.0,2.257459
+17938,Science FictionDramaMystery,First Spaceship on Venus,de,14.0,1.952221
+2973,Science FictionAdventureDramaFantasy,Aelita: Queen of Mars,ru,14.0,1.9522169999999999
+19759,Science FictionAdventureFantasy,The Fabulous World of Jules Verne,cs,14.0,1.53134
+387801,Science FictionDramaThrillerHorror,The Untamed,es,14.0,1.414419
+321377,Science FictionHorror,Plan 9,en,14.0,1.2241360000000001
+337208,Science FictionAction,Cowboys vs. Dinosaurs,en,14.0,1.1211879999999999
+49160,Science Fiction,The Time Travelers,en,14.0,1.118899
+31119,Science FictionHorror,Monster a-Go Go,en,14.0,1.042017
+27717,Science Fiction,The Phantom Planet,en,14.0,0.9994299999999999
+222890,Science FictionTV Movie,Stonados,en,14.0,0.9807600000000001
+34003,Science FictionAdventureAnimationActionFamilyComedy,Turtles Forever,en,13.0,4.718655
+27260,Science FictionTV Movie,Brave New World,en,13.0,2.6109869999999997
+217341,Science Fiction,Rewind,en,13.0,2.065884
+27072,Science FictionAdventureFantasy,On the Silver Globe,pl,13.0,1.962954
+54801,Science FictionHorrorThrillerMystery,Night of the Big Heat,en,13.0,1.650251
+27905,Science FictionHorror,Island of the Fishmen,it,13.0,1.273167
+253307,Science FictionComedy,The Infinite Man,en,13.0,1.130017
+343724,Science Fiction,Identicals,en,13.0,1.0903450000000001
+205466,Science Fiction,Dark Space,en,13.0,1.017978
+43241,Science Fiction,The Amazing Colossal Man,en,13.0,0.870274
+312131,Science FictionDrama,The Phoenix Project,en,13.0,0.525556
+22451,Science FictionHorror,The Bone Snatcher,en,12.0,6.123475
+188507,Science FictionAdventureFamily,Space Warriors,en,12.0,2.442212
+42230,Science FictionActionFantasy,The Mighty Peking Man,zh,12.0,1.867807
+202214,Science FictionActionAdventure,Real Playing Game,en,12.0,1.7362240000000002
+447352,Science Fiction,Taking Earth,en,12.0,1.587246
+31634,Science FictionThriller,The Amazing Transparent Man,en,12.0,1.492473
+27460,Science FictionAction,Nick Fury: Agent of S.H.I.E.L.D.,en,12.0,1.282504
+36677,Science Fiction,Solarbabies,en,12.0,1.278665
+17940,Science Fiction,Android Apocalypse,en,12.0,1.179
+20787,Science Fiction,The Man Who Saves The World,tr,12.0,1.125238
+74711,Science FictionDramaComedy,City Zero,ru,12.0,0.865015
+44692,Science Fiction,The Magnetic Monster,en,12.0,0.764046
+143634,Science FictionComedyAnimation,The Electric Hotel,en,12.0,0.560372
+419786,Science Fiction,Doctor Who: Time Crash,en,12.0,0.434906
+60813,Science Fiction,The Bunker of the Last Gunshots,fr,12.0,0.13139
+75506,Science Fiction,World Without End,en,11.0,4.241987
+27918,Science FictionHorrorMystery,The Invisible Ray,en,11.0,1.486415
+47868,Science Fiction,The First Men in the Moon,en,11.0,1.435661
+333545,Science FictionAction,Road Wars,en,11.0,1.2491700000000001
+123337,Science Fiction,Sight,en,11.0,1.2423549999999999
+256959,Science FictionDocumentaryDrama,"White Out, Black In",pt,11.0,1.236621
+26155,Science Fiction,The Invisible Boy,en,11.0,1.226801
+28437,Science FictionHorror,The Black Sleep,en,11.0,1.105228
+257668,Science FictionComedy,Kummeli V,fi,11.0,0.768578
+257155,Science FictionActionFantasyAdventure,Threads of Destiny,en,11.0,0.738069
+184710,Science FictionHorror,Quarantine L.A.,en,11.0,0.70729
+43481,Science FictionThriller,Black River,en,11.0,0.607155
+41522,Science FictionAction,The Phantom,en,11.0,0.48320100000000005
+66918,Science Fiction,Beginning of the End,en,11.0,0.44894799999999996
+24047,Science Fiction,Alien Nation: Dark Horizon,en,10.0,3.834165
+302797,Science FictionHorrorMystery,Encounters,da,10.0,1.7112470000000002
+239853,Science FictionFantasy,11 A.M.,ko,10.0,1.5851620000000002
+26121,Science Fiction,Moon Zero Two,en,10.0,1.489319
+63105,Science FictionActionThriller,Nemesis 2 - Nebula,en,10.0,1.466491
+34812,Science Fiction,H.G. Wells' War of the Worlds,en,10.0,1.314076
+369406,Science Fiction,Nowhere Boys: The Book of Shadows,en,10.0,1.301415
+31243,Science FictionHorror,The Robot vs. The Aztec Mummy,es,10.0,1.186265
+40221,Science FictionComedyHorror,The Borrower,en,10.0,0.944816
+26873,Science Fiction,To The Stars By Hard Ways,ru,10.0,0.9140969999999999
+3786,Science FictionTV Movie,Buck Rogers in the 25th Century,en,10.0,0.91043
+44216,Science FictionAction,Downstream,de,10.0,0.673473
+53252,Science FictionDramaMystery,The Ugly Swans,ru,10.0,0.641755
+72091,Science Fiction,Voyage to the Prehistoric Planet,en,10.0,0.561712
+42870,Science FictionHorror,Creatures from the Abyss,it,10.0,0.539887
+132379,Science FictionFantasyComedy,The '?' Motorist,xx,10.0,0.398256
+104185,Science FictionActionThriller,Alien Tornado,en,9.0,3.3286849999999997
+35668,Science FictionHorror,They Came from Beyond Space,en,9.0,1.2768899999999999
+50162,Science FictionHorror,964 Pinocchio,ja,9.0,1.15526
+290370,Science Fiction,Mutant World,en,9.0,1.044936
+116351,Science FictionAnimation,The Snails,fr,9.0,0.9455479999999999
+7011,Science FictionFantasyHorrorAdventure,Making Contact,en,9.0,0.712615
+42780,Science Fiction,Village of the Giants,en,9.0,0.6148
+41032,Science FictionHorror,The Stone Tape,en,9.0,0.48421000000000003
+16909,Science Fiction,Webmaster,en,9.0,0.47826
+69292,Science Fiction,The Creation of the Humanoids,en,9.0,0.3624
+38269,Science FictionHorror,War of the Colossal Beast,en,9.0,0.21745599999999998
+25952,Science Fiction,Conquest of Space,en,8.0,3.941502
+32940,Science FictionThriller,The Terminal Man,en,8.0,3.6644019999999995
+50291,Science Fiction,Alien Nation: Millennium,en,8.0,1.787853
+25977,Science FictionThriller,Showdown at Area 51,en,8.0,1.399429
+43341,Science Fiction,Cat-Women of the Moon,en,8.0,1.337813
+55952,Science FictionHorror,Xtro 2: The Second Encounter,en,8.0,1.24306
+79591,Science FictionDramaRomance,Ten Minutes Older: The Cello,ru,8.0,1.203539
+32633,Science FictionDramaComedy,Almost Normal,en,8.0,1.175873
+24212,Science Fiction,Devil Girl from Mars,en,8.0,1.173332
+21947,Science FictionAction,A.P.E.X.,en,8.0,1.1608319999999999
+43226,Science Fiction,The Mysterians,ja,8.0,1.138696
+43230,Science Fiction,Kronos,en,8.0,0.9358350000000001
+269057,Science FictionDramaMusic,Bang Bang Baby,en,8.0,0.9103450000000001
+38020,Science FictionThrillerAction,Planet of Dinosaurs,en,8.0,0.8580260000000001
+37839,Science Fiction,Bunker Palace Hotel,fr,8.0,0.849358
+32064,Science Fiction,The Time Guardian,en,8.0,0.701202
+347064,Science FictionActionHorror,Jurassic Prey,en,8.0,0.687557
+113219,Science Fiction,TekWar,en,8.0,0.660737
+52826,Science FictionComedyFantasy,Nothing Lasts Forever,en,8.0,0.626202
+52477,Science Fiction,Alien Cargo,en,8.0,0.6161909999999999
+18634,Science FictionThriller,Puzzlehead,en,8.0,0.5827720000000001
+36391,Science FictionComedyFantasy,King Size,en,8.0,0.529836
+31042,Science Fiction,Target Earth,en,8.0,0.509404
+37467,Science FictionThriller,The Atomic Submarine,en,8.0,0.459754
+91929,Science FictionMysteryThriller,The Arrival of Wang,en,8.0,0.409179
+42712,Science FictionWar,The X from Outer Space,ja,8.0,0.36848200000000003
+20493,Science FictionRomance,Love Story 2050,hi,8.0,0.30498800000000004
+83413,Science FictionHorror,Blood Freak,en,8.0,0.170058
+16203,Science Fiction,Space Is the Place,en,8.0,0.004763
+287940,Science FictionDrama,Night Sights,en,7.0,2.1240930000000002
+331985,Science Fiction,Sundays,en,7.0,1.7144009999999998
+24862,Science FictionThriller,Crash and Burn,en,7.0,1.637273
+41568,Science FictionHorrorComedy,Tales from the Crapper,en,7.0,1.587405
+109463,Science FictionHorror,The Colour Out of Space,de,7.0,1.206502
+62472,Science Fiction,Battle in Outer Space,en,7.0,1.1811690000000001
+401387,Science Fiction,Sunspring,en,7.0,1.124787
+68064,Science FictionAction,Flash Gordon Conquers the Universe,en,7.0,1.062163
+31280,Science Fiction,Fire Maidens of Outer Space,en,7.0,0.957614
+28340,Science FictionComedyHorror,The Invisible Maniac,en,7.0,0.885077
+36212,Science FictionFantasyAdventureFamily,Rebirth of Mothra II,ja,7.0,0.8850049999999999
+107983,Science Fiction,Golem,pl,7.0,0.883965
+37502,Science FictionActionComedy,Heaven's Soldiers,ko,7.0,0.8394790000000001
+47412,Science FictionThrillerTV Movie,Trapped in Space,en,7.0,0.836658
+44192,Science FictionThrillerAction,Timebomb,en,7.0,0.804283
+46158,Science FictionDrama,Holocaust 2000,en,7.0,0.584734
+115054,Science Fiction,The Space Children,en,7.0,0.547347
+330418,Science FictionComedy,Indru Netru Naalai,ta,7.0,0.326862
+47342,Science FictionActionAdventureComedy,Radioactive Dreams,en,7.0,0.317742
+70872,Science Fiction,Warning from Space,fr,7.0,0.280851
+30299,Science Fiction,The 27th Day,en,7.0,0.261083
+95240,Science FictionDramaMusic,"My God, My God, Why Hast Thou Forsaken Me?",ja,7.0,0.260891
+72826,Science Fiction,Legend of Dinosaurs and Monster Birds,ja,7.0,0.012869
+71933,Science FictionDrama,"O-Bi, O-Ba: The End of Civilization",pl,7.0,0.010331
+36832,Science FictionDrama,Born in Flames,en,7.0,0.0005780000000000001
+29932,Science FictionHistoryDramaFantasy,Hanussen,hu,6.0,2.510551
+30647,Science Fiction,12:01 PM,en,6.0,1.9277119999999999
+72720,Science FictionFamilyAnimation,Hot Wheels Acceleracers: Ignition,en,6.0,1.914671
+401294,Science Fiction,Virtual Revolution,en,6.0,1.8321349999999998
+64071,Science Fiction,Tobor the Great,en,6.0,1.100509
+142528,Science FictionDrama,Des fleurs pour Algernon,fr,6.0,1.0910520000000001
+335819,Science FictionComedyCrime,B/W,ru,6.0,1.0781479999999999
+76825,Science Fiction,Morning Patrol,el,6.0,1.0741559999999999
+52941,Science FictionHorror,"I, Monster",en,6.0,1.069442
+19010,Science FictionThriller,Deep Evil,fr,6.0,1.064408
+31131,Science FictionActionFantasy,Outlaw of Gor,en,6.0,0.80656
+14210,Science Fiction,Nightmare City 2035,en,6.0,0.782646
+275603,Science FictionComedyFantasy,The Portal,en,6.0,0.721434
+41415,Science Fiction,The Shape of Things to Come,en,6.0,0.557096
+28538,Science Fiction,The Snow Devils,it,6.0,0.5021260000000001
+57845,Science FictionHorrorAction,Mandroid,de,6.0,0.484612
+31393,Science FictionHorror,The Unearthly,en,6.0,0.483134
+70011,Science FictionComedyDrama,Human Highway,en,6.0,0.478192
+39335,Science Fiction,Moebius,es,6.0,0.419892
+81244,Science Fiction,Alien Nation: The Enemy Within,en,6.0,0.33895
+80200,Science Fiction,Velocity Trap,en,6.0,0.316238
+89662,Science FictionAdventureHorror,Curse of the Faceless Man,en,6.0,0.25900100000000004
+48128,Science FictionComedy,Straight Story,el,6.0,0.258855
+71990,Science FictionHorrorDrama,The Strange World of Planet X,en,6.0,0.24819899999999998
+70864,Science FictionAction,The Day the Sky Exploded,it,6.0,0.24764699999999998
+84760,Science Fiction,Robot Holocaust,en,6.0,0.002001
+51239,Science FictionThriller,Paradox,en,5.0,1.585493
+20949,Science FictionFamilyAdventureComedy,Teens in the Universe,ru,5.0,1.4439110000000002
+22726,Science FictionThriller,Battle of the Worlds,it,5.0,1.306155
+39315,Science Fiction,Tykho Moon,fr,5.0,1.19659
+171861,Science FictionThriller,The Flight That Disappeared,en,5.0,1.111761
+44592,Science Fiction,Lost Continent,en,5.0,1.027404
+30655,Science FictionAction,Circuitry Man,en,5.0,0.935723
+54638,Science FictionTV Movie,Virtual Nightmare,de,5.0,0.8533280000000001
+27873,Science Fiction,Battletruck,en,5.0,0.815844
+42727,Science Fiction,Women of the Prehistoric Planet,en,5.0,0.8145899999999999
+63171,Science FictionFantasy,"Glenn, the Flying Robot",en,5.0,0.740885
+113523,Science Fiction,Doomsday Machine,en,5.0,0.7172
+48315,Science Fiction,Time Runner,en,5.0,0.706342
+31984,Science FictionThriller,Satellite in the Sky,en,5.0,0.701096
+53463,Science FictionHorrorMystery,Dreamland,en,5.0,0.635456
+128612,Science FictionRomance,Invader,en,5.0,0.517048
+314238,Science Fiction,Plug,en,5.0,0.49519399999999997
+62432,Science Fiction,The Questor Tapes,en,5.0,0.47035
+118716,Science Fiction,The Day Mars Invaded Earth,en,5.0,0.469209
+76764,Science FictionDrama,Who?,en,5.0,0.370791
+300321,Science FictionHorror,RWD,en,5.0,0.344337
+165181,Science Fiction,Abiogenesis,en,5.0,0.305357
+81887,Science FictionThrillerHorrorMystery,Murder by Phone,en,5.0,0.284564
+44546,Science Fiction,Lathe of Heaven,en,5.0,0.197684
+202244,Science FictionHorror,Unaware,en,5.0,0.18805
+261157,Science FictionMysteryAdventure,Senn,en,5.0,0.187104
+35611,Science Fiction,Assignment: Outer Space,en,5.0,0.177727
+162042,Science FictionTV MovieActionThriller,Riding with Death,en,5.0,0.038963
+197854,Science FictionAnimationForeignActionHorror,The Guyver: Bio-Booster Armor,ja,5.0,0.025827
+48584,Science FictionHorror,Spermula,fr,4.0,3.494968
+49186,Science FictionAdventureAction,Latitude Zero,ja,4.0,2.679758
+33501,Science FictionThriller,The Moment After,en,4.0,1.8421169999999998
+293082,Science Fiction,"10,000 Days",en,4.0,1.8074540000000001
+136087,Science FictionAnimationFantasyComedyFamily,The Giant King,th,4.0,1.8043470000000001
+38165,Science FictionAdventure,The Mysterious Island,es,4.0,1.398672
+133831,Science FictionHorrorThriller,Endangered Species,en,4.0,1.286525
+27620,Science FictionComedy,The Erotic Misadventures of the Invisible Man,en,4.0,1.090503
+71444,Science FictionActionAnimation,M.D. Geist,ja,4.0,1.031808
+92331,Science Fiction,Beyond the Stars,en,4.0,0.9894229999999999
+28912,Science Fiction,"Wild, Wild Planet",it,4.0,0.9879709999999999
+365339,Science FictionThriller,Black Road,en,4.0,0.9086559999999999
+65504,Science FictionFamilyAnimation,Chronopolis,fr,4.0,0.873757
+42542,Science Fiction,Starship Invasions,en,4.0,0.790107
+29705,Science Fiction,The Tunnel,en,4.0,0.7773869999999999
+69152,Science FictionAction,Escape from the Bronx,it,4.0,0.732103
+30921,Science FictionHorror,Scanner Cop,en,4.0,0.5003890000000001
+50699,Science FictionThriller,Trancers 6: Life After Deth,en,4.0,0.49608100000000005
+323968,Science FictionDramaFantasy,OzLand,en,4.0,0.48699499999999996
+26270,Science Fiction,Project Moon Base,en,4.0,0.48440600000000006
+144676,Science Fiction,Scorpio One,en,4.0,0.478101
+51138,Science FictionThriller,The Moment After 2: The Awakening,en,4.0,0.460791
+20947,Science FictionFamilyAdventureComedy,Moscow-Cassiopeia,en,4.0,0.44607399999999997
+10880,Science FictionThriller,The Noah's Ark Principle,de,4.0,0.441841
+153073,Science Fiction,Escape from Mars,en,4.0,0.436924
+89995,Science FictionHorror,The Frozen Dead,en,4.0,0.43676800000000005
+61702,Science Fiction,12 to the Moon,en,4.0,0.419484
+175380,Science FictionDrama,Twilight Zone,de,4.0,0.407463
+44969,Science Fiction,From the Earth to the Moon,en,4.0,0.279504
+79950,Science FictionThriller,Naked Souls,de,4.0,0.270176
+185354,Science FictionThrillerWar,The War of the Worlds: Next Century,pl,4.0,0.242601
+94502,Science Fiction,Starship,en,4.0,0.22936900000000002
+72809,Science Fiction,Cosmic Journey,ru,4.0,0.199107
+45167,Science FictionDrama,Pumzi,en,4.0,0.187654
+62385,Science FictionRomance,The Little Girl Who Conquered Time,ja,4.0,0.011064000000000001
+74836,Science Fiction,Idaho Transfer,en,4.0,0.00022
+447758,Science FictionComedyDocumentary,Carnage: Swallowing the Past,en,3.0,1.336149
+23331,Science Fiction,Planet Outlaws,en,3.0,1.110623
+12607,Science FictionThriller,Kamikaze 1989,de,3.0,1.002932
+55956,Science Fiction,God's Puzzle,ja,3.0,0.974418
+169250,Science FictionHorrorDrama,The Rat Savior,hr,3.0,0.853982
+64627,Science Fiction,Operation Ganymed,de,3.0,0.68213
+389578,Science FictionAction,Daemonium: Soldier of the Underworld,es,3.0,0.6639430000000001
+70687,Science FictionDrama,The Sticky Fingers of Time,en,3.0,0.623073
+43120,Science Fiction,Missile to the Moon,en,3.0,0.565431
+113215,Science Fiction,TekWar: TekLab,en,3.0,0.444773
+55438,Science FictionAnimationAction,Broken Blade: Book Six - Enclave of Lamentations,en,3.0,0.429279
+46076,Science FictionComedy,Invasion of the Star Creatures,en,3.0,0.41939899999999997
+29799,Science FictionHorrorThriller,Project Shadowchaser III,fr,3.0,0.41590600000000005
+47605,Science Fiction,War of the Planets,en,3.0,0.406617
+58133,Science FictionAction,Possibility of an Island,fr,3.0,0.402427
+324578,Science FictionDramaFantasyRomance,Butterfly,es,3.0,0.35236
+83288,Science FictionAction,Virtual Combat,en,3.0,0.326423
+261562,Science FictionDocumentary,Blazing a Trail to the Stars,ru,3.0,0.28600000000000003
+448290,Science FictionThriller,Half -Life,en,3.0,0.28268000000000004
+128634,Science FictionDramaFantasy,Prototype,en,3.0,0.21477800000000002
+26158,Science FictionAdventure,Around the World Under the Sea,en,3.0,0.20109100000000002
+27909,Science FictionHorror,Alien from the Deep,en,3.0,0.178094
+56718,Science FictionThriller,The Mind Snatchers,en,3.0,0.170247
+43309,Science FictionHorrorComedy,The Gamma People,en,3.0,0.155576
+94480,Science FictionHorror,The Lost Missile,en,3.0,0.152389
+86778,Science FictionMysteryTV Movie,A Carol for Another Christmas,en,3.0,0.15118399999999999
+42743,Science Fiction,The Human Duplicators,en,3.0,0.134851
+37789,Science FictionAnimationForeignActionAdventureMystery,R.O.D - Read or Die,ja,3.0,0.13403199999999998
+292830,Science FictionHorror,Creature,en,3.0,0.129933
+98130,Science FictionDrama,Goldengirl,en,3.0,0.12338900000000001
+85107,Science Fiction,Slow Action,en,3.0,0.11993399999999999
+90030,Science FictionHorror,The Monster of Piedras Blancas,en,3.0,0.116915
+49379,Science Fiction,Terror from the Year 5000,en,3.0,0.11668099999999999
+61111,Science FictionComedy,The Day the Fish Came Out,el,3.0,0.11652799999999999
+54779,Science Fiction,Clonehunter,en,3.0,0.11158699999999999
+101652,Science Fiction,Erotic Games in the Third Galaxy,it,3.0,0.00022
+207641,Science FictionAction,Project Shadowchaser II,fr,2.0,2.326927
+355193,Science FictionThriller,Devil's Gate,en,2.0,1.155504
+28646,Science FictionThrillerHorror,Spoiler,en,2.0,0.9722290000000001
+248001,Science Fiction,Buck Rogers,en,2.0,0.7971239999999999
+195867,Science Fiction,Visitors of the Night,en,2.0,0.769962
+2909,Science Fiction,In the Dust of the Stars,de,2.0,0.704362
+115042,Science FictionAction,Exterminators of the Year 3000,es,2.0,0.676383
+154140,Science FictionComedy,Men in White,en,2.0,0.582861
+334317,Science Fiction,Desire,fr,2.0,0.581963
+38221,Science FictionAdventure,Space Amoeba,ja,2.0,0.570395
+38281,Science FictionActionForeignAdventure,Atomic Rulers,en,2.0,0.510191
+423733,Science Fiction,The Darkest Dawn,en,2.0,0.421018
+26358,Science FictionAction,Phoenix,fr,2.0,0.387806
+3578,Science Fiction,The Tunnel,de,2.0,0.35565
+205908,Science FictionAction,Recon 2020:  The Caprini Massacre,en,2.0,0.280237
+76287,Science Fiction,Johnny 2.0,en,2.0,0.270593
+461615,Science FictionAnimation,Mutafukaz,fr,2.0,0.24939299999999998
+133953,Science FictionHorror,Snow Shark: Ancient Snow Beast,en,2.0,0.23135999999999998
+36258,Science Fiction,Orion's Key,fr,2.0,0.213531
+384894,Science Fiction,Conspiracy Encounters,en,2.0,0.212769
+70798,Science Fiction,The Monster X Strikes Back: Attack the G8 Summit,ja,2.0,0.202285
+58813,Science Fiction,Deathlands,en,2.0,0.139254
+393939,Science FictionComedyFantasy,Set the Thames on Fire,en,2.0,0.126171
+42934,Science FictionRomance,Random Quest,en,2.0,0.12148800000000001
+214717,Science Fiction,2103: The Deadly Wake,en,2.0,0.108552
+118636,Science Fiction,Zombies of the Stratosphere,en,2.0,0.10069299999999999
+52204,Science FictionHorror,The Brain Eaters,en,2.0,0.100607
+87302,Science FictionHorrorComedy,Alien Space Avenger,en,2.0,0.09750299999999999
+67067,Science Fiction,Zone 39,en,2.0,0.087065
+108048,Science FictionAnimationAdventureFantasy,"Gwen, the Book of Sand",fr,2.0,0.075033
+167410,Science FictionDramaFantasy,Hibernation,en,2.0,0.073275
+339077,Science FictionComedyRomance,Lovemilla,fi,1.0,1.2307190000000001
+210940,Science FictionComedy,The Monitors,en,1.0,1.224042
+222848,Science Fiction,Caged Heat 3000,en,1.0,0.661558
+106070,Science Fiction,Zarkorr! The Invader,en,1.0,0.648666
+152618,Science Fiction,Galaxy Hunter,de,1.0,0.47364700000000004
+328212,Science FictionComedyRomance,The Last Man on Earth,en,1.0,0.330445
+206292,Science FictionDrama,The Desert,es,1.0,0.32759499999999997
+113210,Science Fiction,TekWar: TekJustice,en,1.0,0.324203
+102444,Science FictionWestern,Welcome to Blood City,en,1.0,0.298078
+161273,Science Fiction,A Time of Roses,en,1.0,0.27463899999999997
+87966,Science Fiction,Valley of the Dragons,en,1.0,0.210554
+342684,Science FictionThriller,Vulcania,es,1.0,0.157839
+113119,Science FictionActionComedyForeign,Fugitive Alien,en,1.0,0.137068
+246049,Science Fiction,France societe anonyme,fr,1.0,0.11997000000000001
+113209,Science Fiction,TekWar: TekLords,en,1.0,0.11273399999999999
+191231,Science Fiction,Sol,en,1.0,0.061257000000000006
+103953,Science FictionDramaRomance,Barren Illusion,ja,1.0,0.059715
+42655,Science FictionRomance,Andromeda Nebula,ru,1.0,0.056091999999999996
+155661,Science FictionAnimationHorror,Mars of Destruction,ja,1.0,0.052812
+289318,Science FictionDocumentary,Mars,en,1.0,0.052164
+77852,Science Fiction,Enigma,en,1.0,0.043624
+154371,Science FictionAdventureFamily,Manhunt in Space,en,1.0,0.042889
+301876,Science FictionThriller,30 Years to Life,en,1.0,0.039591
+118155,Science Fiction,Star Force: Fugitive Alien II,en,1.0,0.0039770000000000005
+29398,Science FictionMystery,Project X,en,0.0,1.1859469999999999
+280495,Science Fiction,Deceit,en,0.0,1.108734
+69535,Science Fiction,Race to Mars,de,0.0,0.591676
+96484,Science FictionDramaFantasy,Conceiving Ada,en,0.0,0.563712
+292133,Science FictionAction,Battle of the Stars,en,0.0,0.357165
+373841,Science Fiction,Pass-Thru,en,0.0,0.226731
+131815,Science FictionHorror,The Sea Serpent,en,0.0,0.094983
+320181,Science FictionDrama,The Perfect 46,en,0.0,0.035948
+107308,Science FictionAdventureAction,The Golden Bat,ja,0.0,0.019441999999999997
+325382,Science Fiction,Nuntius,en,0.0,0.017806
+401427,Science Fiction,Elegy,en,0.0,0.016472
+227266,Science FictionDrama,Desolate,en,0.0,0.009603
+201274,Science FictionDrama,Infinite,en,0.0,0.009412
+125464,Science FictionAnimation,A Cosmic Christmas,en,0.0,0.005351
+277098,Science FictionAnimationActionWar,Battle Fairy Yukikaze,en,0.0,0.004729
+113154,Science FictionForeign,Invaders from Space,en,0.0,0.0045850000000000005
+275239,Science FictionHorrorAdventure,The Fishmen and Their Queen,it,0.0,0.003708
+326029,Science FictionAnimation,Delivery,en,0.0,0.003043
+112947,Science FictionDrama,984: Prisoner of the Future,en,0.0,0.002647
+312399,Science FictionFantasy,Toy Reanimator,ja,0.0,0.002385
+85494,Science Fiction,Captive Women,en,0.0,0.001739
+110779,Science FictionAction,Urban Warriors,it,0.0,0.001666
+339749,Science FictionComedy,Saber Marionette R,ja,0.0,0.001258
+438108,Science Fiction,Time Tracers,en,0.0,0.001247
+267506,Science FictionActionThriller,UFO - Distruggete base Luna!,it,0.0,0.00028700000000000004
+257006,Science Fiction,Encounters in the Deep,it,0.0,0.000132
+449696,Science Fiction,The Stranger: Summoned by Shadows,en,0.0,3.5e-05
+85013,Science Fiction,Hyper Sapien: People from Another Star,en,0.0,9e-06

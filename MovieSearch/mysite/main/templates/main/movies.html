@@ -1,0 +1,1630 @@
+<html>
+
+<head>
+  <title>영화</title>
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Baloo+Paaji&display=swap" rel="stylesheet">
+
+  <!-- jQuery !-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+  <!-- Bootstrap !-->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <!--이미지 , 영화 목록 스크립트 부분 !-->
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+ 
+  
+
+
+  <style>
+    body {
+      background: black;
+
+    }
+    #searchbar {
+      text-align: center;
+      color: white;
+      width:auto;
+    }
+
+
+    #section {
+      height: 35%;
+
+    }
+	  img{
+		  border-radius:5px;
+	  }
+
+    .movieimg {
+      border: 1px solid black;
+      width: 200px;
+      height: 100px;
+      float: left;
+      margin: 1%;
+      list-style: none;
+
+    }
+
+    .context1 {
+      display: flex;
+    }
+
+    .secondlist {
+      display: none;
+    }
+
+    .videoex {
+      padding-left: 20px;
+      margin-bottom: 3%;
+    }
+
+    .textex {
+      color: white;
+      margin-left: 7%;
+	 padding-left: 40%;
+    }
+
+    .selected {
+      border: 2px solid red;
+    }
+
+	  a:hover{
+		  
+      color: red;
+	  }  
+	a{
+		  
+      color: #960303;
+	  }
+    a:link {
+      text-decoration: none;
+		
+    }
+
+    .menu {
+      float: right;
+      list-style: none;
+      margin-left: 2%;
+      padding: 15px;
+      font-size: 23px;
+    }
+
+    #nav {
+      height: 80px;
+      color: #960303;
+		font-family: 'Baloo Paaji', cursive;
+      border-bottom: 2px solid #3a0707;
+    }
+
+    .logo {
+      padding: 5px;
+      margin-left: 15px;
+      float: left;
+    }
+
+    h2 {
+      color: #FF3636;
+
+    }
+
+    .backsnow {
+      opacity: 20%;
+    }
+
+    #movie_detail {
+      position: fixed;
+      width: 80%;
+      left: 50%;
+      margin-left: -40%;
+      /* half of width */
+      height: 700px;
+      top: 50%;
+      margin-top: -350px;
+      /* half of height */
+      overflow: auto;
+      /* decoration */
+      border: 1px solid #000;
+      background-color: #eee;
+      padding: 1em;
+      box-sizing: border-box;
+      display: none;
+      z-index: 1;
+	  border-radius:7px;
+    }
+      #button-addon2{
+          z-index:0;
+      }
+  </style>
+
+
+
+</head>
+
+<body>
+  <!-- jquery cdn -->
+  <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+  <!-- Bootstrap cdn !-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <div id="nav">
+    <h1 class="logo"><a href="https://moviesearch-sncjv.run.goorm.io">Search</a></h1>
+    <!-- 헤더공백  -->
+    <nav>
+      <ul>
+        <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/signup">Signup</a></li>
+        {% if user.is_active %}
+        <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/logout">Logout</a></li>
+        <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/profile">Profile</a></li>
+        <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/board">Board</a></li>
+        <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/movies">All</a></li>
+        {% else %}
+        <li class="menu"><a href="/login">Login</a></li>
+        {%endif%}
+      </ul>
+
+    </nav>
+  </div>
+
+  <div id="searchbar" class="container ">    <!-- 검색창 -->
+    <form action="" method="post">
+      <div class="input-group mb-3 search-bar mt-5 mx-auto">
+        <!--margin-top 5 ,중앙정렬 -->
+        <input id="search_value" onkeyup="search_filter()" type="text" class="form-control" placeholder="검색어를 입력하세요" aria-describedby="search-button" list="search_list">
+        <datalist id="search_list">
+          <option id="search_list1" value=""></option>
+          <option id="search_list2" value=""></option>
+          <option id="search_list3" value=""></option>
+          <option id="search_list4" value=""></option>
+          <option id="search_list5" value=""></option>
+          <option id="search_list6" value=""></option>
+          <option id="search_list7" value=""></option>
+          <option id="search_list8" value=""></option>
+          <option id="search_list9" value=""></option>
+          <option id="search_list10" value=""></option>
+        </datalist>
+
+        <div class="input-group-append">
+          <button class="btn btn-outline-secondary" type="button" id="button-addon2">검색</button>
+        </div>
+      </div>
+    </form>
+  </div>
+  
+ 
+
+  <!-- 장르선택 -->
+
+  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">   
+  <h2>A C T I O N</h2>
+    <div id="movie_detail">
+      <div style="float:left;"> <img id="detail_image" src="" width=550px , height=650px> </div>
+      <div class="container" style="float:center; text-align:center;">
+        <h1 id="detail_subject"></h1><br>
+        A Famous line<h3 id="detail_tagline"></h3><br>
+        Story<h5 id="detail_overview"></h5><br>
+        Runtime<h3 id="detail_runtime"></h3>
+        Lanugate<h3 id="detail_language"></h3>
+        Voterate<h3 id="detail_vote"></h3><br>
+      </div>
+      <div id="close">
+        <p style=text-align:right;>닫기</p>
+      </div>
+    </div>
+    
+
+
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div id="section" class=" ml-5 ">
+        
+          <ul class="firstlist">
+            <li class="movieimg">
+              <img id="url_link1" src="" class="card-img-top img1" alt="">
+
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link2" src="" class="card-img-top img1" alt="">
+            </li>
+            <li class="movieimg">
+              <img id="url_link3" src="" class="card-img-top img1" alt="">
+            </li>
+            <li class="movieimg">
+              <img id="url_link4" src="" class="card-img-top img1" alt="">
+            </li>
+            <li class="movieimg">
+              <img id="url_link5" src="" class="card-img-top img1" alt="">
+
+            <li class="movieimg">
+              <img id="url_link6" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link7" src="" class="card-img-top img1" alt="">
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="url_link8" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link9" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link10" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link11" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link12" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link13" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link14" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="url_link15" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link16" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link17" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link18" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link19" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link20" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="url_link21" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+
+    </div>
+    <a class="carousel-control-prev" style="width: 20px;" href="#carouselExampleControls" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next " style="width: 20px;" href="#carouselExampleControls" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+  <!-- 장르 2-->
+  <div id="carouselExampleControls2" class="carousel slide" data-ride="carousel">
+    <h2>C O M E D Y </h2>
+      <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg ">
+              <img id="2url_link1" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link2" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link3" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link4" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link5" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link6" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link7" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+
+
+      <div class="carousel-item">
+        <div id="section" class="ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="2url_link8" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link9" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link10" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link11" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link12" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link13" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link14" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="2url_link15" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link16" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link17" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link18" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link19" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link20" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="2url_link21" src="" class="card-img-top img1" alt="">
+            </li>
+
+
+          </ul>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev " style="width: 20px;" href="#carouselExampleControls2" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next " style="width: 20px;" href="#carouselExampleControls2" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+  <!-- Youtube -->
+
+
+  <div class="videoex">
+	  
+<iframe align="left" width="1000" height="700" src="https://www.youtube.com/embed/bwzLiQZDw2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="textex mt-5 ml-5 mb-5">
+
+      <h1 class="textex">Frozen2</h1>
+      <p class="context1 textex">
+		<h3>Summary: </h3> 
+		<h5>Set three years after the events of the first film, the story follows Elsa, Anna, Kristoff, Olaf, and Sven, who embark on a journey beyond their kingdom of Arendelle in order to discover the origin of Elsa's magical powers and save their kingdom after a mysterious voice calls out to Elsa.</h5>
+		<br>
+		<h3>A Famous Line</h3>
+		<h5>What would I do without you?</h5>
+		<br>
+		<h3>Runtime: </h3>
+		<h5>103minutes</h5>
+		<br>
+		<h3>Release Date: </h3>
+		<h5>November 21th, 2019</h5>
+		<br>
+		<h3>Sound Mix: </h3>
+		<h5>Dolby Atmos | DTS (DTS: X)| Auro 11.1 | Dolby Surround 7.1
+			Color: Color</h5>
+		<br>
+		<h3>Famous Music: </h3>
+<audio controls> <source src="https://moviesearch-sncjv.run.goorm.io/static/12.mp3" type=""> </audio>
+
+		</p>
+    </div>
+  </div>
+
+  <!-- 장르3선택 -->
+  <div id="carouselExampleControls3" class="carousel slide" data-ride="carousel">
+    <h2>D R A M A</h2>
+      <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg ">
+              <img id="3url_link1" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link2" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link3" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link4" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link5" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link6" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link7" src="" class="card-img-top img1" alt="">
+            </li>
+          </ul>
+        </div>
+      </div>
+
+
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="3url_link8" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link9" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link10" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link11" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link12" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link13" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link14" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="3url_link15" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link16" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link17" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link18" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link19" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link20" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="3url_link21" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev " style="width: 20px;" href="#carouselExampleControls3" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next " style="width: 20px;" href="#carouselExampleControls3" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+  <div id="carouselExampleControls4" class="carousel slide" data-ride="carousel">
+    <h2>H O R R O R</h2>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg ">
+              <img id="4url_link1" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link2" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link3" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link4" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link5" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link6" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link7" src="" class="card-img-top img1" alt="">
+            </li>
+          </ul>
+        </div>
+      </div>
+
+
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="4url_link8" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link9" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link10" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link11" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link12" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link13" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link14" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="4url_link15" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link16" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link17" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link18" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link19" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link20" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="4url_link21" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev " style="width: 20px;" href="#carouselExampleControls4" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next " style="width: 20px;" href="#carouselExampleControls4" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+
+  <div id="carouselExampleControls5" class="carousel slide" data-ride="carousel">
+    <h2>R O M A N C E</h2>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg ">
+              <img id="5url_link1" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link2" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link3" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link4" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link5" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link6" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link7" src="" class="card-img-top img1" alt="">
+            </li>
+          </ul>
+        </div>
+      </div>
+
+
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="5url_link8" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link9" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link10" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link11" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link12" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link13" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link14" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="5url_link15" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link16" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link17" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link18" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link19" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link20" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="5url_link21" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev " style="width: 20px;" href="#carouselExampleControls5" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next " style="width: 20px;" href="#carouselExampleControls5" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+
+  <div id="carouselExampleControls6" class="carousel slide" data-ride="carousel">
+    <h2>S F</h2>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg ">
+              <img id="6url_link1" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link2" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link3" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link4" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link5" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link6" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link7" src="" class="card-img-top img1" alt="">
+            </li>
+          </ul>
+        </div>
+      </div>
+
+
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="6url_link8" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link9" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link10" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link11" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link12" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link13" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link14" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="6url_link15" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link16" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link17" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link18" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link19" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link20" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="6url_link21" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev " style="width: 20px;" href="#carouselExampleControls6" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next " style="width: 20px;" href="#carouselExampleControls6" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+
+  <div id="carouselExampleControls7" class="carousel slide" data-ride="carousel">
+    <h2>T H R I L L E R</h2>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg ">
+              <img id="7url_link1" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link2" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link3" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link4" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link5" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link6" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link7" src="" class="card-img-top img1" alt="">
+            </li>
+          </ul>
+        </div>
+      </div>
+
+
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="7url_link8" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link9" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link10" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link11" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link12" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link13" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link14" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div id="section" class=" ml-5 ">
+
+          <ul class="firstlist">
+
+            <li class="movieimg">
+              <img id="7url_link15" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link16" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link17" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link18" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link19" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link20" src="" class="card-img-top img1" alt="">
+            </li>
+
+            <li class="movieimg">
+              <img id="7url_link21" src="" class="card-img-top img1" alt="">
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev " style="width: 20px;" href="#carouselExampleControls7" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next " style="width: 20px;" href="#carouselExampleControls7" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+  <div id="footer">
+    <!-- Footer공백 -->
+  </div>
+
+
+</body>
+
+<script>
+  $.ajax({
+    url: "/static/action.csv",
+    dataType: 'text',
+    success: function(data) {
+      load_genre1(data);
+
+    }
+  });
+  $.ajax({
+    url: "/static/comedy.csv",
+    dataType: 'text',
+    success: function(data) {
+      load_genre2(data);
+
+    }
+  });
+  $.ajax({
+    url: "/static/drama.csv",
+    dataType: 'text',
+    success: function(data) {
+      load_genre3(data);
+
+    }
+  });
+  $.ajax({
+    url: "/static/horror.csv",
+    dataType: 'text',
+    success: function(data) {
+      load_genre4(data);
+
+    }
+  });
+  $.ajax({
+    url: "/static/romance.csv",
+    dataType: 'text',
+    success: function(data) {
+      load_genre5(data);
+
+    }
+  });
+  $.ajax({
+    url: "/static/sciencefiction.csv",
+    dataType: 'text',
+    success: function(data) {
+      load_genre6(data);
+
+    }
+  });
+  $.ajax({
+    url: "/static/thriller.csv",
+    dataType: 'text',
+    success: function(data) {
+      load_genre7(data);
+
+    }
+  });
+
+var detail_action =new Array(new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5));//언어, 오버뷰, 태그라인, 런타임, 평점    
+var detail_comedy =new Array(new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5));    
+var detail_drama =new Array(new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5));    
+var detail_horror =new Array(new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5));    
+var detail_romance =new Array(new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5));    
+var detail_sciencefiction =new Array(new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5));    
+var detail_thriller =new Array(new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5),new Array(5));
+    
+
+    function load_genre1(data) {
+    var allRows = data.split(/\r?\n|\r/);
+    var temp2 = 1;
+      //console.log(detail_action);
+    for (var singleRow = 0; singleRow < allRows.length - 1; singleRow++) {
+      var rowCells = allRows[singleRow].split(',');
+      if (singleRow != 0) {
+        document.getElementById('url_link' + singleRow).alt = rowCells[2];
+        detail_action[singleRow-1][0] = rowCells[3];
+        detail_action[singleRow-1][1] = rowCells[6];
+        detail_action[singleRow-1][2] = rowCells[7];
+        detail_action[singleRow-1][3] = rowCells[8];
+        detail_action[singleRow-1][4] = rowCells[9];
+        document.getElementById('url_link' + temp2).src = "/static/action/image/" + rowCells[2] + " movie.jpg";
+        temp2++;
+      }
+    };
+  };
+
+  function load_genre2(data) {
+    var allRows = data.split(/\r?\n|\r/);
+    var temp2 = 1;
+    for (var singleRow = 0; singleRow < allRows.length - 1; singleRow++) {
+      var rowCells = allRows[singleRow].split(',');
+
+      if (singleRow==19)
+        rowCells[2]="Crazy";
+      if (singleRow != 0) {
+        document.getElementById('2url_link' + singleRow).alt = rowCells[2];
+        detail_comedy[singleRow-1][0] = rowCells[3];
+        detail_comedy[singleRow-1][1] = rowCells[6];
+        detail_comedy[singleRow-1][2] = rowCells[7];
+        detail_comedy[singleRow-1][3] = rowCells[8];
+        detail_comedy[singleRow-1][4] = rowCells[9];
+        document.getElementById('2url_link' + temp2).src = "/static/comedy/image/" + rowCells[2] + " movie.jpg";
+        temp2++;
+      }
+    };
+  };
+
+  function load_genre3(data) {
+    var allRows = data.split(/\r?\n|\r/);
+    var temp2 = 1;
+    for (var singleRow = 0; singleRow < allRows.length - 1; singleRow++) {
+      var rowCells = allRows[singleRow].split(',');
+
+      if (singleRow != 0) {
+        document.getElementById('3url_link' + singleRow).alt = rowCells[2];
+        detail_drama[singleRow-1][0] = rowCells[3];
+        detail_drama[singleRow-1][1] = rowCells[6];
+        detail_drama[singleRow-1][2] = rowCells[7];
+        detail_drama[singleRow-1][3] = rowCells[8];
+        detail_drama[singleRow-1][4] = rowCells[9];
+        document.getElementById('3url_link' + temp2).src = "/static/drama/image/" + rowCells[2] + " movie.jpg";
+        temp2++;
+      }
+    };
+  };
+
+  function load_genre4(data) {
+    var allRows = data.split(/\r?\n|\r/);
+    var temp2 = 1;
+    for (var singleRow = 0; singleRow < allRows.length - 1; singleRow++) {
+      var rowCells = allRows[singleRow].split(',');
+
+      if (singleRow != 0) {
+        document.getElementById('4url_link' + singleRow).alt = rowCells[2];
+        detail_horror[singleRow-1][0] = rowCells[3];
+        detail_horror[singleRow-1][1] = rowCells[6];
+        detail_horror[singleRow-1][2] = rowCells[7];
+        detail_horror[singleRow-1][3] = rowCells[8];
+        detail_horror[singleRow-1][4] = rowCells[9];
+        document.getElementById('4url_link' + temp2).src = "/static/horror/image/" + rowCells[2] + " movie.jpg";
+        temp2++;
+      }
+    };
+  };
+
+  function load_genre5(data) {
+    var allRows = data.split(/\r?\n|\r/);
+    var temp2 = 1;
+    for (var singleRow = 0; singleRow < allRows.length - 1; singleRow++) {
+      var rowCells = allRows[singleRow].split(',');
+
+      if (singleRow != 0) {
+        document.getElementById('5url_link' + singleRow).alt = rowCells[2];
+        detail_romance[singleRow-1][0] = rowCells[3];
+        detail_romance[singleRow-1][1] = rowCells[6];
+        detail_romance[singleRow-1][2] = rowCells[7];
+        detail_romance[singleRow-1][3] = rowCells[8];
+        detail_romance[singleRow-1][4] = rowCells[9];
+        document.getElementById('5url_link' + temp2).src = "/static/romance/image/" + rowCells[2] + " movie.jpg";
+        temp2++;
+      }
+    };
+  };
+
+  function load_genre6(data) {
+    var allRows = data.split(/\r?\n|\r/);
+    var temp2 = 1;
+    for (var singleRow = 0; singleRow < allRows.length - 1; singleRow++) {
+      var rowCells = allRows[singleRow].split(',');
+
+      if (singleRow==18)
+        rowCells[2]="Transformers Revenge of the Fallen";
+      if (singleRow==19)
+        rowCells[2]="Transformers Age of Extinction";
+      if (singleRow==21)
+        rowCells[2]="2001 A Space Odyssey";
+      if (singleRow != 0) {
+        document.getElementById('6url_link' + singleRow).alt = rowCells[2];
+        detail_sciencefiction[singleRow-1][0] = rowCells[3];
+        detail_sciencefiction[singleRow-1][1] = rowCells[6];
+        detail_sciencefiction[singleRow-1][2] = rowCells[7];
+        detail_sciencefiction[singleRow-1][3] = rowCells[8];
+        detail_sciencefiction[singleRow-1][4] = rowCells[9];
+        document.getElementById('6url_link' + temp2).src = "/static/sciencefiction/image/" + rowCells[2] + " movie.jpg";
+        temp2++;
+      }
+    };
+  };
+
+  function load_genre7(data) {
+    var allRows = data.split(/\r?\n|\r/);
+    var temp2 = 1;
+    for (var singleRow = 0; singleRow < allRows.length - 1; singleRow++) {
+      var rowCells = allRows[singleRow].split(',');
+
+      if (singleRow != 0) {
+        document.getElementById('7url_link' + singleRow).alt = rowCells[2];
+        detail_thriller[singleRow-1][0] = rowCells[3];
+        detail_thriller[singleRow-1][1] = rowCells[6];
+        detail_thriller[singleRow-1][2] = rowCells[7];
+        detail_thriller[singleRow-1][3] = rowCells[8];
+        detail_thriller[singleRow-1][4] = rowCells[9];
+        document.getElementById('7url_link' + temp2).src = "/static/thriller/image/" + rowCells[2] + " movie.jpg";
+        temp2++;
+      }
+    };
+  };
+
+  /*이거는 json 파일로 링크 직접 불러와서 넣었던 것
+      function load_genre(data){
+          var allRows = data.split(/\r?\n|\r/); 
+          var test_link;
+          var temp2=1;
+          for(var singleRow=0;singleRow<allRows.length-1;singleRow++){
+               
+              var rowCells =  allRows[singleRow].split(',');
+             
+              //console.log(rowCells); 
+              if(singleRow != 0 && singleRow !=19){
+                 document.getElementById('url_link'+singleRow).alt = rowCells[2];
+                 
+                 $.getJSON("/static/comedy/"+rowCells[2]+" movie.json", function(data){
+                     
+                      //console.log(temp2);
+                     
+                      test_link = data.value[0].contentUrl
+                    //  console.log(test_link);
+                   //   console.log(temp2);
+                      document.getElementById('url_link'+temp2).src = test_link;
+                      
+                      temp2++;
+                      
+                  
+                 }); 
+                  
+              }
+              
+          
+          
+          };
+      };
+  */
+  $(document).ready(function() {
+    $("img[id*='url_link']").click(function() {
+      $('#movie_detail').show(); 
+      var image_id = this.id; 
+      var temp=image_id.substring(image_id.length, image_id.length-2);
+      var row;
+        switch (temp){
+            case 'k1' :
+                row=1;        break;
+            case 'k2' :
+                row=2;        break;
+            case 'k3' :
+                row=3;        break;
+            case 'k4' :
+                row=4;        break;
+            case 'k5' :
+                row=5;        break;
+            case 'k6' :
+                row=6;        break;
+            case 'k7' :
+                row=7;        break;
+            case 'k8' :
+                row=8;        break;
+            case 'k9' :
+                row=9;        break;
+            case '10' :
+                row=10;        break;
+            case '11' :
+                row=11;        break;
+            case '12' :
+                row=12;        break;
+            case '13' :
+                row=13;        break;
+            case '14' :
+                row=14;        break;
+            case '15' :
+                row=15;        break;
+            case '16' :
+                row=16;        break;
+            case '17' :
+                row=17;        break;
+            case '18' :
+                row=18;        break;
+            case '19' :
+                row=19;        break;
+            case '20' :
+                row=20;        break;
+            case '21' :
+                row=21;        break;
+            default :         break;
+        }
+      var image_link = jQuery('#'+image_id).attr("src");
+      $('#detail_subject').text(jQuery('#'+image_id).attr("alt"));
+      if(image_id.startsWith('url_link')){
+        $('#detail_tagline').text(detail_action[row-1][2]);//언어, 오버뷰, 태그라인, 런타임, 평점 
+        $('#detail_language').text(detail_action[row-1][0]);
+        $('#detail_overview').text(detail_action[row-1][1]);
+        $('#detail_runtime').text(detail_action[row-1][3]); 
+        $('#detail_vote').text(detail_action[row-1][4]); 
+      }
+      else if(image_id.startsWith('2url_link')){          
+        $('#detail_tagline').text(detail_comedy[row-1][2]);
+        $('#detail_language').text(detail_action[row-1][0]);
+        $('#detail_overview').text(detail_comedy[row-1][1]);
+        $('#detail_runtime').text(detail_comedy[row-1][3]); 
+        $('#detail_vote').text(detail_comedy[row-1][4]); 
+      }
+      else if(image_id.startsWith('3url_link')){          
+        $('#detail_tagline').text(detail_drama[row-1][2]);
+        $('#detail_language').text(detail_action[row-1][0]);
+        $('#detail_overview').text(detail_drama[row-1][1]);
+        $('#detail_runtime').text(detail_drama[row-1][3]); 
+        $('#detail_vote').text(detail_drama[row-1][4]); 
+      }
+      else if(image_id.startsWith('4url_link')){          
+        $('#detail_tagline').text(detail_horror[row-1][2]);
+        $('#detail_language').text(detail_action[row-1][0]);
+        $('#detail_overview').text(detail_horror[row-1][1]);
+        $('#detail_runtime').text(detail_horror[row-1][3]); 
+        $('#detail_vote').text(detail_horror[row-1][4]); 
+      }
+      else if(image_id.startsWith('5url_link')){          
+        $('#detail_tagline').text(detail_romance[row-1][2]);
+        $('#detail_language').text(detail_action[row-1][0]);
+        $('#detail_overview').text(detail_romance[row-1][1]);
+        $('#detail_runtime').text(detail_romance[row-1][3]); 
+        $('#detail_vote').text(detail_romance[row-1][4]); 
+      }
+      else if(image_id.startsWith('6url_link')){          
+        $('#detail_tagline').text(detail_sciencefiction[row-1][2]);
+        $('#detail_language').text(detail_action[row-1][0]);
+        $('#detail_overview').text(detail_sciencefiction[row-1][1]);
+        $('#detail_runtime').text(detail_sciencefiction[row-1][3]); 
+        $('#detail_vote').text(detail_sciencefiction[row-1][4]); 
+      }
+      else if(image_id.startsWith('7url_link')){          
+        $('#detail_tagline').text(detail_thriller[row-1][2]);
+        $('#detail_language').text(detail_action[row-1][0]);
+        $('#detail_overview').text(detail_thriller[row-1][1]);
+        $('#detail_runtime').text(detail_thriller[row-1][3]); 
+        $('#detail_vote').text(detail_thriller[row-1][4]); 
+      }
+      document.getElementById('detail_image').src = image_link; 
+      $('.movieimg').addClass("backsnow");
+    });
+    $('#close').click(function() {
+      $('#movie_detail').hide();
+      $('.movieimg').removeClass("backsnow");
+    });
+  });
+    
+    
+    
+    
+
+  $(document).keydown(function(event) {
+    if (event.keyCode == '27') {
+      $('#movie_detail').hide();
+      $('.movieimg').removeClass("backsnow");
+    }
+  });
+	
+ function search_filter() { // 검색 함수
+      var serarch_value;
+      search_value = document.getElementById("search_value").value;
+      $.ajax({
+        url: "/static/movies_metadata_search.csv",
+        dataType: 'text',
+        success: function(data) {
+          var allRows = data.split(/\r?\n|\r/);
+          var temp = 1;
+          for (var singleRow = 1; singleRow < allRows.length - 1; singleRow++) {
+            var rowCells = allRows[singleRow].split(',');
+            //console.log(rowCells[0]);
+            if (rowCells[0].indexOf(search_value) != -1) {
+
+              //검색결과를 요소에 추가하는 부분?
+              //var search_li = document.createElement('li');
+              if (temp < 11)
+                document.getElementById("search_list" + temp).value = rowCells[0];
+
+              //rowCells[0]안에 검색결과 데이터가 들어있음
+              //console.log(rowCells[0]);
+              //alert("ok");
+              //break;
+              //document.getElementById("search_value").style.display = "flex";
+
+              temp++;
+            } else {
+              //console.log(rowCells[0]);
+              //alert("XX");
+              //document.getElementById("search_value").style.display = "none";
+              //break;
+            }
+
+          };
+         //console.log("success load");
+        }
+      });
+     
+      $.ajax({
+        url: "/static/movies_search.csv",
+        dataType: 'text',
+        success: function(data) {
+            var allRows = data.split(/\r?\n|\r/);
+            var temp2 = 1;
+              //console.log(detail_action);
+            for (var singleRow = 0; singleRow < allRows.length - 1; singleRow++) {
+              var rowCells = allRows[singleRow].split(',');
+              if (singleRow != 0) {
+                  if(rowCells[2]==search_value){       
+                      $('#detail_tagline').text(rowCells[7]);
+                      $('#detail_language').text(rowCells[3]);
+                      $('#detail_overview').text(rowCells[6]);
+                      $('#detail_runtime').text(rowCells[8]); 
+                      $('#detail_vote').text(rowCells[9]); 
+                  }
+                  temp2++;
+              }
+            };
+        }
+    });
+ };
+    
+  
+
+
+$(document).ready(function() {
+    $("button[id*='button-addon2']").click(function() {
+    var search_term = document.getElementById("search_value").value;
+        
+         $.ajax({
+            url: 'search_restful',
+            data: {'search_term': search_term},
+            success: function(data) { 
+                 document.getElementById('detail_image').src = data; 
+                 $('#detail_subject').text(search_term);
+                  $('#movie_detail').show(); 
+                  $('.movieimg').addClass("backsnow");
+            }
+        });
+    });
+    
+    $('#close').click(function() {
+      $('#movie_detail').hide();
+      $('.movieimg').removeClass("backsnow");
+    });
+  });
+    
+    
+ var selected_cnt =[0,0,0,0,0,0,0]; //순서대로 action, comedy, drama, horror, romance, sciencefiction, thriller
+    
+ var selected=["{{user.selected1}}", "{{user.selected2}}", "{{user.selected3}}", "{{user.selected4}}", "{{user.selected5}}"];
+    
+for(var i=0;i<5;i++){  
+     if(selected[i].includes("action")){
+         selected_cnt[0]+=1;
+     }
+     else if(selected[i].includes("comedy")){
+         selected_cnt[1]+=1;
+     }
+     else if(selected[i].includes("drama")){
+         selected_cnt[2]+=1;
+     }
+     else if(selected[i].includes("horror")){
+         selected_cnt[3]+=1;
+     }
+     else if(selected[i].includes("romance")){
+         selected_cnt[4]+=1;
+     }
+     else if(selected[i].includes("sciencefiction")){
+         selected_cnt[5]+=1;
+     }
+     else if(selected[i].includes("thriller")){
+         selected_cnt[6]+=1;
+     }
+}
+    
+    
+    var max = Math.max.apply(null, selected_cnt);
+    //alert(selected_cnt.indexOf(max));
+    if(selected_cnt.indexOf(max)==0){
+        $("#carouselExampleControls").insertAfter("#searchbar");
+    }
+    else if(selected_cnt.indexOf(max)==1){
+        $("#carouselExampleControls2").insertAfter("#searchbar");
+    }
+    else if(selected_cnt.indexOf(max)==2){
+        $("#carouselExampleControls3").insertAfter("#searchbar");        
+    }
+    else if(selected_cnt.indexOf(max)==3){
+        $("#carouselExampleControls4").insertAfter("#searchbar");        
+    }
+    else if(selected_cnt.indexOf(max)==4){
+        $("#carouselExampleControls5").insertAfter("#searchbar");        
+    }
+    else if(selected_cnt.indexOf(max)==5){
+        $("#carouselExampleControls6").insertAfter("#searchbar");        
+    }
+    else if(selected_cnt.indexOf(max)==6){
+        $("#carouselExampleControls7").insertAfter("#searchbar");        
+    }
+    
+</script>
+
+
+
+</html>

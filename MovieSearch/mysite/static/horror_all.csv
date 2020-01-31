@@ -1,0 +1,2620 @@
+id,genres,title,original_language,vote_count,popularity
+348,HorrorActionThrillerScience Fiction,Alien,en,4564.0,23.37742
+381288,HorrorThriller,Split,en,4461.0,28.920839
+694,HorrorThriller,The Shining,en,3890.0,19.611589000000002
+679,HorrorActionThrillerScience Fiction,Aliens,en,3282.0,21.761179000000002
+138843,HorrorThriller,The Conjuring,en,3169.0,14.901689999999999
+82654,HorrorComedyRomance,Warm Bodies,en,2698.0,10.430238000000001
+126889,HorrorScience FictionThriller,Alien: Covenant,en,2677.0,72.884078
+578,HorrorThrillerAdventure,Jaws,en,2628.0,19.726114000000003
+747,HorrorComedy,Shaun of the Dead,en,2479.0,14.902948
+49017,HorrorActionDramaFantasyWar,Dracula Untold,en,2439.0,16.316318
+22970,HorrorThriller,The Cabin in the Woods,en,2314.0,14.811957999999999
+176,HorrorMysteryCrime,Saw,en,2255.0,23.508433
+1576,HorrorActionScience Fiction,Resident Evil,en,2100.0,7.781292999999999
+259693,Horror,The Conjuring 2,en,2018.0,14.767317000000002
+238636,HorrorThriller,The Purge: Anarchy,en,2008.0,27.756026000000002
+395992,HorrorScience FictionThriller,Life,en,1959.0,36.263803
+36647,HorrorAction,Blade,en,1950.0,15.043454
+270303,HorrorThriller,It Follows,en,1894.0,20.359336
+170,HorrorThrillerScience Fiction,28 Days Later,en,1816.0,17.656951
+49018,HorrorThriller,Insidious,en,1775.0,17.24814
+109428,Horror,Evil Dead,en,1754.0,12.01525
+565,HorrorMystery,The Ring,en,1720.0,13.740965
+1933,HorrorDramaMysteryThriller,The Others,en,1708.0,11.046007000000001
+7131,HorrorAdventureAction,Van Helsing,en,1674.0,12.643312
+755,HorrorActionThrillerCrime,From Dusk Till Dawn,en,1644.0,15.339153
+1091,HorrorMysteryScience Fiction,The Thing,en,1629.0,16.83125
+332567,HorrorDramaThriller,The Shallows,en,1619.0,13.689175
+82507,HorrorThrillerMystery,Sinister,en,1611.0,12.490637
+250546,Horror,Annabelle,en,1588.0,23.242452
+628,HorrorRomance,Interview with the Vampire,en,1558.0,11.970205
+132232,Horror,Mama,en,1452.0,16.018525
+9532,Horror,Final Destination,en,1416.0,14.961416
+298312,HorrorThriller,The Visit,en,1405.0,15.021057999999998
+3021,HorrorThriller,1408,en,1372.0,9.196883999999999
+23827,HorrorMystery,Paranormal Activity,en,1351.0,12.706424
+7737,HorrorActionScience Fiction,Resident Evil: Extinction,en,1308.0,3.009134
+21208,HorrorThrillerMystery,Orphan,en,1296.0,8.730934
+215,Horror,Saw II,en,1288.0,15.399863
+1577,HorrorActionScience Fiction,Resident Evil: Apocalypse,en,1286.0,7.850797
+91586,HorrorThriller,Insidious: Chapter 2,en,1237.0,9.040324
+1562,HorrorThrillerScience Fiction,28 Weeks Later,en,1225.0,12.884191
+377,Horror,A Nightmare on Elm Street,en,1212.0,13.694713
+345911,HorrorThriller,Lights Out,en,1174.0,11.494907000000001
+321258,HorrorMysteryThriller,The Boy,en,1133.0,17.028854
+1992,HorrorActionThriller,Planet Terror,en,1109.0,10.370384
+214,HorrorThrillerCrime,Saw III,en,1104.0,14.938035000000001
+588,HorrorMystery,Silent Hill,en,1093.0,7.9384570000000005
+277685,HorrorThriller,Unfriended,en,1092.0,10.07817
+2667,HorrorMystery,The Blair Witch Project,en,1090.0,14.838385999999998
+157547,Horror,Oculus,en,1079.0,8.698042999999998
+14564,Horror,Rings,en,1075.0,24.535733
+948,HorrorThriller,Halloween,en,1066.0,13.672759
+9358,HorrorMystery,Final Destination 2,en,1046.0,12.638573
+9426,HorrorScience Fiction,The Fly,en,1038.0,13.534589000000002
+242512,Horror,Ouija,en,1006.0,13.288564000000001
+9286,HorrorMystery,Final Destination 3,en,1000.0,11.872997
+13310,HorrorDrama,Let the Right One In,sv,997.0,7.274236999999999
+16871,HorrorThriller,Drag Me to Hell,en,995.0,15.809588
+7340,HorrorThriller,Carrie,en,977.0,9.277692
+571,Horror,The Birds,en,959.0,11.591462
+8329,HorrorMystery,[REC],es,954.0,8.504511
+663,HorrorThrillerCrime,Saw IV,en,938.0,12.233863000000001
+41446,HorrorMystery,Scream 4,en,930.0,10.000721
+243688,HorrorThriller,Poltergeist,en,924.0,15.968492000000001
+1690,Horror,Hostel,en,913.0,12.093928
+764,Horror,The Evil Dead,en,913.0,10.421679
+55779,HorrorMystery,Final Destination 5,en,892.0,12.912491000000001
+805,HorrorDramaMystery,Rosemary's Baby,en,892.0,11.504558
+1970,HorrorMysteryThriller,The Grudge,en,889.0,9.740827000000001
+60935,HorrorScience FictionMysteryThriller,The Thing,en,876.0,10.169411
+2907,HorrorComedyFantasy,The Addams Family,en,871.0,12.962525
+4233,HorrorMystery,Scream 2,en,856.0,11.264845
+19912,HorrorMystery,The Final Destination,en,851.0,8.805723
+11917,HorrorThrillerCrime,Saw V,en,848.0,10.165499
+44040,HorrorMysteryThriller,Devil,en,836.0,7.094276
+376570,HorrorThriller,Hush,en,834.0,7.205636
+609,Horror,Poltergeist,en,811.0,11.776326
+397243,HorrorMystery,The Autopsy of Jane Doe,en,799.0,31.772396
+256274,HorrorThriller,"As Above, So Below",en,788.0,10.846585000000001
+83899,HorrorThrillerMystery,You're Next,en,787.0,6.464826
+4513,HorrorThriller,30 Days of Night,en,784.0,8.764548
+23437,HorrorMysteryThriller,A Nightmare on Elm Street,en,771.0,10.40191
+622,HorrorMysteryThriller,The Ninth Gate,en,768.0,11.316349
+765,HorrorComedyFantasy,Evil Dead II,en,760.0,13.520764000000002
+41439,HorrorCrime,Saw: The Final Chapter,en,758.0,16.626655
+768,HorrorMysteryThriller,From Hell,en,758.0,7.790139999999999
+22804,HorrorMystery,Saw VI,en,755.0,17.360894000000002
+8413,HorrorScience FictionMystery,Event Horizon,en,752.0,11.335072
+4234,HorrorMystery,Scream 3,en,749.0,9.738371
+335796,HorrorThriller,Ouija: Origin of Evil,en,735.0,10.182974
+41436,HorrorThriller,Paranormal Activity 2,en,734.0,7.388933
+8922,HorrorThriller,Jeepers Creepers,en,731.0,10.414363
+9792,HorrorThriller,The Hills Have Eyes,en,726.0,18.960549
+100241,HorrorThriller,"I, Frankenstein",en,701.0,9.415817
+3597,HorrorThrillerMystery,I Know What You Did Last Summer,en,698.0,7.4171570000000004
+313922,HorrorCrimeThriller,Green Room,en,696.0,8.4702
+10066,Horror,House of Wax,en,696.0,7.163099000000001
+72571,Horror,Paranormal Activity 3,en,685.0,10.996308
+37707,HorrorThrillerScience Fiction,Splice,en,682.0,8.181407
+9373,Horror,The Texas Chainsaw Massacre,en,670.0,7.810067999999999
+6537,HorrorDramaThriller,The Orphanage,es,652.0,16.213592000000002
+9902,HorrorThriller,Wrong Turn,en,652.0,14.079718
+22894,Horror,Legion,en,643.0,13.795875
+4970,HorrorThriller,Gothika,en,643.0,10.939066
+26466,Horror,Triangle,en,623.0,10.217404
+4488,Horror,Friday the 13th,en,622.0,12.146747
+30497,Horror,The Texas Chain Saw Massacre,en,617.0,15.526413
+58151,HorrorComedy,Fright Night,en,617.0,9.665251
+6466,Horror,Freddy vs. Jason,en,608.0,14.015739000000002
+10065,HorrorThrillerDrama,The Amityville Horror,en,606.0,13.088552
+10585,HorrorThriller,Child's Play,en,605.0,19.827545999999998
+283445,Horror,Sinister 2,en,605.0,17.602928
+287424,Horror,Maggie,en,604.0,12.020933
+287903,HorrorComedyFantasy,Krampus,en,601.0,15.553313000000001
+241257,HorrorMysteryThriller,Regression,en,600.0,10.03628
+923,Horror,Dawn of the Dead,en,597.0,19.24201
+10331,Horror,Night of the Living Dead,en,591.0,14.384198000000001
+9539,HorrorDramaThriller,Martyrs,fr,581.0,7.716326
+28355,HorrorMysteryThriller,Case 39,en,580.0,9.644085
+82990,Horror,Paranormal Activity 4,en,574.0,6.188286
+814,HorrorComedy,An American Werewolf in London,en,571.0,13.390801999999999
+13207,Horror,Friday the 13th,en,566.0,14.20229
+82505,HorrorThriller,House at the End of the Street,en,566.0,8.513457
+8461,HorrorThrillerCrime,Funny Games,en,562.0,6.841586
+1255,HorrorDramaScience Fiction,The Host,ko,546.0,9.386916000000001
+1547,HorrorComedy,The Lost Boys,en,545.0,9.099731
+9645,HorrorMysteryThriller,Ghost Ship,en,540.0,13.955376000000001
+14001,Horror,Dead Silence,en,533.0,10.763622
+37169,Horror,The Human Centipede (First Sequence),en,528.0,12.84585
+294963,HorrorWesternAdventureDrama,Bone Tomahawk,en,511.0,10.480166
+2082,Horror,Halloween,en,510.0,11.607678
+77883,HorrorThriller,The Possession,en,509.0,7.2864770000000005
+9276,HorrorMysteryScience Fiction,The Faculty,en,500.0,13.462253
+13515,HorrorMysteryThriller,Mirrors,en,494.0,8.612618
+93856,HorrorThriller,Chernobyl Diaries,en,492.0,6.76513
+794,HorrorThriller,The Omen,en,485.0,16.641277
+329440,HorrorThriller,The Forest,en,478.0,7.384688000000001
+76617,HorrorThriller,Texas Chainsaw 3D,en,475.0,7.214828
+71469,HorrorActionThrillerScience Fiction,The Darkest Hour,en,474.0,8.127392
+11460,HorrorThriller,Red Eye,en,471.0,6.336926999999999
+77949,HorrorThriller,The Awakening,en,470.0,9.336568
+9003,Horror,Hellraiser,en,464.0,10.81305
+1691,Horror,Hostel: Part II,en,464.0,8.916747
+837,HorrorMysteryScience Fiction,Videodrome,en,464.0,7.9450389999999995
+227348,HorrorThriller,Paranormal Activity: The Marked Ones,en,455.0,8.898522999999999
+11096,HorrorMysteryThriller,Hide and Seek,en,455.0,6.102059
+9378,HorrorThriller,Thir13en Ghosts,en,447.0,8.819223
+9357,HorrorThriller,One Hour Photo,en,444.0,10.753445
+8843,HorrorScience FictionThriller,The Cell,en,442.0,13.234894
+377264,HorrorScience FictionThriller,Morgan,en,436.0,12.521071000000001
+146301,HorrorThriller,Paranormal Activity: The Ghost Dimension,en,435.0,9.185701
+167032,HorrorThriller,Curse of Chucky,en,417.0,15.771245
+13510,HorrorThriller,Eden Lake,en,415.0,12.515435
+10779,HorrorComedy,The Frighteners,en,413.0,12.09096
+579,HorrorThriller,Jaws 2,en,412.0,11.21306
+10781,Horror,The Texas Chainsaw Massacre: The Beginning,en,412.0,10.516112
+73861,HorrorCrimeThriller,A Serbian Film,sr,408.0,10.431742
+10294,HorrorThriller,Vacancy,en,406.0,7.712308999999999
+11906,Horror,Suspiria,it,396.0,10.050219
+11683,Horror,Land of the Dead,en,395.0,9.478117
+8769,Horror,Christine,en,392.0,7.106757000000001
+23202,HorrorThriller,Trick 'r Treat,en,389.0,10.304654
+10776,HorrorComedyMusic,Little Shop of Horrors,en,389.0,7.409178999999999
+763,HorrorComedy,Braindead,en,388.0,13.645567999999999
+3600,HorrorMysteryThriller,I Still Know What You Did Last Summer,en,381.0,11.023042
+368031,HorrorThriller,Friend Request,en,376.0,14.282584
+11618,HorrorThrillerFantasyMystery,The Haunting,en,374.0,8.967638
+13788,HorrorThrillerMystery,The Unborn,en,373.0,7.108555
+112454,Horror,Clown,en,372.0,6.428814
+293970,HorrorComedy,The Final Girls,en,371.0,6.679341
+11281,HorrorThriller,Halloween II,en,370.0,13.501144
+299245,HorrorThriller,The Gallows,en,370.0,7.51505
+10014,Horror,A Nightmare on Elm Street Part 2: Freddy's Revenge,en,367.0,8.668146
+11932,HorrorComedy,Bride of Chucky,en,366.0,13.018491000000001
+282813,Horror,The Pyramid,en,365.0,9.312354
+21407,HorrorThriller,The Collector,en,365.0,6.727803999999999
+10072,HorrorThriller,A Nightmare on Elm Street 3: Dream Warriors,en,363.0,10.035081
+253306,HorrorComedyThriller,Housebound,en,362.0,5.343018
+80280,Horror,[REC]³ Genesis,es,360.0,5.3350029999999995
+50357,HorrorThrillerScience Fiction,Apollo 18,en,359.0,10.711742
+418078,HorrorMysteryThriller,It Comes at Night,en,357.0,20.504587
+155084,HorrorThriller,13 Sins,en,355.0,9.067788
+9793,HorrorThriller,The Hills Have Eyes 2,en,355.0,5.559312
+13812,HorrorScience FictionThriller,Quarantine,en,343.0,6.140116
+335866,HorrorScience Fiction,Circle,en,342.0,6.735649
+86597,HorrorMysteryThriller,The Tall Man,en,339.0,7.96508
+11601,HorrorMysteryThriller,Stir of Echoes,en,334.0,5.875605999999999
+45657,HorrorThriller,The Ward,en,334.0,5.727987000000001
+11547,Horror,Cabin Fever,en,332.0,6.4666879999999995
+38358,HorrorDramaThriller,The Last Exorcism,en,330.0,6.3971089999999995
+297608,HorrorMysteryThriller,The Taking of Deborah Logan,en,327.0,5.418357
+40264,HorrorComedy,Vampires Suck,en,326.0,8.129407
+635,HorrorMysteryThriller,Angel Heart,en,326.0,7.290872
+168098,HorrorScience FictionThriller,Cell,en,325.0,10.752519
+103620,Horror,Maniac,en,322.0,8.804658
+9725,HorrorThriller,Friday the 13th Part 2,en,321.0,8.710824
+48572,HorrorActionThriller,Red State,en,321.0,6.340655
+11336,HorrorScience FictionThriller,The Dead Zone,en,320.0,11.194448
+71668,HorrorThrillerComedy,Piranha 3DD,en,319.0,5.6152050000000004
+790,Horror,The Fog,en,318.0,9.194572
+14451,HorrorComedy,Dead Snow,no,313.0,7.9747259999999995
+16307,HorrorMusicMysteryThriller,The Wicker Man,en,313.0,7.2069410000000005
+2662,Horror,House of 1000 Corpses,en,310.0,11.00913
+2671,HorrorThriller,Ringu,ja,310.0,6.4861260000000005
+2654,HorrorMysteryThriller,In the Mouth of Madness,en,307.0,8.497643
+11675,HorrorThriller,Halloween: H20,en,306.0,8.619067999999999
+11351,HorrorThriller,Jeepers Creepers 2,en,304.0,14.786032
+159117,HorrorThriller,V/H/S/2,en,300.0,10.714779
+11470,HorrorScience Fiction,Jason X,en,298.0,7.793873
+11596,HorrorThrillerMysteryFantasy,New Nightmare,en,297.0,9.860522
+134597,HorrorThriller,The Collection,en,294.0,8.031713
+9877,HorrorThriller,Urban Legend,en,293.0,6.0814010000000005
+2046,HorrorDramaThrillerMystery,The Gift,en,288.0,7.886926
+9885,HorrorThriller,Wolf Creek,en,288.0,7.483385
+1975,HorrorThriller,The Grudge 2,en,288.0,6.768803999999999
+10131,HorrorThriller,A Nightmare on Elm Street 4: The Dream Master,en,287.0,8.120317
+11284,HorrorThrillerComedy,Freddy's Dead: The Final Nightmare,en,280.0,11.560358
+11797,Horror,Fright Night,en,279.0,7.472509
+10226,HorrorThrillerMystery,High Tension,fr,279.0,5.460821
+11549,HorrorScience Fiction,Invasion of the Body Snatchers,en,277.0,6.135431
+8408,HorrorScience Fiction,Day of the Dead,en,276.0,8.801822
+13186,HorrorThriller,Wrong Turn 2: Dead End,en,275.0,16.34615
+24150,Horror,Halloween II,en,273.0,7.490807000000001
+71670,Horror,Hostel: Part III,en,273.0,7.1304110000000005
+10053,HorrorThriller,When a Stranger Calls,en,273.0,5.149058
+292280,HorrorThriller,The Bye Bye Man,en,262.0,19.225832
+254191,Horror,Honeymoon,en,261.0,6.107378
+252171,HorrorRomance,A Girl Walks Home Alone at Night,en,258.0,6.039895
+75761,HorrorComedy,John Dies at the End,en,257.0,9.143819
+293670,HorrorMystery,The Wailing,ko,257.0,8.141819
+9728,HorrorThriller,Friday the 13th Part III,en,257.0,7.99229
+10972,HorrorMystery,Session 9,en,255.0,14.242234
+138,Horror,Dracula,en,254.0,7.503125999999999
+193612,Horror,The Quiet Ones,en,253.0,6.322844
+9825,HorrorComedyActionScience FictionThriller,Lake Placid,en,251.0,13.787107999999998
+134366,Horror,Grave Encounters 2,en,251.0,9.021941
+10160,HorrorThriller,A Nightmare on Elm Street 5: The Dream Child,en,251.0,7.534739
+215830,HorrorThrillerMystery,Open Grave,en,250.0,5.72991
+1730,HorrorDramaMysteryThriller,INLAND EMPIRE,en,249.0,6.610774
+9538,HorrorScience FictionThriller,Scanners,en,248.0,10.574038999999999
+10307,Horror,Stigmata,en,248.0,9.304144
+104755,HorrorThriller,The Lords of Salem,en,244.0,9.981121
+9730,HorrorThriller,Friday the 13th: The Final Chapter,en,241.0,10.175913000000001
+20126,HorrorMysteryThriller,Deep Red,it,237.0,8.543908
+123105,HorrorScience FictionThriller,The Bay,en,237.0,6.770051
+11252,HorrorMysteryThriller,Psycho,en,233.0,6.715897999999999
+10676,HorrorMysteryScience Fiction,Halloween III: Season of the Witch,en,232.0,6.066618
+11850,HorrorMysteryScience FictionThriller,Invasion of the Body Snatchers,en,231.0,5.219641
+11442,HorrorThriller,Halloween: Resurrection,en,230.0,8.502529
+16281,HorrorComedyFantasy,Creepshow,en,228.0,10.434018
+23823,HorrorThriller,Wrong Turn 3: Left for Dead,en,227.0,12.257121000000001
+11880,HorrorActionThriller,Dog Soldiers,en,227.0,10.073784
+9064,HorrorThriller,Hellbound: Hellraiser II,en,227.0,8.541732000000001
+125509,HorrorThriller,Wrong Turn 5: Bloodlines,en,225.0,10.556938
+58428,HorrorThriller,The Innkeepers,en,223.0,8.560725999999999
+71672,HorrorThriller,Wrong Turn 4: Bloody Beginnings,en,221.0,10.039999
+10225,HorrorMysteryThriller,Friday the 13th Part VI: Jason Lives,en,219.0,8.122042
+79316,Horror,Devil's Due,en,218.0,10.591125
+74725,HorrorThrillerCrime,Kill List,en,214.0,15.014569
+52274,HorrorThriller,Julia's Eyes,es,214.0,5.020398
+41505,HorrorMysteryThriller,Shelter,en,213.0,11.634377
+13220,HorrorThriller,Splinter,en,213.0,7.498032000000001
+254474,HorrorActionComedy,Zombeavers,en,213.0,5.599039
+11357,HorrorThriller,Halloween 4: The Return of Michael Myers,en,212.0,6.199806
+11377,HorrorMysteryThriller,House on Haunted Hill,en,211.0,10.187278
+9022,HorrorMysteryThriller,All the Boys Love Mandy Lane,en,211.0,9.935837
+166271,HorrorMysteryThriller,Haunter,en,211.0,8.753381
+210947,HorrorThriller,Afflicted,en,210.0,8.932319999999999
+11069,HorrorActionComedyScience Fiction,Tremors 2: Aftershocks,en,209.0,9.877868
+229,HorrorScience Fiction,Bride of Frankenstein,en,208.0,7.000417
+46420,Horror,The Loved Ones,en,208.0,5.624576
+290637,HorrorThriller,Pay the Ghost,en,204.0,7.935683
+146203,HorrorThriller,The Last Exorcism Part II,en,204.0,5.874458
+3603,HorrorComedy,Black Sheep,en,201.0,7.434577
+357096,HorrorThriller,I Spit on Your Grave III: Vengeance is Mine,en,200.0,21.505988000000002
+9731,HorrorThriller,Friday the 13th: A New Beginning,en,200.0,9.094477000000001
+241842,HorrorActionComedy,Dead Snow 2: Red vs. Dead,no,199.0,10.287127
+11838,Horror,Ju-on: The Grudge,ja,199.0,7.614692
+19185,Horror,Night of the Living Dead,en,198.0,10.644165
+38541,HorrorScience FictionDrama,The Divide,en,198.0,7.4066089999999996
+10163,HorrorThrillerScience Fiction,The Lawnmower Man,en,198.0,6.685948
+9796,HorrorThriller,Turistas,en,197.0,11.951258000000001
+10281,HorrorThriller,Friday the 13th Part VII: The New Blood,en,196.0,7.909022
+89691,HorrorThriller,ATM,en,195.0,8.950643
+13025,HorrorActionScience Fiction,Diary of the Dead,en,194.0,12.001324
+111440,HorrorMysteryThriller,The Pact,en,194.0,10.403371
+10283,HorrorThriller,Friday the 13th Part VIII: Jason Takes Manhattan,en,194.0,7.743144
+10489,HorrorThriller,Cujo,en,194.0,7.065625999999999
+353979,HorrorThriller,Pet,en,193.0,9.030904
+284564,HorrorThriller,31,en,193.0,6.636625
+8852,Horror,Prince of Darkness,en,192.0,8.587231
+791,HorrorThriller,The Fog,en,191.0,9.929808999999999
+291272,Horror,We Are Still Here,en,191.0,8.100029
+11026,HorrorMysteryThriller,Exorcist: The Beginning,en,189.0,13.02369
+9599,HorrorScience Fiction,The Blob,en,187.0,10.874079
+11361,HorrorThriller,Halloween 5: The Revenge of Michael Myers,en,187.0,6.585405000000001
+23963,HorrorMysteryScience Fiction,Pontypool,en,187.0,6.407207
+24056,HorrorActionThriller,The Tournament,en,186.0,8.904174000000001
+241855,HorrorRomanceScience Fiction,Spring,en,186.0,6.976514
+10885,HorrorMysteryThriller,Shutter,en,184.0,5.233421
+265016,HorrorScience Fiction,Extraterrestrial,en,183.0,10.457657000000001
+295830,HorrorFantasyDramaActionScience Fiction,Attack on Titan,ja,183.0,8.118506
+11482,HorrorThrillerFantasy,The Tenant,fr,181.0,6.583984
+26688,HorrorMysteryThriller,Sorority Row,en,179.0,5.010852
+150202,HorrorDramaThriller,The Haunting in Connecticut 2: Ghosts of Georgia,en,177.0,8.612960000000001
+87436,Horror,The ABCs of Death,en,175.0,5.8393239999999995
+6933,HorrorMysteryThriller,One Missed Call,en,174.0,11.104479
+10987,HorrorThriller,Halloween: The Curse of Michael Myers,en,173.0,8.768288
+123109,HorrorThriller,No One Lives,en,173.0,7.202832000000001
+290999,Horror,Wyrmwood: Road Of The Dead,en,173.0,6.635569
+11133,HorrorThriller,Poltergeist II: The Other Side,en,172.0,6.701138
+19904,HorrorThrillerMystery,The Stepfather,en,172.0,6.164529
+8974,HorrorScience FictionThriller,The War of the Worlds,en,172.0,5.609399
+259072,Horror,Wrong Turn 6: Last Resort,en,171.0,7.445236
+5072,HorrorComedyThriller,Severance,en,169.0,9.632547
+10012,HorrorComedy,Cursed,en,168.0,8.949722
+126277,HorrorThriller,American Mary,en,167.0,9.912269
+12526,HorrorThriller,Bug,en,167.0,5.911303
+9638,HorrorScience Fiction,Phantasm,en,166.0,6.609336
+9299,HorrorThriller,Thesis,es,165.0,7.110912
+63207,HorrorThrillerDrama,Intruders,en,164.0,9.734012
+267806,HorrorThriller,V/H/S: Viral,en,164.0,8.918611
+257345,HorrorThriller,The Darkness,en,162.0,12.187189
+13474,HorrorThriller,P2,en,162.0,9.276709
+11569,HorrorThrillerWar,Hellraiser III: Hell on Earth,en,160.0,6.546551
+11033,HorrorMysteryThriller,Dressed to Kill,en,159.0,9.3806
+10344,HorrorScience FictionThriller,The Fly II,en,159.0,9.207436
+94365,Horror,The Human Centipede 3 (Final Sequence),en,159.0,5.3609480000000005
+301728,HorrorScience FictionThriller,Infini,en,157.0,12.592801
+57876,HorrorThrillerScience Fiction,Area 51,en,157.0,6.055594
+10069,HorrorThriller,Stay Alive,en,157.0,4.854551
+199534,HorrorThriller,Wolf Creek 2,en,156.0,6.842107
+296065,HorrorThriller,Last Shift,en,156.0,5.347371
+9102,HorrorScience Fiction,Screamers,en,154.0,12.758848
+9682,HorrorThriller,Pulse,en,154.0,10.307277000000001
+9406,HorrorComedy,An American Werewolf in Paris,en,154.0,7.145784
+375012,Horror,Under the Shadow,en,153.0,5.841
+13312,Horror,Inside,fr,152.0,8.159445
+9423,HorrorActionScience Fiction,Virus,en,151.0,7.116536999999999
+10787,HorrorScience Fiction,The Invisible Man,en,151.0,5.1929050000000005
+84194,Horror,Excision,en,148.0,12.493245
+11167,HorrorThriller,Peeping Tom,en,148.0,7.2295869999999995
+8851,HorrorScience Fiction,The Blob,en,147.0,7.079055
+13509,HorrorComedyActionFantasyScience Fiction,The Monster Squad,en,146.0,7.075533999999999
+10007,HorrorThriller,See No Evil,en,146.0,5.659608
+29161,HorrorThriller,Phenomena,en,146.0,5.621519
+12262,Horror,The Hills Have Eyes,en,145.0,4.788002
+13550,HorrorThriller,The Changeling,en,144.0,5.821597
+293771,HorrorScience Fiction,Dead Rising: Watchtower,en,143.0,9.559969
+10008,HorrorThriller,An American Haunting,en,143.0,5.026855
+299551,Horror,The Atticus Institute,en,143.0,4.551561
+241258,HorrorThriller,Incarnate,en,142.0,15.909181
+15516,HorrorThriller,The Last House on the Left,en,142.0,9.640939
+16337,Horror,The Texas Chainsaw Massacre 2,en,142.0,9.501011
+10785,HorrorScience Fiction,The Thing from Another World,en,142.0,5.466036
+25239,HorrorThriller,I Spit on Your Grave,en,140.0,12.412877
+79694,HorrorThriller,The Apparition,en,140.0,7.683008
+204349,HorrorThriller,Contracted,en,140.0,7.220003
+265010,HorrorMysteryThriller,The Canal,en,139.0,12.352907
+211067,HorrorMysteryThriller,The Sacrament,en,139.0,5.350658
+28942,HorrorScience FictionThriller,The Brood,en,138.0,9.445978
+11586,HorrorThrillerFantasy,Exorcist II: The Heretic,en,137.0,8.266983999999999
+11348,HorrorThriller,Fragile,en,137.0,4.641868
+420245,Horror,Don't Knock Twice,en,136.0,11.359142
+8555,HorrorThrillerMystery,Creep,en,136.0,5.604026
+15206,Horror,The Mother of Tears,it,135.0,34.145916
+65055,HorrorThriller,Shark Night,en,134.0,6.062425
+16288,Horror,Creepshow 2,en,133.0,9.330086999999999
+301846,Horror,Howl,en,133.0,6.844863
+16938,HorrorMysteryThriller,Black Christmas,en,133.0,5.310614
+12205,HorrorThriller,Dark Water,ja,132.0,8.82953
+332704,HorrorMystery,Backtrack,en,131.0,6.727871
+68684,HorrorComedyScience Fiction,Detention,en,130.0,7.74967
+11015,HorrorMysteryThriller,The Relic,en,130.0,7.699967
+7219,Horror,Zombie Flesh Eaters,it,130.0,6.798595
+272692,Horror,The Possession of Michael King,en,129.0,3.964299
+254194,Horror,Starry Eyes,en,128.0,10.926642
+10576,HorrorMysteryThriller,Psycho II,en,128.0,6.370495
+27429,HorrorScience Fiction,Shivers,en,127.0,11.540666
+10092,HorrorThriller,Cry_Wolf,en,127.0,9.454335
+10306,HorrorThriller,Poltergeist III,en,127.0,7.9776929999999995
+16372,Horror,The Innocents,en,126.0,7.667964
+339547,Horror,Jeruzalem,en,126.0,7.410228
+18238,HorrorComedy,Lesbian Vampire Killers,en,126.0,6.52808
+381034,HorrorThriller,I Am Not a Serial Killer,en,126.0,6.409123999999999
+92182,HorrorMystery,Silent House,en,125.0,10.239941
+10280,HorrorThriller,Thinner,en,125.0,4.856229
+8740,HorrorThriller,The Vanishing,nl,124.0,11.096035
+11868,Horror,Horror of Dracula,en,124.0,8.355326
+13567,Horror,Sleepaway Camp,en,124.0,6.224311
+210908,HorrorThrillerComedy,All Cheerleaders Die,en,124.0,6.007987
+13666,HorrorDrama,The Wolf Man,en,124.0,5.386984
+257087,Horror,The Veil,en,123.0,10.087242999999999
+244610,HorrorThriller,The Den,en,123.0,7.752544
+420648,HorrorThrillerComedy,The Bar,es,122.0,20.720113
+15849,Horror,The Mummy,en,121.0,12.190044
+19204,Horror,The Beyond,it,121.0,7.471402
+42941,HorrorThriller,30 Days of Night: Dark Days,en,121.0,7.320221000000001
+59115,HorrorMysteryScience Fiction,Quarantine 2: Terminal,en,121.0,4.520607
+24831,Horror,Piranha,en,120.0,16.038604
+11503,HorrorThriller,The Serpent and the Rainbow,en,120.0,7.791952
+78383,HorrorThriller,Nurse 3-D,en,120.0,5.192042
+9656,HorrorThriller,Black Christmas,en,119.0,7.888302
+101179,HorrorThrillerMystery,Truth or Dare,en,119.0,4.711164
+116979,HorrorThriller,Chained,en,119.0,4.607816000000001
+29426,HorrorScience Fiction,Survival of the Dead,en,118.0,9.159799000000001
+46221,HorrorThrillerMystery,The Tunnel,en,117.0,4.863972
+16342,HorrorMysteryThriller,The Children,en,116.0,7.320166
+17898,Horror,Silver Bullet,en,116.0,5.852908
+306964,Horror,Tales of Halloween,en,115.0,5.784778
+11654,HorrorThrillerRomance,The Hunger,en,114.0,13.235179
+354216,Horror,The Devil's Candy,en,114.0,9.968649000000001
+11056,Horror,Darkness,en,114.0,5.975404
+10984,HorrorThriller,Valentine,en,114.0,5.367306
+10351,Horror,Wishmaster,en,114.0,5.215107
+298584,Horror,Cabin Fever,en,113.0,4.931373000000001
+16395,HorrorThriller,Inferno,en,113.0,4.783203
+14029,Horror,Demons,fr,112.0,11.477701
+11206,HorrorCrimeThriller,Wait Until Dark,en,112.0,6.216637
+10900,HorrorThrillerMystery,Surveillance,en,111.0,6.804406
+24740,HorrorMysteryThriller,The Entity,en,111.0,6.302682
+692,HorrorComedyCrime,Pink Flamingos,en,111.0,5.738871
+8766,HorrorThrillerScience Fiction,Hellraiser: Bloodline,en,111.0,5.263187
+9827,HorrorScience FictionThriller,Phantoms,en,110.0,10.754614
+123103,HorrorThriller,Aftershock,es,110.0,8.367858
+46441,HorrorMysteryThriller,Mirrors 2,en,110.0,5.936241000000001
+41428,HorrorScience Fiction,Tetsuo: The Iron Man,ja,110.0,5.456818
+10384,HorrorScience FictionThriller,Supernova,en,109.0,5.496624
+119278,Horror,Smiley,en,109.0,4.871071
+37534,HorrorThriller,The New Daughter,en,109.0,4.818626999999999
+10389,Horror,The Eye,cn,108.0,4.827322000000001
+407559,HorrorThriller,I Am the Pretty Thing That Lives in the House,en,108.0,4.583609
+29702,HorrorMysteryThriller,Tenebre,en,107.0,13.925957999999998
+10906,Horror,Pet Sematary II,en,107.0,6.8234449999999995
+13613,HorrorActionThriller,Day of the Dead,en,107.0,6.477482
+116811,HorrorDramaThriller,Berberian Sound Studio,en,107.0,5.532455000000001
+6917,HorrorFantasy,The Gate,en,107.0,4.742709
+297160,Horror,XX,en,106.0,8.106953
+33107,HorrorThrillerCrimeMystery,And Soon the Darkness,en,106.0,6.9045179999999995
+11059,HorrorActionThriller,House of the Dead,en,106.0,5.701278
+9544,HorrorThriller,FearDotCom,en,106.0,5.160215
+276488,Horror,Let Us Prey,en,106.0,4.931539
+14510,HorrorScience FictionFantasy,From Beyond,en,105.0,7.522655
+14353,HorrorComedyMusicScience Fiction,Repo! The Genetic Opera,en,103.0,5.256959999999999
+12212,Horror,Urban Legends: Final Cut,en,102.0,12.243528
+4722,HorrorScience FictionThriller,Body Snatchers,en,102.0,6.559692999999999
+400411,Horror,Satanic,en,102.0,6.005878
+258193,HorrorScience FictionThriller,Alien Abduction,en,102.0,5.991675
+16241,HorrorDramaThrillerScience Fiction,The Boys from Brazil,en,102.0,5.923299
+146243,Horror,Haunt,en,101.0,10.964552000000001
+26914,Horror,Troll 2,en,101.0,7.932049
+97795,HorrorThriller,Emergo,en,100.0,7.177295
+311539,Horror,A Christmas Horror Story,en,100.0,6.848664
+9694,HorrorThriller,One Missed Call,ja,100.0,6.703174000000001
+284305,HorrorThrillerDrama,Shrew's Nest,es,100.0,6.319326
+254188,Horror,At the Devil's Door,en,100.0,4.964201999999999
+312791,HorrorThriller,GirlHouse,en,99.0,14.386348000000002
+14456,Horror,Shrooms,en,99.0,9.128571
+375355,HorrorThriller,Don't Hang Up,en,97.0,5.597094
+9059,HorrorComedyThriller,Tales from the Crypt: Demon Knight,en,96.0,9.455342
+16780,HorrorComedyThriller,Texas Chainsaw Massacre: The Next Generation,en,96.0,6.854576
+222461,HorrorMysteryThriller,Wer,en,96.0,6.635861
+14098,HorrorThriller,100 Feet,en,96.0,5.325375
+28739,Horror,Cabin Fever 2: Spring Fever,en,96.0,5.187
+16093,HorrorMystery,Carnival of Souls,en,94.0,9.505438999999999
+115210,Horror,Stitches,en,94.0,8.328705000000001
+160070,Horror,Apartment 1303 3D,en,94.0,8.303374
+133369,HorrorThriller,The Conspiracy,en,94.0,4.531007
+207769,HorrorThriller,Banshee Chapter,en,93.0,7.130195
+17918,HorrorScience Fiction,Swamp Thing,en,92.0,9.412377000000001
+11773,HorrorScience Fiction,Village of the Damned,en,92.0,6.39955
+312827,HorrorDocumentary,The Nightmare,en,92.0,4.6018669999999995
+43919,HorrorComedyThriller,Hatchet II,en,91.0,12.525758
+13465,HorrorFantasyAnimationFamily,The Adventures of Ichabod and Mr. Toad,en,91.0,7.554977
+18502,HorrorComedyScience Fiction,The Stuff,en,91.0,7.394892
+59429,HorrorThriller,Paranormal Activity: Tokyo Night,ja,91.0,4.677365
+92060,HorrorMusic,Michael Jackson's Thriller,en,90.0,17.85649
+29437,Horror,Rabid,en,90.0,11.284125999999999
+24124,HorrorThriller,The Burning,en,90.0,8.942517
+74505,HorrorThriller,Lovely Molly,en,90.0,8.361319
+27374,HorrorThriller,Lake Mungo,en,90.0,5.634004
+20345,HorrorMysteryThriller,The Bird with the Crystal Plumage,it,90.0,5.078021
+27958,HorrorActionDramaMysteryThriller,Cruising,en,89.0,10.039589999999999
+193726,Horror,ABCs of Death 2,en,89.0,8.254856
+27324,HorrorThriller,Pulse,ja,89.0,4.122317
+157424,Horror,Cabin Fever: Patient Zero,en,88.0,10.118928
+198210,HorrorThrillerMystery,Evidence,en,88.0,8.306389
+11309,HorrorScience FictionThriller,Hardware,en,88.0,6.026159
+353345,Horror,The Exorcism of Molly Hartley,en,88.0,5.742044
+158752,HorrorFantasy,Escape from Tomorrow,en,88.0,4.318643
+56906,HorrorThriller,Husk,en,87.0,10.816473
+124470,Horror,Exists,en,87.0,5.364259
+343173,Horror,The ReZort,en,87.0,4.399489
+24920,Horror,City of the Living Dead,it,86.0,8.54341
+227094,HorrorThrillerDrama,The Returned,en,86.0,4.7614410000000005
+78381,HorrorThriller,Twixt,en,86.0,3.836293
+254193,HorrorThriller,Late Phases,en,85.0,8.621852
+300467,HorrorThriller,Dark Was the Night,en,85.0,5.168382
+334536,HorrorThriller,The Blackcoat's Daughter,en,85.0,4.950329
+44678,HorrorActionThrillerScience Fiction,Altitude,en,85.0,4.715525
+36599,HorrorMysteryThriller,Prom Night,en,85.0,3.65867
+200462,Horror,Hansel & Gretel,en,84.0,5.6176010000000005
+207686,Horror,The House at the End of Time,es,84.0,4.154266000000001
+167575,HorrorThrillerComedyAction,Hatchet III,en,83.0,4.546004
+290555,HorrorAction,Wolves,en,82.0,11.481479
+12171,HorrorThriller,The Deaths of Ian Stone,en,82.0,6.86365
+73588,HorrorThrillerMystery,The Caller,en,82.0,5.812898000000001
+3602,Horror,I'll Always Know What You Did Last Summer,en,82.0,5.223401
+207774,Horror,The Borderlands,en,82.0,4.73755
+21159,HorrorScience Fiction,The Last Man on Earth,en,82.0,4.471808
+10929,Horror,Willard,en,82.0,4.109477
+47763,Horror,The Shrine,en,81.0,16.544322
+214597,HorrorComedy,Fright Night 2: New Blood,en,81.0,10.752888
+9669,Horror,Ringu 2,ja,81.0,5.277814
+10726,HorrorThriller,American Psycho 2: All American Girl,en,81.0,4.968814
+33908,Horror,Three… Extremes,ko,81.0,4.128086
+74726,HorrorComedy,Juan of the Dead,es,81.0,4.121133
+13849,HorrorComedyCrimeThriller,The Cottage,en,80.0,9.459594000000001
+12662,HorrorThriller,Psycho III,en,79.0,6.345885
+11246,HorrorThrillerMystery,Hellraiser: Hellseeker,en,79.0,5.823097
+7341,HorrorThrillerScience Fiction,The Rage: Carrie 2,en,79.0,4.766591
+11082,HorrorThrillerMysteryFantasy,The Seventh Sign,en,79.0,4.720395
+27632,Horror,Black Sunday,it,79.0,4.683413
+12223,HorrorMysteryScience Fiction,The Stepford Wives,en,79.0,3.94547
+22307,HorrorThriller,Sisters,en,77.0,9.296883
+12700,HorrorThriller,Dominion: Prequel to the Exorcist,en,77.0,7.892677000000001
+27346,Horror,Maniac,en,77.0,4.838469
+51248,HorrorThriller,2011-11-11,en,77.0,3.9916099999999997
+17,HorrorThrillerMystery,The Dark,en,76.0,5.691508
+73262,HorrorScience FictionThriller,Hell,de,76.0,4.778934
+127651,HorrorThriller,The Seasoning House,en,76.0,4.565307
+19592,HorrorThrillerWestern,Dead Birds,en,75.0,7.774208
+19064,HorrorComedyRomance,Once Bitten,en,75.0,6.1746989999999995
+25018,HorrorThriller,Leatherface: Texas Chainsaw Massacre III,en,75.0,5.7990699999999995
+323370,HorrorScience FictionThriller,The Diabolical,en,75.0,4.822018
+30685,HorrorThriller,Blood Creek,en,75.0,4.0654069999999995
+24913,HorrorMystery,April Fool's Day,en,74.0,10.301342
+121606,HorrorThrillerMystery,Resolution,en,74.0,5.825387999999999
+16028,HorrorThriller,They,en,74.0,4.583304
+12611,HorrorScience FictionThriller,The Fury,en,73.0,11.844028999999999
+23410,HorrorScience FictionThriller,The Thaw,en,73.0,6.487576
+9666,HorrorThriller,Ju-on: The Grudge 2,ja,73.0,5.165962
+3763,Horror,Onibaba,ja,73.0,3.614257
+56832,HorrorActionScience Fiction,Gantz,ja,73.0,3.533091
+347754,HorrorThriller,Curve,en,72.0,4.957058
+28043,Horror,Black Sabbath,it,72.0,4.363258999999999
+29095,HorrorComedy,Waxwork,en,71.0,8.575666
+24924,Horror,Night of the Demons,en,71.0,6.942907000000001
+26587,HorrorDramaThriller,Dread,en,71.0,5.967679
+157115,HorrorThrillerDrama,Jug Face,en,71.0,5.3050489999999995
+28794,Horror,The House by the Cemetery,it,71.0,4.510407
+259761,Horror,Lights Out,en,71.0,4.08272
+23439,HorrorThriller,House of Usher,en,71.0,3.481988
+14913,HorrorThriller,Boogeyman 2,en,70.0,8.570712
+13803,HorrorThriller,Amusement,en,70.0,4.076001
+11791,HorrorThrillerMystery,The Hound of the Baskervilles,en,69.0,4.789130999999999
+17455,HorrorMysteryThriller,Hellraiser: Deader,en,69.0,4.550477
+13555,Horror,The Funhouse,en,69.0,3.99005
+229182,HorrorThriller,The Harvest,en,69.0,3.7258
+40016,HorrorScience Fiction,Birdemic: Shock and Terror,en,69.0,2.52968
+165864,HorrorComedy,Hansel and Gretel Get Baked,en,68.0,6.23802
+26953,Horror,Puppet Master,en,68.0,6.173017
+185267,HorrorScience FictionAction,The Human Race,en,68.0,2.563968
+38410,HorrorThriller,The Poughkeepsie Tapes,en,67.0,6.036528
+24001,Horror,The Hills Run Red,en,67.0,5.87477
+1987,HorrorCrimeDrama,Benny's Video,de,67.0,5.865702
+340382,HorrorScience FictionActionFantasyDrama,Attack on Titan II: End of the World,ja,67.0,4.300416
+57283,Horror,Haxan,sv,66.0,2.914798
+25610,HorrorScience Fiction,The Tommyknockers,en,65.0,9.156782000000002
+226140,Horror,See No Evil 2,en,65.0,4.526854
+74471,HorrorActionThrillerScience Fiction,The Dead,en,65.0,3.2980620000000003
+10824,Horror,Candyman: Farewell to the Flesh,en,64.0,4.9835519999999995
+10790,HorrorThriller,The Abandoned,en,64.0,4.7841309999999995
+199578,HorrorScience FictionThriller,Patrick,en,63.0,12.014928
+32613,Horror,Horror Express,en,63.0,12.004189
+16180,HorrorMystery,The Legend of Hell House,en,63.0,7.784939
+33518,HorrorScience FictionThriller,Alligator,en,63.0,5.500439
+12699,HorrorThriller,Hellraiser: Hellworld,en,63.0,5.168183
+245627,HorrorThriller,Abattoir,en,63.0,4.541007
+156597,Horror,Stage Fright,en,63.0,4.4788809999999994
+9431,HorrorComedy,Bordello of Blood,en,63.0,3.4504019999999995
+300665,Horror,Leatherface,en,62.0,9.742082
+22137,HorrorMystery,The Kingdom,da,62.0,5.230666
+23730,HorrorScience Fiction,C.H.U.D.,en,62.0,4.412794
+12517,Horror,The Ordeal,fr,62.0,4.392346
+40969,HorrorThriller,Terror Train,en,62.0,3.43877
+13954,HorrorScience FictionThriller,Alien Raiders,en,61.0,8.091476
+257874,Horror,Beneath,en,61.0,7.817221000000001
+1698,HorrorThriller,Anatomy,de,61.0,5.566781
+14458,HorrorScience FictionThriller,Altered,en,61.0,4.370963
+3079,HorrorScience Fiction,The Curse of Frankenstein,en,61.0,4.3079410000000005
+80384,HorrorComedy,Breaking Wind,en,61.0,3.4889910000000004
+8997,HorrorActionThrillerScience Fiction,Hollow Man II,en,60.0,6.269922
+40342,HorrorFantasy,Demons 2,it,60.0,4.4534769999999995
+30874,Horror,The New York Ripper,it,60.0,4.273868
+241927,Horror,Hellions,en,60.0,4.174653
+262840,HorrorComedy,WolfCop,en,60.0,3.903768
+9568,HorrorThriller,The Dentist,en,60.0,3.040468
+16235,Horror,Amityville II: The Possession,en,59.0,12.10181
+17994,Horror,Witchboard,en,59.0,8.180575
+19599,HorrorDramaMysteryThriller,Book of Blood,en,59.0,6.152506
+209901,Horror,Nothing Left to Fear,en,59.0,5.317284
+196830,HorrorScience Fiction,Stranded,fr,59.0,4.78912
+9841,HorrorThriller,Rest Stop,en,59.0,4.657671
+126172,Horror,Leprechaun: Origins,en,59.0,4.438003
+13570,HorrorMysteryThriller,Tourist Trap,en,59.0,3.4148389999999997
+49361,Horror,Don't Torture a Duckling,it,59.0,3.056552
+21506,HorrorMysteryThriller,Noroi: The Curse,ja,59.0,2.800654
+13564,HorrorThriller,Return to House on Haunted Hill,en,58.0,14.820751000000001
+15262,Horror,Boogeyman 3,en,58.0,8.374035000000001
+28941,HorrorScience Fiction,Chopping Mall,en,58.0,8.034105
+123362,HorrorMysteryFantasyThriller,Painless,en,58.0,7.609036
+18990,Horror,The Mummy,en,58.0,4.662323000000001
+9077,HorrorScience FictionThriller,Tarantula,en,58.0,4.453327
+15667,HorrorThriller,The Last Winter,en,58.0,4.320641999999999
+16077,HorrorThriller,My Little Eye,en,58.0,4.04526
+9060,Horror,Dumplings,cn,58.0,3.382258
+23761,HorrorMysteryThriller,Alice Sweet Alice,en,58.0,3.274172
+13549,Horror,Burnt Offerings,en,58.0,2.877095
+210911,HorrorActionDrama,Rigor Mortis,cn,57.0,9.503762
+26912,HorrorScience Fiction,Quatermass and the Pit,en,57.0,9.347228
+70584,Horror,Hellraiser: Revelations,en,57.0,8.548411
+33278,HorrorScience Fiction,Deadly Friend,en,57.0,5.012318
+21362,HorrorFantasyComedy,High Spirits,en,57.0,5.007836
+78294,HorrorThriller,Panic Button,en,57.0,4.599941
+18775,HorrorScience Fiction,Demon Seed,en,57.0,4.578201
+25967,HorrorScience FictionThriller,Isolation,en,57.0,3.7277449999999996
+32250,Horror,Ju-on: The Curse,ja,57.0,3.332192
+174682,HorrorThriller,Raze,en,57.0,3.217885
+8991,HorrorActionComedyScience Fiction,Undead,en,57.0,2.764816
+3019,HorrorScience Fiction,Dr. Jekyll and Mr. Hyde,en,56.0,4.749048999999999
+16139,HorrorActionScience Fiction,Phantasm III: Lord of the Dead,en,56.0,4.401721
+26198,Horror,The Keep,en,56.0,3.5544910000000005
+15641,HorrorThriller,Vacancy 2: The First Cut,en,56.0,3.307214
+47955,HorrorDramaThriller,White Dog,en,56.0,2.849356
+22293,Horror,Manos: The Hands of Fate,en,56.0,2.560257
+207475,Horror,The Ouija Experiment,en,56.0,2.484835
+83900,Horror,Livid,fr,56.0,2.32335
+10292,HorrorThriller,Urban Legends: Bloody Mary,en,55.0,7.778296000000001
+21143,HorrorScience FictionThriller,The Day of the Triffids,en,55.0,7.351703
+71622,HorrorThriller,Atrocious,en,55.0,4.1945239999999995
+24274,HorrorMystery,Dead & Buried,en,55.0,3.8912430000000002
+25103,HorrorMystery,Night of the Demon,en,55.0,3.237326
+48393,HorrorThriller,Kidnapped,es,55.0,2.936334
+16335,HorrorThriller,Walled In,en,54.0,15.937320999999999
+36763,HorrorDramaMysteryThriller,Salem's Lot,en,54.0,14.098704999999999
+17102,Horror,Dracula: Prince of Darkness,en,54.0,8.913793
+24106,Horror,The Black Cat,en,54.0,8.053913
+10706,HorrorScience FictionThriller,Mimic 2,en,54.0,4.88911
+17911,HorrorScience Fiction,Mega Shark vs Giant Octopus,en,54.0,4.566951
+34311,HorrorComedy,Sleepaway Camp II: Unhappy Campers,en,54.0,4.066053
+47386,HorrorThriller,YellowBrickRoad,en,54.0,2.554659
+14457,HorrorMystery,Reeker,en,53.0,10.382533
+60086,HorrorThriller,Babysitter Wanted,en,53.0,8.262336999999999
+28055,HorrorMysteryThriller,Blood and Black Lace,it,53.0,5.54191
+5486,HorrorThriller,A Bay of Blood,it,53.0,4.725878
+47886,HorrorMystery,Pieces,en,53.0,3.896297
+15018,HorrorThriller,Thriller: A Cruel Picture,sv,53.0,3.814035
+18196,HorrorDramaMystery,The Sentinel,en,53.0,3.8117989999999997
+47518,Horror,The Tortured,en,53.0,3.4367690000000004
+294308,Horror,Don't Blink,en,53.0,3.065359
+355506,Horror,Siren,pt,53.0,2.769514
+443319,HorrorMysteryScience Fiction,Phoenix Forgotten,en,52.0,12.560941999999999
+52001,HorrorDramaThriller,Citadel,en,52.0,9.189238000000001
+19483,HorrorScience Fiction,It Came from Outer Space,en,52.0,7.749114
+86703,HorrorActionThrillerScience Fiction,2-Headed Shark Attack,en,52.0,7.198828
+331392,HorrorMysteryThriller,Eloise,en,52.0,5.2712069999999995
+38939,Horror,Tales from the Crypt,en,52.0,4.407775
+27431,HorrorMysteryThriller,The Cat o' Nine Tails,it,52.0,4.392321
+276922,Horror,Come Back to Me,en,52.0,3.8218989999999997
+114958,HorrorScience Fiction,Storage 24,en,52.0,3.6731830000000003
+13429,HorrorDramaThrillerCrime,Donkey Punch,en,52.0,2.804154
+26860,Horror,White Zombie,en,52.0,2.692891
+45964,HorrorThriller,When a Stranger Calls,en,51.0,9.133206
+132064,HorrorThriller,Vile,en,51.0,5.003941
+16921,HorrorThriller,Autopsy,en,51.0,4.230297
+6498,HorrorThriller,Nightwatch,da,51.0,4.189514
+16154,HorrorMysteryThriller,Let's Scare Jessica to Death,en,51.0,4.157477
+392058,HorrorComedy,"Fear, Inc.",en,51.0,4.086359
+25748,Horror,Children of the Corn II: The Final Sacrifice,en,50.0,8.357875
+231001,Horror,All Hallows' Eve,en,50.0,6.5563839999999995
+39891,Horror,The Devil Rides Out,en,50.0,3.9747660000000002
+26517,Horror,Martin,en,50.0,3.965407
+24655,HorrorMystery,The Car,en,50.0,3.526676
+13557,HorrorThriller,The Gravedancers,en,50.0,3.137916
+407389,HorrorThriller,The Remains,en,50.0,2.650518
+14126,HorrorThriller,Catacombs,en,49.0,7.095063000000001
+31150,HorrorThriller,Intruder,en,49.0,5.456906
+9674,Horror,Ringu 0,ja,49.0,5.007142
+7182,HorrorThriller,Venom,en,49.0,4.871297
+32685,HorrorComedyFamily,Ernest Scared Stupid,en,49.0,4.197955
+33521,HorrorRomance,Dracula,en,49.0,3.3100400000000003
+14033,HorrorMysteryThriller,Soul Survivors,en,49.0,3.076331
+19197,HorrorThriller,Mum & Dad,en,49.0,2.9479189999999997
+30689,HorrorThriller,Four Flies on Grey Velvet,it,49.0,2.873255
+57447,HorrorMysteryThriller,The House with Laughing Windows,it,49.0,2.0891990000000003
+16146,HorrorScience Fiction,Phantasm IV: Oblivion,en,48.0,7.590628
+29343,HorrorScience Fiction,Humanoids from the Deep,en,48.0,7.44429
+48197,HorrorMysteryThrillerCrime,The Town That Dreaded Sundown,en,48.0,4.876494
+323694,HorrorComedyRomance,Nina Forever,en,48.0,3.149665
+291865,Horror,From the Dark,en,48.0,2.916224
+11494,HorrorActionThriller,Wilderness,en,48.0,2.8917770000000003
+407531,HorrorThriller,Bedeviled,en,47.0,16.227875
+20441,Horror,The Messengers 2: The Scarecrow,en,47.0,4.171673999999999
+135812,HorrorRomanceThriller,Dracula 3D,en,47.0,4.038628
+49706,Horror,Dream Home,cn,47.0,3.26531
+106717,HorrorThriller,The Last Will and Testament of Rosalind Leigh,en,47.0,3.088085
+92395,Horror,Evidence,en,47.0,2.299756
+16184,HorrorComedyDrama,The Happiness of the Katakuris,ja,47.0,1.870143
+137145,HorrorThriller,247°F,pt,46.0,7.427206
+32569,HorrorScience FictionThriller,X: The Man with the X-Ray Eyes,en,46.0,4.259969
+15483,HorrorMysteryThriller,The Card Player,it,46.0,3.501564
+347762,Horror,Most Likely to Die,en,46.0,3.443724
+117978,HorrorThriller,In Their Skin,en,46.0,3.156772
+23220,Horror,The Brides of Dracula,en,46.0,2.966154
+46020,HorrorComedyScience FictionThriller,Sharktopus,en,46.0,2.429777
+98948,HorrorActionThriller,Abraham Lincoln vs. Zombies,en,45.0,9.109894
+359246,HorrorMysteryThriller,Hell House LLC,en,45.0,2.911975
+10085,Horror,Unrest,en,45.0,2.159288
+92499,HorrorRomanceComedy,Spellbound,ko,45.0,1.9963560000000002
+45756,HorrorComedy,Saint,en,45.0,1.947114
+44132,Horror,The Beast,fr,44.0,4.080387
+21398,HorrorThriller,Grace,en,44.0,4.037911
+410876,HorrorThriller,Tell Me How I Die,en,44.0,3.4917860000000003
+24580,HorrorScience Fiction,The Creeping Unknown,en,43.0,11.455239
+395982,HorrorComedyDramaThrillerFantasy,Prevenge,en,43.0,7.6512270000000004
+16182,HorrorMystery,The Woman in Black,en,43.0,7.551569000000001
+294562,HorrorScience FictionThriller,Lavalantula,en,43.0,6.901559
+128311,Horror,Under the Bed,en,43.0,6.670897999999999
+24194,HorrorScience FictionThriller,TerrorVision,en,43.0,4.188751
+26554,HorrorComedyScience Fiction,Class of Nuke 'Em High,en,43.0,4.0988489999999995
+135368,HorrorThriller,The Barrens,en,43.0,3.678189
+29030,HorrorDrama,The Tomb of Ligeia,en,43.0,3.631422
+43751,HorrorMysteryThriller,Who Can Kill a Child?,es,43.0,3.330335
+277688,HorrorComedy,Suburban Gothic,en,43.0,3.251693
+9677,HorrorComedy,Forklift Driver Klaus: The First Day on the Job,de,43.0,3.067015
+123359,HorrorThriller,Here Comes the Devil,es,43.0,2.540221
+15212,HorrorScience FictionThriller,Species: The Awakening,en,42.0,9.6804
+291413,HorrorThriller,Within,en,42.0,9.449891000000001
+572,HorrorMysteryThriller,Next Door,no,42.0,6.619629
+5677,HorrorScience FictionCrime,Trancers,en,42.0,6.272745
+15052,HorrorMysteryThriller,The Lodger,en,42.0,5.995718
+15135,HorrorActionComedy,Feast III: The Happy Finish,en,42.0,5.644680999999999
+15039,HorrorActionThrillerScience Fiction,Against the Dark,en,42.0,5.108626999999999
+29748,Horror,Taste the Blood of Dracula,en,42.0,3.952446
+3077,HorrorScience Fiction,Son of Frankenstein,en,42.0,3.5635879999999998
+27646,Horror,Night of the Demons,en,42.0,3.537361
+287524,Horror,Fear Clinic,en,42.0,2.508452
+28090,HorrorThrillerAction,Maniac Cop 2,en,42.0,2.412356
+30931,HorrorMysteryTV Movie,Dark Night of the Scarecrow,en,42.0,2.410045
+9976,HorrorRomanceComedy,Satan's Little Helper,en,42.0,2.233189
+25756,Horror,Clownhouse,fr,42.0,1.820459
+332285,Horror,Antibirth,en,41.0,10.629806
+25750,Horror,Children of the Corn IV: The Gathering,en,41.0,7.97048
+25557,HorrorScience FictionThriller,The Puppet Masters,en,41.0,7.272296000000001
+30062,Horror,Eaten Alive,en,41.0,5.394715
+17287,HorrorComedy,Poultrygeist: Night of the Chicken Dead,en,41.0,5.072908999999999
+31646,Horror,Piranha Part Two: The Spawning,en,41.0,3.468843
+20981,HorrorThrillerFantasy,The Call of Cthulhu,en,41.0,3.3242949999999998
+340176,HorrorThriller,Tag,ja,41.0,2.9131970000000003
+30566,HorrorThriller,Blacula,en,41.0,2.697458
+25627,HorrorScience Fiction,The Living Dead at Manchester Morgue,it,41.0,2.511806
+49901,HorrorThriller,Rammbock: Berlin Undead,de,41.0,2.3436630000000003
+306966,Horror,Summer Camp,en,41.0,2.171869
+174671,HorrorThriller,Dark Touch,en,41.0,2.118377
+40149,Horror,Kuroneko,ja,41.0,1.12463
+27214,HorrorThriller,Amityville 3-D,en,40.0,7.893775
+25329,HorrorThrillerDramaMystery,The Echo,en,40.0,5.003455000000001
+220471,HorrorThriller,The Devil's Hand,en,40.0,3.454884
+64854,HorrorThriller,Seconds Apart,en,40.0,3.27105
+16167,HorrorMysteryThriller,From Within,en,40.0,3.215954
+283127,HorrorAction,Yakuza Apocalypse,ja,40.0,3.052285
+17209,HorrorThriller,Madhouse,en,40.0,2.88883
+210910,HorrorScience Fiction,Almost Human,en,40.0,2.642117
+25438,HorrorMusic,Trick or Treat,en,40.0,2.612214
+84907,HorrorThriller,Playback,en,40.0,2.263493
+342657,HorrorThrillerMystery,The Silenced,ko,40.0,2.0653669999999997
+334028,Horror,Some Kind Of Hate,en,40.0,1.6249559999999998
+17245,Horror,Mulberry Street,en,39.0,5.571451000000001
+14459,Horror,Storm Warning,en,39.0,4.677101
+10943,HorrorThriller,The Gathering,en,39.0,3.969121
+354924,HorrorThriller,The Dead Room,en,39.0,3.904904
+270771,HorrorThrillerAction,The Last Survivors,en,39.0,3.336934
+29778,Horror,Dracula Has Risen from the Grave,en,39.0,3.321958
+31624,HorrorMysteryThriller,Torso,it,39.0,2.911722
+20465,Horror,StageFright: Aquarius,en,39.0,2.776386
+28153,Horror,It's Alive,en,39.0,2.564605
+27297,HorrorThriller,Grotesque,ja,39.0,2.275789
+39995,HorrorMysteryThriller,Long Weekend,en,39.0,2.2098430000000002
+60575,HorrorThriller,Prowl,en,39.0,1.573101
+135309,HorrorScience Fiction,Lake Placid: The Final Chapter,en,38.0,8.860585
+10383,HorrorThriller,Lost Souls,en,38.0,6.604577000000001
+101176,HorrorThriller,The Butterfly Room,en,38.0,6.569589
+19237,HorrorThriller,Kill Theory,en,38.0,4.137441
+8875,HorrorThriller,Timber Falls,en,38.0,2.304122
+28049,HorrorMysteryThriller,"Kill Baby, Kill",it,38.0,2.2307930000000002
+122369,HorrorThriller,13 Eerie,en,37.0,8.507128
+138496,HorrorScience FictionMysteryThriller,Crawlspace,en,37.0,4.606329
+32272,HorrorThriller,Death Bell,ko,37.0,3.562387
+18587,HorrorCrimeThrillerDrama,10 to Midnight,en,37.0,3.372304
+38033,HorrorThriller,Chain Letter,en,37.0,2.726794
+74336,HorrorComedy,The Quiet Family,ko,37.0,2.428
+361159,HorrorAction,Navy Seals vs. Zombies,en,37.0,2.413622
+40168,Horror,Scarecrows,en,37.0,2.227278
+16126,HorrorAction,Flight of the Living Dead: Outbreak on a Plane,en,37.0,1.944796
+29514,HorrorThriller,Two Evil Eyes,en,36.0,8.027314
+304613,Horror,Charlie's Farm,en,36.0,4.262502
+22007,HorrorThriller,Train,en,36.0,3.8748110000000002
+31952,Horror,The Vampire Lovers,en,36.0,3.4480180000000002
+173672,Horror,Hunger,en,36.0,3.232681
+174678,HorrorThrillerDrama,Mr. Jones,en,36.0,3.145229
+40364,Horror,The Church,it,36.0,3.1179650000000003
+370178,Horror,Scare Campaign,en,36.0,2.850998
+33005,HorrorScience FictionThriller,Mimic: Sentinel,en,36.0,2.8034060000000003
+346170,HorrorThriller,The Chosen,en,36.0,2.600651
+28667,HorrorFantasy,The Gorgon,en,36.0,2.490568
+47177,HorrorAction,Devil's Playground,en,36.0,2.436746
+27791,Horror,Strangeland,en,36.0,2.31478
+299939,HorrorScience Fiction,Debug,en,36.0,2.30671
+44203,Horror,Ju-on: The Curse 2,ja,36.0,2.246011
+92393,HorrorScience Fiction,Area 407,en,36.0,2.070949
+324803,HorrorThriller,Hangman,en,36.0,2.055173
+106845,HorrorScience Fiction,Re-Kill,en,35.0,11.860106
+289712,Horror,Mockingbird,en,35.0,10.895622999999999
+127884,Horror,Come Out and Play,en,35.0,8.568944
+194121,Horror,Dark Circles,en,35.0,6.708802
+22681,HorrorThriller,Homecoming,en,35.0,6.6500639999999995
+39929,Horror,Hello Mary Lou: Prom Night II,en,35.0,5.3837660000000005
+78093,HorrorThriller,Alyce Kills,en,35.0,3.521225
+222911,HorrorThriller,The Monkey's Paw,en,35.0,3.062433
+257117,HorrorThriller,Blood Punch,en,35.0,2.880819
+19142,HorrorScience Fiction,The Return of Swamp Thing,en,35.0,2.876656
+34098,HorrorScience Fiction,Ticks,en,35.0,2.76411
+356326,HorrorThriller,What We Become,da,35.0,2.6736459999999997
+10496,HorrorThriller,Bats,en,35.0,2.584025
+280000,HorrorMysteryThriller,Lemon Tree Passage,en,35.0,2.2545610000000003
+98368,HorrorThriller,Ritual,en,35.0,2.220049
+298865,Horror,Lost After Dark,en,35.0,2.1730720000000003
+86759,HorrorThriller,Rosewood Lane,en,35.0,2.16938
+265018,Horror,Indigenous,en,35.0,2.168519
+329289,Horror,Always Watching: A Marble Hornets Story,en,35.0,2.094087
+83727,Horror,The Theatre Bizarre,en,35.0,1.66657
+256030,Horror,Muck,en,35.0,1.6498650000000001
+5237,HorrorMysteryThriller,Dust Devil,en,34.0,11.774191
+44037,HorrorActionScience FictionThriller,Lake Placid 3,en,34.0,7.030888
+9753,HorrorAdventureDramaThriller,Survival Island,en,34.0,5.92516
+14217,Horror,Reincarnation,ja,34.0,4.693567
+18392,HorrorThriller,Embrace of the Vampire,en,34.0,4.537915
+207780,HorrorThriller,Antisocial,en,34.0,4.107533999999999
+91549,Horror,The Moth Diaries,en,34.0,3.4769379999999996
+7216,Horror,Zombie Holocaust,it,34.0,2.873528
+18442,HorrorScience FictionThriller,Decoys,en,34.0,2.855757
+74586,Horror,Rabies,fr,34.0,2.7430790000000003
+38157,Horror,Wishmaster 4: The Prophecy Fulfilled,en,34.0,2.637066
+32051,HorrorActionThriller,Race with the Devil,en,34.0,2.621146
+42307,HorrorThrillerScience Fiction,Road Train,en,34.0,2.589064
+15543,HorrorThriller,Penny Dreadful,en,34.0,2.575856
+9439,HorrorThriller,The Nameless,es,34.0,2.564327
+328252,Horror,Sweet Home,es,34.0,2.421888
+24919,Horror,Burial Ground,it,34.0,2.364193
+26857,Horror,The Tingler,en,34.0,2.28087
+53868,Horror,The Vault of Horror,en,34.0,2.278268
+84577,Horror,7 Below,en,34.0,2.2548529999999998
+84228,Horror,Julia X,en,34.0,2.22594
+134394,HorrorMysteryThriller,Barricade,en,34.0,2.178305
+38084,Horror,House III: The Horror Show,en,34.0,2.171427
+35977,Horror,Pumpkinhead II: Blood Wings,en,34.0,2.138141
+33468,HorrorScience Fiction,The Brain That Wouldn't Die,en,34.0,2.131425
+40229,HorrorMysteryThriller,The House on Sorority Row,en,34.0,1.918891
+31022,HorrorCrime,Aftermath,es,34.0,1.838661
+59852,HorrorScience Fiction,Blinky™,en,34.0,1.750012
+2929,HorrorScience Fiction,Frankenstein,en,34.0,1.6598830000000002
+253376,Horror,In Darkness We Fall,es,34.0,1.5229709999999999
+24038,Horror,976-EVIL,en,33.0,15.360682
+216539,HorrorScience Fiction,Ghost Shark,en,33.0,6.4133309999999994
+40466,HorrorActionThriller,Crocodile,en,33.0,5.071511
+27815,Horror,Basket Case 2,en,33.0,4.052825
+26811,Horror,Dr. Terror's House of Horrors,en,33.0,3.4122019999999997
+9783,HorrorThriller,Sublime,en,33.0,3.229071
+16166,Horror,Sauna,fi,33.0,3.176768
+18477,Horror,The Hills Have Eyes Part II,en,33.0,3.09433
+49763,Horror,Bad Moon,en,33.0,2.6610259999999997
+397278,HorrorThriller,Fender Bender,en,33.0,2.647952
+28801,Horror,Twins of Evil,en,33.0,2.619048
+228496,Horror,Sx_Tape,en,33.0,2.5588029999999997
+12791,HorrorThriller,End of the Line,en,33.0,2.4665470000000003
+361042,HorrorTV Movie,The Hollow,en,33.0,2.410183
+3104,HorrorScience Fiction,Frankenstein Created Woman,en,33.0,2.302582
+79550,HorrorThriller,Rogue River,en,33.0,2.2815819999999998
+26178,Horror,Razorback,en,33.0,1.8229790000000001
+100493,Horror,The Devil's Carnival,en,33.0,1.60037
+291866,HorrorScience FictionThriller,The Hive,en,32.0,11.693912
+26278,HorrorScience Fiction,Quatermass II,en,32.0,7.029675
+25751,HorrorThriller,Children of the Corn V: Fields of Terror,en,32.0,6.132346
+15021,HorrorMysteryThriller,Films to Keep You Awake: The Baby's Room,es,32.0,6.111961
+228676,HorrorDramaThriller,Mischief Night,en,32.0,5.26591
+44435,HorrorMysteryThriller,Trauma,it,32.0,4.77663
+28377,Horror,Hell Night,en,32.0,3.6821669999999997
+29896,Horror,Never Cry Werewolf,fr,32.0,3.492425
+26956,Horror,Puppet Master III Toulon's Revenge,en,32.0,3.3498120000000005
+33016,HorrorMysteryThriller,Deadly Blessing,en,32.0,3.175395
+26954,Horror,Puppet Master II,en,32.0,2.788831
+28752,Horror,The Curse of the Werewolf,en,32.0,2.634682
+210913,Horror,Blood Glacier,de,32.0,2.371857
+53459,HorrorThriller,F,en,32.0,2.2999419999999997
+40043,HorrorThriller,Island of Death,en,32.0,1.710088
+91908,HorrorThriller,Rings,en,32.0,1.602998
+87178,HorrorMysteryScience FictionThriller,The Whisperer in Darkness,en,32.0,1.5888799999999998
+347944,Horror,Anguish,en,32.0,1.57501
+38783,HorrorThriller,Trilogy of Terror,en,32.0,1.4880309999999999
+37601,Horror,Tombs of the Blind Dead,es,32.0,1.203655
+25752,HorrorMystery,Children of the Corn 666: Isaac's Return,en,31.0,11.091559
+30137,Horror,The Haunted Palace,en,31.0,10.576153
+337029,HorrorThriller,Frankenstein,en,31.0,10.168119
+29756,Horror,13 Ghosts,en,31.0,6.586372
+59797,HorrorThriller,Bad Dreams,en,31.0,5.296777
+169865,HorrorScience Fiction,The Frankenstein Theory,en,31.0,3.944932
+34479,Horror,Scars of Dracula,en,31.0,3.7641620000000002
+24116,HorrorThriller,The Skeptic,en,31.0,3.6797
+79771,HorrorComedy,Chillerama,en,31.0,3.6441339999999998
+30315,HorrorScience Fiction,Kingdom of the Spiders,en,31.0,2.884359
+268508,Horror,The Mummy Resurrected,en,31.0,2.287275
+375742,HorrorMusic,The Lure,pl,31.0,2.1590380000000002
+41966,HorrorThriller,Pin,en,31.0,2.089317
+38996,Horror,Dead of Night,en,31.0,1.9378810000000002
+92398,HorrorThriller,Cassadaga,en,31.0,1.8075189999999999
+28452,HorrorScience Fiction,Slugs,en,31.0,1.7705229999999998
+267852,HorrorThriller,Black Mountain Side,en,31.0,1.7322369999999998
+36073,Horror,Guinea Pig 2: Flower of Flesh and Blood,ja,31.0,1.714745
+34023,Horror,Bloodsucking Freaks,en,31.0,1.622125
+27370,HorrorMysteryThriller,Paranormal Entity,en,31.0,1.59297
+34592,Horror,ZMD: Zombies of Mass Destruction,en,31.0,1.425986
+33020,Horror,Dracula A.D. 1972,en,30.0,11.174533
+18274,HorrorMystery,Frogs,en,30.0,7.7062479999999995
+16304,HorrorScience Fiction,Creepshow 3,en,30.0,6.060156
+32595,HorrorComedyForeign,Howling III: The Marsupials,en,30.0,5.1189
+17158,HorrorMysteryThriller,They Wait,en,30.0,4.952332
+18724,HorrorScience Fiction,Attack of the 50 Foot Woman,en,30.0,3.559789
+13511,Horror,Rawhead Rex,fr,30.0,3.4979430000000002
+28319,Horror,Nightmare City,it,30.0,3.1858009999999997
+32237,Horror,Whispering Corridors 3: Wishing Stairs,ko,30.0,2.7688029999999997
+55861,Horror,The Task,en,30.0,2.427323
+14021,HorrorThriller,One Missed Call 2,ja,30.0,2.327253
+347642,Horror,Bite,en,30.0,2.259175
+70575,HorrorThriller,Children of the Corn: Genesis,en,30.0,2.1123939999999997
+9847,Horror,The Tripper,en,30.0,2.0304349999999998
+100275,HorrorComedy,Eddie: The Sleepwalking Cannibal,en,30.0,2.025477
+39043,Horror,Countess Dracula,en,30.0,1.9799069999999999
+10578,Horror,Dracula II: Ascension,en,30.0,1.9031069999999999
+27259,HorrorThriller,Long Time Dead,en,30.0,1.818561
+39867,Horror,Don't Go in the House,en,30.0,1.811797
+26722,HorrorMysteryThriller,Nine Miles Down,en,30.0,1.7823759999999997
+27764,HorrorComedy,Slumber Party Massacre II,en,30.0,1.718146
+39111,HorrorDrama,4bia,th,30.0,1.716418
+28177,Horror,Two Thousand Maniacs!,en,30.0,1.682434
+5424,Horror,The Grim Reaper,it,30.0,1.188769
+42968,HorrorMystery,The Nun,es,30.0,1.163546
+224908,Horror,Embrace of the Vampire,en,30.0,0.562195
+26680,Horror,Shock Waves,en,29.0,6.6497910000000005
+271665,HorrorThriller,Deep in the Darkness,en,29.0,5.577636
+39899,HorrorScience Fiction,Turkey Shoot,en,29.0,5.409525
+25241,Horror,Squirm,en,29.0,3.192931
+18011,Horror,Leprechaun in the Hood,en,29.0,3.0986029999999998
+17343,Horror,Vampyros Lesbos,es,29.0,3.047838
+347847,HorrorScience Fiction,The Sand,en,29.0,3.035252
+14916,HorrorScience Fiction,Moontrap,en,29.0,2.947234
+257093,HorrorThriller,Dark House,en,29.0,2.8511599999999997
+23506,Horror,The Wizard of Gore,en,29.0,2.526194
+47090,Horror,The Pit and the Pendulum,en,29.0,2.252625
+40220,Horror,The Boogey Man,en,29.0,2.241945
+42309,HorrorThrillerMystery,Fear Island,en,29.0,2.194041
+17907,HorrorCrime,The Raven,en,29.0,2.114251
+329020,HorrorAnimationMystery,Extraordinary Tales,en,29.0,2.101326
+35669,Horror,The Satanic Rites of Dracula,en,29.0,2.067929
+197919,HorrorThriller,A Haunting at Silver Falls,en,29.0,1.539406
+2972,HorrorScience FictionThriller,The Golem: How He Came Into the World,de,29.0,1.52413
+42245,HorrorScience Fiction,The Food of the Gods,en,29.0,1.4516870000000002
+39982,HorrorThriller,Just Before Dawn,en,29.0,1.239
+24330,Horror,Seventh Moon,en,28.0,7.961566
+39875,Horror,Popcorn,en,28.0,3.399036
+464111,HorrorScience Fiction,Zygote,en,28.0,3.2140009999999997
+3043,Horror,Flesh for Frankenstein,en,28.0,3.104212
+27770,Horror,Sometimes They Come Back... Again,en,28.0,2.637369
+33828,HorrorThrillerRomance,Criminal Lovers,fr,28.0,2.5697740000000002
+84742,Horror,Donner Pass,en,28.0,2.136647
+56937,Horror,Cold Prey III,nb,28.0,1.8179290000000001
+20842,HorrorComedy,Children Shouldn't Play with Dead Things,en,28.0,1.7960650000000002
+15434,Horror,Seed,en,28.0,1.7827650000000002
+16179,HorrorMysteryThriller,Breathing Room,en,28.0,1.776816
+73290,HorrorThriller,Urban Explorer,de,28.0,1.5693030000000001
+32171,HorrorForeignDramaScience Fiction,Infection,ja,28.0,1.406611
+34288,HorrorMystery,The Last Broadcast,en,28.0,1.3994950000000002
+47038,HorrorMysteryThriller,The Pit,en,28.0,1.318185
+15422,HorrorThriller,Dark Ride,en,28.0,1.198151
+18616,HorrorThriller,No Man's Land: The Rise of Reeker,en,27.0,8.618134
+392818,HorrorDrama,The Transfiguration,en,27.0,6.371291
+40649,Horror,Demonic Toys,en,27.0,4.686159
+17212,HorrorScience FictionThriller,Patrick,en,27.0,3.868092
+40368,Horror,Nightmare,en,27.0,3.562622
+31196,HorrorScience FictionThriller,Growth,en,27.0,2.6604360000000002
+340401,HorrorComedy,Potato Salad: Don't Ask!,de,27.0,2.51729
+368256,Horror,Condemned,en,27.0,2.418307
+21198,HorrorThriller,House of Voices,fr,27.0,2.373442
+26693,Horror,Ju-on: White Ghost,ja,27.0,2.215998
+337085,HorrorThriller,Estranged,en,27.0,1.908936
+28910,HorrorMystery,Mark of the Vampire,en,27.0,1.892786
+412766,HorrorMysteryThriller,Sam Was Here,en,27.0,1.8140900000000002
+30713,HorrorThriller,Shiver,es,27.0,1.631904
+27179,HorrorScience Fiction,It! The Terror from Beyond Space,en,27.0,1.618275
+135670,HorrorMysteryThriller,Amber Alert,en,27.0,1.424857
+39261,HorrorMystery,The House That Dripped Blood,en,27.0,1.2985
+341051,Horror,Deep Dark,en,27.0,1.154928
+75623,Horror,The Howling: Reborn,en,27.0,1.079467
+19222,HorrorThriller,Parasomnia,en,26.0,10.459653
+167960,HorrorThriller,Sanitarium,en,26.0,10.267494000000001
+31655,HorrorThriller,The Terror,en,26.0,7.958403
+12677,HorrorThriller,The Backwoods,es,26.0,7.8562520000000005
+42251,HorrorScience Fiction,Forbidden World,en,26.0,5.552958
+55784,Horror,Grizzly,en,26.0,5.4241209999999995
+41759,HorrorScience FictionThriller,Man's Best Friend,en,26.0,4.719295
+327253,HorrorScience FictionAction,The Gracefield Incident,en,26.0,4.184305999999999
+3127,HorrorScience Fiction,The Revenge of Frankenstein,en,26.0,3.522296
+42218,HorrorScience Fiction,Empire of the Ants,en,26.0,3.244027
+32904,HorrorDramaThriller,Tony,en,26.0,3.2330400000000004
+54013,HorrorScience Fiction,The Visitor,en,26.0,3.0352259999999998
+298653,HorrorThriller,Berkshire County,en,26.0,2.620536
+19288,HorrorComedy,Leprechaun: Back 2 tha Hood,en,26.0,2.551286
+157422,Horror,The Wicked Within,en,26.0,2.278493
+26774,HorrorThriller,The Blood on Satan's Claw,en,26.0,2.2215130000000003
+44932,HorrorScience Fiction,Without Warning,en,26.0,2.218273
+40064,Horror,To the Devil a Daughter,en,26.0,2.130583
+17166,HorrorThriller,Insanitarium,en,26.0,2.127656
+37254,Horror,Mermaid Chronicles Part 1: She Creature,en,26.0,2.0880490000000003
+159211,HorrorThriller,The Haunting of Helena,en,26.0,2.057244
+62132,HorrorComedy,Blood Diner,en,26.0,2.056523
+27886,Horror,Slaughter High,en,26.0,2.056449
+3075,HorrorScience Fiction,Frankenstein Must Be Destroyed,en,26.0,2.049849
+80920,HorrorThriller,Repentance,en,26.0,1.9628729999999999
+46175,HorrorThriller,Daughters of Darkness,fr,26.0,1.843332
+40039,HorrorScience FictionThriller,Spiders,en,26.0,1.8314119999999998
+3124,HorrorScience Fiction,The Evil of Frankenstein,en,26.0,1.8166650000000002
+28172,Horror,Blood Feast,en,26.0,1.783412
+369202,Horror,Lake Bodom,fi,26.0,1.78089
+29960,Horror,Vampire Circus,en,26.0,1.72498
+28859,Horror,Dolly Dearest,en,26.0,1.6864259999999998
+11417,HorrorScience FictionThriller,The Lift,nl,26.0,1.583504
+16313,HorrorThriller,Coming Soon,th,26.0,1.520749
+326441,Horror,Pernicious,en,26.0,1.378801
+25744,Horror,A Slit-Mouthed Woman,ja,26.0,1.367306
+54525,HorrorThriller,Secrets in the Walls,en,26.0,1.3563120000000002
+101724,Horror,Nailbiter,en,26.0,1.2737370000000001
+26040,Horror,Haze,ja,26.0,1.233593
+40254,Horror,Whispering Corridors,ko,26.0,1.219861
+40952,HorrorThriller,Alone in the Dark,en,26.0,1.057387
+14228,HorrorMysteryThriller,Mortuary,en,25.0,8.261448
+18289,HorrorScience Fiction,Godzilla vs. Biollante,ja,25.0,6.297432
+25993,HorrorThrillerMystery,Asylum,en,25.0,5.378622
+53150,HorrorComedyScience Fiction,C.H.U.D. II: Bud the Chud,en,25.0,4.980211
+425931,Horror,The Black Room,fr,25.0,3.703992
+31915,HorrorScience Fiction,Prophecy,en,25.0,3.579175
+47914,HorrorWestern,The White Buffalo,en,25.0,2.930324
+55723,Horror,ChromeSkull: Laid to Rest 2,en,25.0,2.6514189999999997
+19116,HorrorScience Fiction,Asylum,en,25.0,2.07055
+14866,HorrorThrillerMystery,Farm House,en,25.0,2.059098
+66164,HorrorThrillerRomance,Little Deaths,en,25.0,2.022045
+153750,Horror,The Complex,ja,25.0,1.658179
+309063,Horror,The Ouija Experiment 2: Theatre of Death,en,25.0,1.642247
+21784,Horror,Exte: Hair Extensions,cs,25.0,1.341795
+49365,HorrorThriller,Lady in White,en,25.0,1.19789
+38761,HorrorScience Fiction,Night of the Lepus,en,25.0,1.1798110000000002
+18759,HorrorScience FictionThriller,The Cell 2,en,24.0,7.790201
+26865,HorrorScience FictionMystery,X: The Unknown,en,24.0,7.5309029999999995
+270221,HorrorDramaMystery,Neverlake,en,24.0,7.022339
+21141,HorrorThriller,Simon Says,en,24.0,6.6241270000000005
+29049,Horror,The Plague of the Zombies,en,24.0,4.63932
+32173,Horror,Bunshinsaba: Ouija Board,ko,24.0,3.5636339999999995
+32146,HorrorThriller,Body Parts,en,24.0,3.518972
+28679,HorrorThriller,House on the Edge of the Park,it,24.0,3.227677
+57011,HorrorActionThrillerScience Fiction,Alien vs. Ninja,en,24.0,2.764059
+28499,HorrorThriller,Open Graves,en,24.0,2.662584
+10579,Horror,Dracula III: Legacy,en,24.0,2.5914479999999998
+25753,Horror,Children of the Corn: Revelation,en,24.0,2.58429
+32652,HorrorMysteryThriller,Mystery of the Wax Museum,en,24.0,2.356071
+53101,HorrorScience Fiction,Manborg,en,24.0,2.274115
+27495,Horror,The Toolbox Murders,en,24.0,2.1591810000000002
+220447,HorrorFantasyActionAdventureMysteryCrimeDrama,Black Butler,ja,24.0,2.106661
+48636,Horror,Nekromantik 2,de,24.0,2.099329
+356149,Horror,Robert the Doll,en,24.0,2.010895
+28503,HorrorThriller,Dementia 13,en,24.0,1.990789
+55152,Horror,The Oblong Box,en,24.0,1.932663
+49745,HorrorMysteryThriller,The 4th Floor,en,24.0,1.737961
+269776,HorrorDramaThriller,Alleluia,fr,24.0,1.730616
+20016,Horror,Trailer Park of Terror,fr,24.0,1.7285380000000001
+85207,HorrorThriller,Airborne,en,24.0,1.536225
+263986,HorrorFantasyThriller,The Drownsman,en,24.0,1.50184
+36489,HorrorScience Fiction,Bride of the Monster,en,24.0,1.406932
+46788,HorrorDrama,Trash Humpers,en,24.0,1.215143
+9706,Horror,Rasen,ja,24.0,1.1995120000000001
+18334,Horror,Guinea Pig: Devil's Experiment,ja,24.0,1.1778520000000001
+28264,Horror,Blood Rage,en,23.0,10.405166
+3117,HorrorScience Fiction,Frankenstein and the Monster from Hell,en,23.0,8.388808000000001
+191619,HorrorThriller,Beneath,en,23.0,7.244622
+123107,HorrorComedyThriller,Hellbenders,en,23.0,5.28105
+17874,HorrorActionScience FictionThriller,Laserblast,en,23.0,4.668419999999999
+322922,HorrorThrillerAction,Awaken,en,23.0,3.621457
+119478,Horror,Devil Seed,en,23.0,2.615004
+14147,Horror,DeVour,en,23.0,2.475365
+288154,HorrorComedy,Jersey Shore Massacre,en,23.0,2.466441
+27816,Horror,Basket Case 3,en,23.0,2.452019
+26957,Horror,Puppet Master 4,en,23.0,2.420391
+96648,HorrorThriller,Asylum Blackout,en,23.0,2.401824
+50382,Horror,Monster in the Closet,en,23.0,2.3989540000000003
+29445,HorrorDrama,Epidemic,da,23.0,2.354311
+74860,Horror,White: The Melody of the Curse,ko,23.0,1.93372
+40383,Horror,The Last Shark,en,23.0,1.74774
+204260,HorrorThriller,Killer Toon,ko,23.0,1.730507
+52702,Horror,Superstition,en,23.0,1.693107
+26015,HorrorTV Movie,Don't Be Afraid of the Dark,en,23.0,1.525986
+16915,Horror,Gutterballs,en,23.0,1.505798
+52943,HorrorThrillerDrama,The Phone Box,es,23.0,1.487562
+321039,HorrorThrillerScience Fiction,The Phoenix Incident,en,23.0,1.352518
+70448,Horror,All About Evil,en,23.0,1.112225
+40219,HorrorScience Fiction,The Beast Within,en,23.0,0.948859
+43143,HorrorScience Fiction,The Crawling Eye,en,23.0,0.93291
+30666,HorrorThriller,Stepfather II: Make Room For Daddy,en,22.0,11.067992
+116463,HorrorScience Fiction,Arachnoquake,en,22.0,8.26942
+48131,HorrorDrama,The Shout,en,22.0,4.906256
+17038,HorrorScience Fiction,Lake Placid 2,en,22.0,4.553744999999999
+48014,Horror,From Beyond the Grave,en,22.0,4.347358
+396004,Horror,The Evil in Us,en,22.0,3.6088370000000003
+128841,HorrorThriller,The Thompsons,en,22.0,3.13727
+403368,HorrorMysteryThriller,Havenhurst,en,22.0,2.767271
+18045,HorrorScience FictionThriller,The Dark Hours,en,22.0,2.758048
+30997,Horror,Ghosthouse,en,22.0,2.739535
+31428,HorrorMysteryTV MovieThriller,Someone's Watching Me!,en,22.0,2.697299
+27420,Horror,Graduation Day,en,22.0,2.590862
+46885,HorrorThriller,Visiting Hours,en,22.0,2.544855
+17886,HorrorScience Fiction,Mutants,fr,22.0,2.464117
+21380,Horror,Hell of the Living Dead,en,22.0,2.442874
+17306,HorrorScience FictionThriller,Ice Spiders,en,22.0,2.286943
+260030,HorrorFantasy,Nymph,sr,22.0,2.207203
+24331,HorrorScience FictionAction,Scanners II: The New Order,en,22.0,2.201123
+83223,HorrorScience Fiction,Rats: Night of Terror,en,22.0,1.940675
+31579,HorrorThrillerMystery,God Told Me To,en,22.0,1.903143
+40760,Horror,Sorority House Massacre,en,22.0,1.8724610000000002
+25944,Horror,Blood for Dracula,en,22.0,1.8255709999999998
+270851,HorrorComedy,Blood Lake,en,22.0,1.7901490000000002
+24417,Horror,Apartment 1303,ja,22.0,1.7465990000000002
+40761,HorrorScience Fiction,Revenge of the Creature,en,22.0,1.74278
+84520,Horror,The Bunny Game,en,22.0,1.687991
+131916,Horror,Scary or Die,en,22.0,1.6697970000000002
+19742,HorrorScience Fiction,Rodan,ja,22.0,1.624159
+14686,Horror,Midnight Movie,en,22.0,1.61398
+64792,Horror,The Red Shoes,ko,22.0,1.5890819999999999
+138943,HorrorThriller,Daddy's Little Girl,en,22.0,1.566681
+37284,Horror,Acacia,ko,22.0,1.46791
+137217,Horror,Donovan's Echo,en,22.0,1.459705
+20591,Horror,Cradle of Fear,en,22.0,1.44886
+62439,HorrorComedyDrama,Hello Ghost,ko,22.0,1.326652
+36917,Horror,Ju-on: Black Ghost,ja,22.0,1.280953
+362439,Horror,They Found Hell,en,22.0,1.163551
+29320,HorrorScience Fiction,The Devil-Doll,en,22.0,1.155181
+39868,Horror,Evilspeak,en,22.0,1.120185
+44340,Horror,Wendigo,en,22.0,0.9107719999999999
+110650,Horror,Outer Space,en,22.0,0.372715
+50942,HorrorScience FictionThriller,Creature,en,21.0,6.243385
+30855,Horror,Dr Jekyll & Sister Hyde,en,21.0,5.608278
+5620,Horror,Count Dracula,en,21.0,5.419176
+339342,Horror,Anarchy Parlor,en,21.0,3.2579990000000003
+37813,HorrorThriller,Shadow,en,21.0,2.949394
+22066,HorrorThriller,The Marsh,en,21.0,2.827337
+20919,Horror,The Devil's Chair,en,21.0,2.420788
+41671,Horror,Amityville: It's About Time,en,21.0,2.418256
+51442,Horror,American Gothic,en,21.0,2.412785
+183412,Horror,Dead Souls,en,21.0,2.366645
+27313,Horror,I Drink Your Blood,en,21.0,2.0303419999999996
+21792,HorrorThrillerForeign,The Ghost,ko,21.0,1.954925
+58432,HorrorMysteryScience FictionThriller,The Dark Hour,es,21.0,1.9363009999999998
+296503,HorrorComedy,Dude Bro Party Massacre III,en,21.0,1.933788
+284711,HorrorScience FictionTV Movie,Sharktopus vs Pteracuda,en,21.0,1.8877130000000002
+28070,HorrorScience Fiction,Surf Nazis Must Die,en,21.0,1.7889130000000002
+38500,Horror,Howling IV: The Original Nightmare,en,21.0,1.6667040000000002
+39931,HorrorDramaHistoryThriller,Mark of the Devil,de,21.0,1.6312389999999999
+32612,HorrorThriller,The Traveler,en,21.0,1.628307
+39814,Horror,Salvage,fr,21.0,1.494051
+10011,HorrorThriller,Abominable,en,21.0,1.462272
+29052,Horror,The Reptile,en,21.0,1.420766
+73203,Horror,The Sorcerers,en,21.0,1.342408
+24837,Horror,August Underground's Mordum,en,21.0,1.340559
+37935,Horror,One Dark Night,en,21.0,1.301316
+82115,HorrorThrillerMystery,Skew,en,21.0,1.213249
+37929,HorrorThriller,Fortress,en,21.0,1.134903
+8692,HorrorThriller,Invasion of the Flesh Hunters,it,21.0,1.107117
+14025,HorrorThriller,Lake Dead,en,21.0,1.104265
+18015,Horror,Shark Attack 3: Megalodon,fr,21.0,1.0935840000000001
+30913,HorrorForeign,At Midnight I'll Take Your Soul,pt,21.0,1.049373
+5481,HorrorThriller,Shock,en,21.0,0.9927739999999999
+39283,HorrorScience Fiction,Carnosaur,fr,21.0,0.293373
+30793,HorrorScience Fiction,House of Dracula,en,20.0,9.074831
+5425,Horror,Beyond the Darkness,it,20.0,8.541796000000001
+45779,HorrorScience FictionThriller,Mindwarp,en,20.0,3.8399360000000002
+229138,Horror,Djinn,en,20.0,3.650947
+390883,HorrorScience FictionThriller,The Dark Tapes,en,20.0,3.525879
+39341,Horror,Big Bad Wolf,en,20.0,3.467833
+400329,Horror,First Born,en,20.0,3.452014
+26959,Horror,Curse of the Puppet Master,pt,20.0,3.4470330000000002
+61683,HorrorDrama,Don't Deliver Us from Evil,fr,20.0,2.935694
+29959,HorrorScience Fiction,It Came from Beneath the Sea,en,20.0,2.917071
+406107,HorrorThriller,Dead Awake,en,20.0,2.808386
+55470,Horror,One Missed Call 3: Final,ja,20.0,2.513257
+41235,Horror,Ritual,en,20.0,2.467616
+19066,Horror,Rest Stop: Don't Look Back,en,20.0,2.449903
+40074,Horror,Alucarda,es,20.0,2.363613
+56705,HorrorThriller,Crawlspace,en,20.0,2.230313
+27425,HorrorDrama,Blind Beast,ja,20.0,2.219862
+64108,HorrorScience Fiction,The Frankenstein Syndrome,en,20.0,2.219179
+27767,HorrorComedy,Slumber Party Massacre III,en,20.0,1.986075
+50272,HorrorThriller,We Are What We Are,es,20.0,1.881046
+40231,HorrorScience Fiction,The Incredible Melting Man,en,20.0,1.849651
+27916,Horror,Redneck Zombies,en,20.0,1.8016880000000002
+30348,HorrorThriller,Isle of the Dead,en,20.0,1.791188
+26588,HorrorThriller,Summer's Blood,en,20.0,1.7071290000000001
+402976,HorrorComedy,Range 15,en,20.0,1.6502860000000001
+309889,HorrorThriller,The Culling,en,20.0,1.639984
+16882,HorrorMystery,The Guard Post,ko,20.0,1.6338840000000001
+50173,HorrorDrama,Jigoku,ja,20.0,1.612618
+57100,HorrorActionThrillerMysteryForeign,Double Vision,zh,20.0,1.462804
+219247,Horror,Zombie Night,en,20.0,1.438547
+28051,HorrorMysteryThriller,5 Dolls for an August Moon,it,20.0,1.4337030000000002
+26677,Horror,The Video Dead,en,20.0,1.381441
+21266,HorrorScience Fiction,Reptilicus,da,20.0,1.262936
+28156,HorrorThriller,The Baby,en,20.0,1.261534
+259233,Horror,Ju-on: The Beginning of the End,ja,20.0,1.235132
+37526,HorrorMystery,The Dentist 2: Brace Yourself,en,20.0,1.127098
+40244,Horror,The Witches,en,20.0,1.014505
+39222,Horror,The Kiss of the Vampire,en,20.0,0.820649
+35945,Horror,Howling V: The Rebirth,en,20.0,0.187499
+70199,HorrorThrillerCrimeMystery,Dead of Winter,en,20.0,0.096403
+39263,Horror,Blood from the Mummy's Tomb,en,19.0,6.3538809999999994
+40353,HorrorThriller,"I, Madman",en,19.0,5.5936010000000005
+31385,Horror,Zombie Nightmare,en,19.0,5.402952
+26958,Horror,Puppet Master 5: The Final Chapter,en,19.0,4.139393
+24868,Horror,Offspring,en,19.0,4.009138
+4457,Horror,Witchery,en,19.0,3.371289
+356486,HorrorComedy,Lumberjack Man,en,19.0,3.35736
+10251,HorrorThriller,5ive Girls,en,19.0,3.148351
+37227,Horror,Of Unknown Origin,en,19.0,3.009764
+36421,Horror,Howling VI: The Freaks,en,19.0,2.61499
+352372,HorrorThriller,Darling,en,19.0,2.503793
+214256,HorrorMysteryThriller,AfterDeath,en,19.0,2.503486
+15736,Horror,The Death King,de,19.0,2.423177
+41848,Horror,The Amityville Curse,en,19.0,2.416489
+41651,HorrorScience FictionThriller,Ghost in the Machine,en,19.0,2.404331
+79329,HorrorComedy,Treevenge,en,19.0,2.341853
+42215,Horror,The Legacy,en,19.0,2.309037
+70345,HorrorScience Fiction,Sssssss,en,19.0,2.283113
+295723,Horror,Kingdom Come,en,19.0,1.9110220000000002
+122372,HorrorScience FictionThriller,The Ghostmaker,en,19.0,1.8521299999999998
+27545,HorrorScience Fiction,The Wasp Woman,en,19.0,1.78919
+53949,HorrorScience Fiction,The Monster that Challenged the World,en,19.0,1.721675
+32152,Horror,APT.,ko,19.0,1.709284
+28050,HorrorForeign,Hatchet for the Honeymoon,it,19.0,1.491578
+12128,HorrorComedy,Night of the Living Dorks,de,19.0,1.480979
+26233,Horror,April Fool's Day,en,19.0,1.4461899999999999
+40087,HorrorComedyThriller,Cheerleader Camp,en,19.0,1.3398700000000001
+44936,Horror,Don't Go In the Woods,en,19.0,1.294959
+18773,HorrorMysteryThriller,Doppelganger,en,19.0,1.166411
+29347,HorrorScience Fiction,Fiend Without a Face,en,19.0,1.060049
+63025,HorrorThrillerMystery,A Lizard in a Woman's Skin,it,19.0,1.0457370000000001
+48374,Horror,Piranha,en,19.0,1.0441989999999999
+92397,HorrorThriller,Rites of Spring,en,19.0,1.017578
+5485,Horror,Baron Blood,it,19.0,1.0175319999999999
+39176,Horror,The Awakening,en,19.0,1.004992
+24097,HorrorThriller,Don't Look in the Basement,en,19.0,0.689278
+87852,Horror,Microwave Massacre,en,19.0,0.08419700000000001
+347757,HorrorThriller,Worry Dolls,en,18.0,10.810706
+5898,HorrorActionThrillerScience Fiction,Brain Dead,en,18.0,10.28123
+140441,Horror,Sadako 3D,ja,18.0,9.039479
+35813,HorrorMysteryThriller,The Bat,en,18.0,8.819138
+16080,Horror,Crazy Eights,en,18.0,7.6219149999999996
+16315,Horror,Campfire Tales,en,18.0,6.985328
+48015,HorrorAction,13Hrs,en,18.0,6.156071
+26504,HorrorMysteryThriller,Black Belly of the Tarantula,en,18.0,4.726173
+49347,HorrorThrillerMystery,Needle,en,18.0,3.242613
+27740,Horror,A Return to Salem's Lot,en,18.0,2.7315009999999997
+289097,Horror,Cell 213,en,18.0,2.68548
+221437,HorrorDrama,Miss Zombie,ja,18.0,2.619554
+47892,HorrorMysteryScience Fiction,Strange Invaders,en,18.0,2.430068
+15476,HorrorThriller,7eventy 5ive,en,18.0,2.365883
+21156,HorrorComedyForeign,Lunacy,cs,18.0,2.365427
+28148,HorrorAction,Ninja III: The Domination,en,18.0,2.313986
+97794,HorrorThrillerCrimeForeign,The Road,tl,18.0,2.234864
+15711,HorrorCrimeDramaThriller,The Lost,en,18.0,2.017489
+55045,HorrorMysteryThriller,Psych:9,en,18.0,1.849045
+45347,HorrorThrillerMysteryDrama,The Bleeding House,en,18.0,1.732076
+391975,HorrorScience FictionThriller,2 Lava 2 Lantula!,en,18.0,1.655786
+77010,Horror,The Living Dead Girl,fr,18.0,1.605782
+28438,Horror,The Leopard Man,en,18.0,1.494525
+40217,HorrorScience FictionThriller,Terminal Invasion,en,18.0,1.481442
+28746,HorrorThriller,"Ilsa, the Tigress of Siberia",en,18.0,1.4043729999999999
+22130,Horror,Zombie Lake,fr,18.0,1.385791
+41574,HorrorScience Fiction,Mosquito,en,18.0,1.350662
+42507,HorrorThrillerMysteryForeign,Bestseller,ko,18.0,1.289258
+31287,Horror,Eegah,en,18.0,1.2742280000000001
+43109,HorrorScience Fiction,The Killer Shrews,en,18.0,1.230246
+39164,HorrorComedyMystery,House of the Long Shadows,en,18.0,1.1855149999999999
+57313,HorrorMysteryCrime,8213: Gacy House,en,18.0,1.184452
+29107,Horror,The Grapes of Death,fr,18.0,1.125715
+31245,HorrorActionComedyThrillerScience Fiction,Hobgoblins,en,18.0,1.0964200000000002
+37529,HorrorThriller,The Prophecy: Forsaken,en,18.0,1.0402209999999998
+267268,HorrorThriller,Darker Than Night,es,18.0,1.028514
+22450,HorrorActionThriller,Red Water,en,18.0,1.012234
+49037,HorrorScience FictionForeign,Hellevator,ja,18.0,0.9883549999999999
+36089,HorrorScience Fiction,The Giant Claw,en,18.0,0.9759709999999999
+248561,Horror,Krampus: The Christmas Devil,en,18.0,0.960142
+54117,HorrorMysteryForeign,Three,ko,18.0,0.938167
+22727,HorrorScience Fiction,The Beast of Yucca Flats,en,18.0,0.93079
+42187,HorrorActionThrillerForeign,Shark Attack 2,fr,18.0,0.73047
+40469,Horror,Final Exam,en,18.0,0.686963
+53045,HorrorThriller,Hands of the Ripper,en,18.0,0.649984
+33721,Horror,The Boogens,en,18.0,0.235578
+49352,Horror,Night Train to Terror,en,18.0,0.029194
+26503,Horror,The Black Cat,en,17.0,7.551234
+33519,Horror,Amityville: A New Generation,en,17.0,6.401828
+32033,HorrorScience Fiction,Pulse,en,17.0,5.398337000000001
+226948,HorrorScience Fiction,Scarecrow,en,17.0,4.322592
+33419,HorrorThrillerMystery,The House of Fear,en,17.0,3.1488009999999997
+37190,HorrorComedy,Transylmania,en,17.0,2.589745
+52263,Horror,Amityville: Dollhouse,en,17.0,2.357522
+132957,HorrorCrimeMystery,Don't Click,ko,17.0,2.325504
+275985,HorrorComedy,The Coed and the Zombie Stoner,en,17.0,1.904582
+24111,HorrorDramaThriller,Bedlam,en,17.0,1.8565369999999999
+3581,Horror,Death Line,en,17.0,1.819461
+28389,Horror,Death Spa,en,17.0,1.796689
+29064,HorrorThriller,The Omega Code,en,17.0,1.789046
+31013,HorrorScience Fiction,Earth vs. the Spider,en,17.0,1.762141
+30885,HorrorThriller,Vampyres,en,17.0,1.743689
+30903,HorrorCrimeMystery,Blade of the Ripper,it,17.0,1.6600139999999999
+145668,HorrorActionComedyThriller,Butcher Boys,en,17.0,1.65166
+388243,HorrorThriller,Bleed,en,17.0,1.559758
+28155,Horror,It Lives Again,en,17.0,1.5593299999999999
+207273,Horror,Chilling Visions: 5 Senses of Fear,en,17.0,1.527822
+117856,HorrorScience FictionAdventure,Bigfoot,en,17.0,1.516298
+40458,Horror,Welcome to the Jungle,en,17.0,1.451427
+279977,Horror,The Mirror,en,17.0,1.420161
+36224,HorrorCrimeDrama,Subconscious Cruelty,en,17.0,1.349913
+77068,HorrorActionAdventure,War of the Dead,en,17.0,1.3319370000000001
+79906,HorrorThriller,Occupant,en,17.0,1.325986
+26334,HorrorThriller,Run Bitch Run,en,17.0,1.321136
+21795,HorrorThriller,Voices,ko,17.0,1.239318
+120478,Horror,The Haunting of Whaley House,en,17.0,1.235331
+47194,HorrorThriller,Blood Night: The Legend of Mary Hatchet,en,17.0,1.2330969999999999
+52817,HorrorThriller,Bitter Feast,en,17.0,1.194121
+18278,HorrorThriller,Perkins' 14,en,17.0,1.1844299999999999
+53080,Horror,Malibu Shark Attack,en,17.0,1.13806
+42466,Horror,Scream Blacula Scream,en,17.0,1.059192
+45778,HorrorThriller,Camp Hell,en,17.0,0.9809129999999999
+18441,HorrorThriller,Death of a Ghost Hunter,en,17.0,0.946641
+66608,HorrorActionComedyForeign,Blubberella,en,17.0,0.859908
+67737,Horror,Macabre,en,17.0,0.30828
+115084,HorrorScience Fiction,Piranhaconda,en,16.0,6.6072630000000006
+26946,HorrorScience Fiction,Attack of the Crab Monsters,en,16.0,5.264676000000001
+62131,HorrorThriller,Link,en,16.0,3.7282599999999997
+73963,Horror,Creature,en,16.0,3.6196410000000006
+30789,HorrorThriller,Venom,en,16.0,3.049914
+401065,Horror,The Axe Murders of Villisca,en,16.0,2.671452
+11226,HorrorThriller,Strip Nude for Your Killer,it,16.0,2.5401029999999998
+370234,HorrorThriller,Dementia,en,16.0,2.4437439999999997
+24921,Horror,Rise of the Gargoyles,en,16.0,2.410279
+19723,HorrorComedy,The League of Gentlemen's Apocalypse,en,16.0,2.010946
+39044,Horror,The Curse of the Mummy's Tomb,en,16.0,1.9427709999999998
+41434,Horror,Don't Look Up,en,16.0,1.894816
+26245,Horror,Dark Prince: The True Story of Dracula,en,16.0,1.8218450000000002
+32166,HorrorMysteryThriller,Chasing Sleep,en,16.0,1.8006650000000002
+35197,HorrorThrillerMystery,The Reeds,en,16.0,1.674675
+40060,Horror,The Manitou,en,16.0,1.664737
+33305,HorrorScience FictionAction,Scanners III: The Takeover,en,16.0,1.6149129999999998
+48669,HorrorThriller,Terror Trap,en,16.0,1.466318
+19551,Horror,Shadow Puppets,en,16.0,1.443434
+27320,Horror,Jack Frost 2: Revenge of the Mutant Killer Snowman,en,16.0,1.440445
+48350,HorrorForeign,Psychomania,en,16.0,1.421706
+37938,HorrorThrillerTV Movie,Stranger in Our House,en,16.0,1.361976
+84473,Horror,The Iron Rose,fr,16.0,1.318222
+28229,Horror,Rumpelstiltskin,en,16.0,1.279968
+4288,HorrorThriller,The Final Terror,en,16.0,1.269709
+45009,Horror,Shark in Venice,en,16.0,1.236186
+30554,HorrorThriller,When A Stranger Calls Back,en,16.0,1.2248780000000001
+40729,Horror,The Gate II: Trespassers,en,16.0,1.214091
+27328,Horror,The Last House on Dead End Street,en,16.0,1.1915930000000001
+40451,Horror,The Mutilator,en,16.0,1.1595090000000001
+63590,HorrorThriller,Hospital Massacre,en,16.0,0.9713430000000001
+41445,HorrorMysteryThriller,Psychosis,en,16.0,0.963993
+214464,Horror,The Dead 2: India,en,16.0,0.9572870000000001
+371451,Horror,Keeper of Darkness,zh,16.0,0.894323
+35250,Horror,The Locals,en,16.0,0.888951
+16231,Horror,Wild Zero,ja,16.0,0.869181
+334088,Horror,Curse of the Witching Tree,en,16.0,0.674552
+28180,Horror,Color Me Blood Red,en,16.0,0.649273
+21927,HorrorThriller,Dark Corners,en,15.0,6.636622
+27084,HorrorScience FictionThriller,Invasion of the Bee Girls,en,15.0,5.952421
+33592,HorrorThriller,White of the Eye,en,15.0,3.121105
+67740,Horror,"Butcher, Baker, Nightmare Maker",en,15.0,2.332268
+36879,HorrorThrillerWar,The Beast in Heat,it,15.0,2.324007
+29111,Horror,Requiem for a Vampire,fr,15.0,2.286054
+266882,HorrorScience FictionThriller,Closer to God,en,15.0,2.225578
+41769,Horror,Prom Night IV: Deliver Us from Evil,en,15.0,2.190786
+24486,HorrorCrimeMysteryThriller,Jack the Ripper,en,15.0,2.102138
+53064,HorrorAnimationDrama,Midori,ja,15.0,2.0931610000000003
+3025,HorrorScience FictionRomance,The Two Faces of Dr. Jekyll,en,15.0,2.065918
+27771,Horror,Sometimes They Come Back... for More,en,15.0,1.927102
+226269,Horror,13/13/13,en,15.0,1.7148830000000002
+2186,Horror,Within the Woods,en,15.0,1.657273
+224243,HorrorMystery,Soulmate,en,15.0,1.624938
+10041,HorrorThriller,Broken,en,15.0,1.491366
+53354,HorrorThriller,In Their Sleep,fr,15.0,1.461445
+22718,HorrorScience Fiction,Attack of the Giant Leeches,en,15.0,1.386687
+53950,HorrorMysteryDrama,The Hearse,en,15.0,1.362088
+16843,Horror,11:11,es,15.0,1.321883
+31596,Horror,Lemora: A Child's Tale of the Supernatural,en,15.0,1.282366
+27122,HorrorThriller,The Attic,en,15.0,1.240934
+50153,HorrorScience FictionThrillerRomance,The Man from Planet X,en,15.0,1.199625
+259129,Horror,Monster,ko,15.0,1.1898520000000001
+363844,Horror,The Ouija Exorcism,en,15.0,1.185324
+40040,HorrorScience Fiction,Spiders 2: Breeding Ground,fr,15.0,1.168436
+15900,HorrorDocumentary,Faces of Death II,en,15.0,1.166911
+10055,HorrorThriller,Room 6,en,15.0,1.126642
+29103,Horror,The Sadist,en,15.0,1.122097
+38499,Horror,The Howling: New Moon Rising,en,15.0,1.0891870000000001
+40365,Horror,The Blood Spattered Bride,es,15.0,1.076492
+64568,HorrorMystery,Taste of Fear,en,15.0,0.9899540000000001
+24916,HorrorComedyForeign,Bio Zombie,cn,15.0,0.870092
+23174,Horror,It's Alive,en,15.0,0.8688040000000001
+74555,Horror,Evil Things,en,15.0,0.8185560000000001
+42532,HorrorScience Fiction,Willard,en,15.0,0.793676
+31383,Horror,The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?,en,15.0,0.7818189999999999
+303856,Horror,The Presence,de,15.0,0.67191
+89403,HorrorComedy,Dear God No!,en,15.0,0.576314
+35862,HorrorRomance,Wedding Trough,en,15.0,0.52976
+77669,HorrorScience Fiction,The Earth Dies Screaming,en,15.0,0.478936
+43115,HorrorScience Fiction,Earth vs. the Spider,en,15.0,0.406202
+13903,Horror,The Wizard of Gore,en,14.0,6.731577000000001
+16825,HorrorMysteryThriller,The Case of the Scorpion's Tail,en,14.0,5.913654
+177552,HorrorThriller,A Resurrection,en,14.0,4.555887
+61689,HorrorRomanceScience FictionThriller,Thirst,en,14.0,4.510859
+52369,Horror,The Pack,fr,14.0,3.7324580000000003
+117120,HorrorScience Fiction,The Facility,en,14.0,3.5045870000000003
+28751,Horror,976-Evil II,en,14.0,2.85339
+30155,HorrorThriller,Naked Fear,en,14.0,2.512786
+26215,HorrorThriller,Quicksilver Highway,fr,14.0,2.503972
+65262,Horror,He Knows You're Alone,en,14.0,2.502341
+127594,Horror,CLONED: The Recreator Chronicles,en,14.0,2.475546
+195796,HorrorThriller,Home Sweet Home,en,14.0,2.295958
+160128,Horror,Sawney: Flesh of Man,en,14.0,2.267245
+117942,HorrorComedy,Girls Gone Dead,en,14.0,2.181036
+3145,HorrorScience Fiction,The Horror of Frankenstein,en,14.0,2.150514
+29402,Horror,Mr. Sardonicus,en,14.0,1.9331189999999998
+107976,HorrorThriller,Black House,ko,14.0,1.868427
+86643,Horror,House of Whipcord,en,14.0,1.754011
+38701,Horror,The Devil's Rain,en,14.0,1.750414
+79073,HorrorThrillerMystery,Messages Deleted,en,14.0,1.653787
+31498,Horror,The Mummy's Hand,en,14.0,1.622519
+36836,HorrorComedy,Stacy: Attack of the Schoolgirl Zombies,en,14.0,1.610079
+40028,HorrorScience Fiction,Not of This Earth,en,14.0,1.569865
+21794,HorrorThrillerForeign,In a Dark Place,en,14.0,1.5253809999999999
+30914,Horror,This Night I'll Possess Your Corpse,pt,14.0,1.415683
+336884,Horror,Dark Woods II,no,14.0,1.395306
+12724,HorrorThrillerComedy,The Convent,en,14.0,1.351392
+127144,HorrorFantasyAnimation,"Don't Hug Me, I'm Scared",en,14.0,1.260183
+39988,Horror,Late Night Trains,it,14.0,1.190145
+18044,HorrorScience Fiction,Ogre,en,14.0,1.187773
+70810,HorrorThriller,The Ghoul,de,14.0,1.148474
+415633,Horror,Tonight She Comes,en,14.0,1.1365370000000001
+77449,HorrorForeign,Epitaph,ko,14.0,1.096971
+35759,Horror,My Super Psycho Sweet 16,en,14.0,1.096116
+129418,HorrorMysteryThriller,Bigfoot: The Lost Coast Tapes,en,14.0,1.091795
+49190,HorrorThrillerMysteryForeign,Antarctic Journal,ko,14.0,1.089218
+58997,HorrorScience Fiction,Invisible Invaders,en,14.0,1.060773
+64215,HorrorForeign,Laddaland,th,14.0,0.9367610000000001
+25028,HorrorActionThriller,The Dead Next Door,en,14.0,0.9015190000000001
+84942,HorrorThriller,The Watermen,en,14.0,0.8961969999999999
+28445,HorrorScience Fiction,Extraterrestrial Visitors,es,14.0,0.8780209999999999
+214990,Horror,An American Ghost Story,en,14.0,0.8626520000000001
+77785,HorrorMysteryThriller,Madison County,en,14.0,0.8366530000000001
+40961,HorrorThriller,The Ugly,fr,14.0,0.774609
+40146,Horror,Night of the Demon,en,14.0,0.758791
+57221,HorrorActionComedy,Blood & Donuts,en,14.0,0.748734
+42709,Horror,"Silent Night, Deadly Night III: Better Watch Out!",en,14.0,0.6600550000000001
+150211,HorrorThriller,The Frozen,en,14.0,0.553158
+78552,Horror,Sweet Sixteen,en,14.0,0.369025
+38074,Horror,Zeder,it,14.0,0.011656
+85196,Horror,The Forest,en,14.0,0.0011330000000000001
+18443,HorrorScience Fiction,Decoys 2: Alien Seduction,en,13.0,7.522408
+360007,HorrorComedy,Patchwork,en,13.0,6.588978999999999
+21799,HorrorComedyThrillerMystery,Cutting Class,en,13.0,5.379013
+50288,Horror,House of Bones,en,13.0,4.347087
+22551,HorrorThriller,Believers,en,13.0,2.209294
+24874,HorrorThriller,Dark Mirror,en,13.0,2.123997
+86640,HorrorActionAdventure,Massacre in Dinosaur Valley,it,13.0,2.123816
+41959,HorrorThriller,Jack's Back,en,13.0,2.06747
+340187,HorrorComedyThriller,Uncaged,en,13.0,2.0182189999999998
+26639,HorrorComedyDramaScience Fiction,Britannia Hospital,en,13.0,2.008448
+35718,HorrorForeign,Nude For Satan,en,13.0,1.824931
+22745,HorrorCrimeMysteryThriller,The Seamstress,en,13.0,1.8004959999999999
+30926,Horror,Pinocchio's Revenge,en,13.0,1.749695
+35074,HorrorScience Fiction,Dinoshark,en,13.0,1.681603
+55689,HorrorMysteryThriller,Baba Yaga,it,13.0,1.6716099999999998
+28363,HorrorThrillerMystery,The Mad Magician,en,13.0,1.640884
+25234,Horror,Evil Ed,en,13.0,1.63905
+216016,Horror,The Amityville Asylum,en,13.0,1.621948
+34125,HorrorThriller,Vampire Journals,en,13.0,1.592755
+27642,HorrorScience Fiction,Queen of Blood,en,13.0,1.362528
+28522,HorrorScience Fiction,Day of the Dead 2: Contagium,en,13.0,1.343377
+191312,HorrorMystery,For Elise,es,13.0,1.3224559999999999
+13946,HorrorScience Fiction,The Rage,en,13.0,1.299664
+70878,Horror,Mimesis,en,13.0,1.216599
+47553,HorrorMysteryRomanceScience Fiction,Twice-Told Tales,en,13.0,1.1854200000000001
+38125,HorrorScience Fiction,Curse of the Fly,en,13.0,1.168944
+86889,HorrorTV Movie,Bram Stoker's Dracula,en,13.0,1.158388
+55547,HorrorActionThriller,Route 666,en,13.0,1.1411719999999999
+23045,HorrorScience Fiction,Killers from Space,en,13.0,1.1353309999999999
+101791,HorrorThriller,Elfie Hopkins,en,13.0,1.1340729999999999
+64624,HorrorMysteryThriller,The House That Screamed,es,13.0,1.125099
+100024,HorrorThriller,Bloodwork,en,13.0,1.099911
+135195,HorrorDrama,P,th,13.0,1.0638040000000002
+29394,HorrorMysteryThriller,Homicidal,en,13.0,1.057432
+79319,Horror,The Incubus,en,13.0,1.011264
+40130,HorrorMysteryThriller,The Red Queen Kills Seven Times,it,13.0,1.01031
+40241,Horror,The Unseen,en,13.0,0.86926
+326415,Horror,Headless,en,13.0,0.853425
+58792,HorrorThriller,BreadCrumbs,en,13.0,0.850359
+116983,HorrorThriller,The Black Waters of Echo's Pond,en,13.0,0.8457129999999999
+53245,Horror,Yeti: Curse of the Snow Demon,en,13.0,0.801891
+27417,Horror,The Roost,en,13.0,0.76964
+39024,HorrorThriller,The Forbidden Door,id,13.0,0.763369
+121498,Horror,Creep Van,en,13.0,0.761698
+28061,Horror,Lust of the Vampire,it,13.0,0.7506229999999999
+53953,Horror,The Tooth Fairy,de,13.0,0.740517
+16092,HorrorThrillerMystery,The Appeared,es,13.0,0.525407
+79078,HorrorThriller,2011-11-11,en,13.0,0.523321
+80624,HorrorThriller,The Godsend,en,13.0,0.516016
+42606,Horror,Invocation of My Demon Brother,en,13.0,0.490584
+23122,Horror,Maniac,en,13.0,0.489892
+44265,Horror,Lurking Fear,en,13.0,0.48767
+21381,Horror,Rabid Grannies,en,13.0,0.003553
+34574,HorrorThriller,Nadja,en,12.0,7.720056
+19241,HorrorThrillerTV Movie,Backwoods,en,12.0,5.5133410000000005
+83188,HorrorScience Fiction,Camel Spiders,en,12.0,5.280066000000001
+4289,HorrorScience FictionThriller,Dinocroc,en,12.0,4.638634
+42455,HorrorThriller,And Now The Screaming Starts,es,12.0,3.673082
+36686,HorrorThriller,The Tomb,en,12.0,3.5125290000000002
+122804,HorrorThriller,Greystone Park,en,12.0,3.4319349999999997
+37433,HorrorScience FictionAnimationAdventureFantasy,Neo Tokyo,ja,12.0,3.143612
+27439,HorrorMysteryThriller,Slaughter Hotel,en,12.0,2.941467
+25060,Horror,Zombie Honeymoon,en,12.0,2.702334
+63706,HorrorScience FictionThriller,Mandrake,en,12.0,2.390484
+28509,HorrorScience Fiction,Komodo vs. Cobra,en,12.0,2.1352740000000003
+26962,Horror,Puppet Master vs Demonic Toys,en,12.0,1.9454919999999998
+22033,Horror,Cry of the Banshee,en,12.0,1.848123
+34077,HorrorScience Fiction,The Giant Gila Monster,en,12.0,1.847223
+39993,HorrorMysteryThriller,Short Night of Glass Dolls,it,12.0,1.812472
+44859,Horror,Mortuary,en,12.0,1.808013
+55949,HorrorScience Fiction,Vampirella,en,12.0,1.8074860000000001
+28067,Horror,The Ghost Galleon,es,12.0,1.7916009999999998
+144204,Horror,Thanatomorphose,en,12.0,1.6586990000000001
+27405,Horror,Circus of Horrors,en,12.0,1.653187
+28073,HorrorMystery,Curse of the Crimson Altar,en,12.0,1.634974
+347767,Horror,The Entity,en,12.0,1.6008850000000001
+24963,HorrorScience FictionThriller,Dead Air,en,12.0,1.599643
+85160,Horror,Slaughterhouse,fr,12.0,1.5568
+56529,Horror,The Violent Kind,en,12.0,1.45965
+51215,HorrorAction,The Breed,en,12.0,1.355844
+26960,Horror,Retro Puppet Master,en,12.0,1.34643
+49684,Horror,It's Alive III: Island of the Alive,en,12.0,1.3173219999999999
+43148,HorrorThriller,The Vampire Bat,en,12.0,1.2790569999999999
+84508,Horror,The Ghost of Yotsuya,ja,12.0,1.2723010000000001
+273645,HorrorThriller,Manhole,ko,12.0,1.093521
+5421,Horror,Monster Hunter,it,12.0,1.06733
+84152,HorrorThrillerScience FictionActionFantasy,Dollman vs. Demonic Toys,en,12.0,1.05016
+24927,Horror,Night Of The Living Dead 3D,en,12.0,1.017103
+40955,HorrorMysteryThriller,Blue Sunshine,en,12.0,0.9516530000000001
+30934,Horror,Tower of Evil,en,12.0,0.817183
+26369,HorrorComedyAdventure,Cannibal Women in the Avocado Jungle of Death,en,12.0,0.807143
+44796,HorrorScience Fiction,Arena,en,12.0,0.773352
+40592,Horror,Loft,ja,12.0,0.770476
+43117,HorrorScience FictionThriller,I Married a Monster from Outer Space,en,12.0,0.762256
+9987,HorrorScience FictionThriller,Headspace,en,12.0,0.7203430000000001
+79649,HorrorThriller,Eyes of a Stranger,en,12.0,0.7175020000000001
+40041,HorrorMysteryThrillerScience Fiction,Dead Kids,en,12.0,0.705654
+362430,Horror,Night of the Wild,en,12.0,0.698984
+78308,Horror,Blood Runs Cold,en,12.0,0.621907
+42182,Horror,Octopus 2: River of Fear,fr,12.0,0.569466
+45729,HorrorThriller,Dark House,en,12.0,0.553298
+65460,HorrorScience Fiction,Carnosaur 2,fr,12.0,0.5524439999999999
+39408,HorrorScience Fiction,The Creature Walks Among Us,en,12.0,0.546229
+110588,HorrorComedyScience Fiction,Gingerdead Man 3: Saturday Night Cleaver,en,12.0,0.520487
+44585,HorrorScience Fiction,Attack of the Puppet People,en,12.0,0.475441
+199925,Horror,Over Your Dead Body,ja,12.0,0.45980200000000004
+101501,HorrorThriller,The Afflicted,en,12.0,0.43737200000000004
+297167,HorrorThriller,2AM: The Smiling Man,en,12.0,0.43588000000000005
+52794,HorrorDramaComedy,Baxter,en,12.0,0.005568
+31392,Horror,It's Hot In Paradise,de,11.0,7.1239490000000005
+418585,Horror,The Crooked Man,en,11.0,4.756151999999999
+3122,HorrorScience Fiction,Lady Frankenstein,it,11.0,3.5303129999999996
+40800,Horror,Alligator 2 - The Mutation,en,11.0,3.5257199999999997
+40026,HorrorScience FictionThriller,Night Shadows,en,11.0,2.97235
+11594,HorrorDramaHistory,The Hunchback of Notre Dame,fr,11.0,2.646421
+444193,Horror,The Evil Within,en,11.0,2.559746
+410537,Horror,The Amityville Terror,en,11.0,2.429089
+29242,Horror,The Mummy's Curse,en,11.0,2.121075
+28295,HorrorMysteryThriller,I Saw What You Did,en,11.0,1.8897400000000002
+42735,HorrorThriller,Die! Die! My Darling!,en,11.0,1.852079
+216546,HorrorThrillerScience Fiction,Ragin Cajun Redneck Gators,en,11.0,1.847925
+76403,HorrorThrillerScience Fiction,DNA,en,11.0,1.795548
+2154,HorrorActionThrillerScience Fiction,The Dark Side of The Moon,en,11.0,1.576967
+265449,HorrorComedy,Summer of Blood,en,11.0,1.5436809999999999
+25033,HorrorThriller,The Last Horror Movie,en,11.0,1.49252
+29565,HorrorThrillerRomanceForeign,The Night of the Hunted,en,11.0,1.465439
+344593,Horror,Cherry Tree,en,11.0,1.372693
+105184,Horror,Trance,de,11.0,1.358396
+131887,HorrorThriller,Entity,en,11.0,1.342691
+324986,Horror,The Last House on Cemetery Lane,en,11.0,1.340182
+32623,Horror,Night of the Ghouls,en,11.0,1.301056
+27244,HorrorFantasyThrillerScience FictionMystery,The Dungeonmaster,en,11.0,1.294294
+336850,HorrorScience Fiction,The Encounter,en,11.0,1.285409
+30875,Horror,Manhattan Baby,it,11.0,1.243242
+30640,HorrorScience Fiction,The Man Who Changed His Mind,en,11.0,1.242866
+70984,HorrorScience Fiction,"Silent Night, Deadly Night 5: The Toy Maker",en,11.0,1.240357
+14983,Horror,Carver,en,11.0,1.238318
+224944,HorrorMysteryThriller,Silent Retreat,en,11.0,1.108737
+91683,HorrorThriller,Edge of Sanity,en,11.0,1.108322
+396152,Horror,Restoration,en,11.0,1.074124
+26703,Horror,Dracula's Dog,en,11.0,1.072832
+28802,HorrorForeign,Female Vampire,fr,11.0,1.026248
+40474,HorrorMysteryThriller,Eyeball,it,11.0,1.013672
+83473,Horror,7 Nights Of Darkness,en,11.0,1.001794
+317903,Horror,Archive 253,es,11.0,0.9964350000000001
+50458,Horror,Yoga,ko,11.0,0.987326
+19969,HorrorForeign,Skeleton Crew,en,11.0,0.980721
+57665,HorrorThriller,The Mask,en,11.0,0.935695
+40833,HorrorScience Fiction,King Cobra,fr,11.0,0.9260940000000001
+15473,Horror,LD 50 Lethal Dose,en,11.0,0.862901
+82999,HorrorThriller,Penumbra,es,11.0,0.858068
+31472,Horror,Lust for a Vampire,en,11.0,0.846569
+82655,HorrorThrillerMystery,The Oregonian,en,11.0,0.841542
+39154,HorrorScience Fiction,The Giant Spider Invasion,en,11.0,0.808843
+179159,Horror,Germ,en,11.0,0.775143
+92635,HorrorThriller,Snow White: A Deadly Summer,en,11.0,0.7740199999999999
+30449,Horror,Imago mortis,en,11.0,0.7372449999999999
+62904,Horror,Mask Maker,en,11.0,0.729668
+9755,HorrorScience Fiction,Bloodsuckers,en,11.0,0.7223390000000001
+86193,HorrorScience Fiction,The Incredible 2-Headed Transplant,en,11.0,0.697569
+43105,HorrorScience Fiction,The Alligator People,en,11.0,0.686882
+28532,Horror,Castle of Blood,en,11.0,0.684865
+41035,Horror,Torture Garden,en,11.0,0.668281
+34734,HorrorThriller,Stir of Echoes: The Homecoming,en,11.0,0.6304960000000001
+52251,HorrorDramaThriller,Hotel,de,11.0,0.579155
+51322,HorrorForeign,The Child's Eye,cn,11.0,0.5741229999999999
+106679,Horror,House of Mortal Sin,en,11.0,0.561082
+337073,Horror,Almost Mercy,en,11.0,0.533634
+87835,Horror,Inkubus,en,11.0,0.460958
+104469,Horror,A Nightmare,fr,11.0,0.44425699999999996
+31134,HorrorScience Fiction,Track of the Moon Beast,en,11.0,0.42900299999999997
+42793,HorrorScience Fiction,The Flesh Eaters,en,11.0,0.20867600000000003
+36762,HorrorMusic,Rock 'n' Roll Nightmare,en,11.0,0.186921
+70553,Horror,Sleepaway Camp IV: The Survivor,en,11.0,0.15701400000000001
+104548,HorrorForeign,Demons,ja,11.0,0.012236
+56383,HorrorThriller,"Lisa, Lisa",en,11.0,0.00022
+248633,Horror,Zombie Killers: Elephant's Graveyard,en,10.0,5.667845
+43085,HorrorActionScience FictionComedy,Dead and Deader,en,10.0,5.015147
+11303,HorrorThriller,Deep in the Woods,fr,10.0,3.037224
+42916,HorrorMysteryFantasyAction,Fading of the Cries,en,10.0,2.5140919999999998
+39262,Horror,The Mummy's Shroud,en,10.0,2.446438
+209780,HorrorThriller,Crawlspace,en,10.0,2.405696
+42699,HorrorScience FictionForeign,"Yongary, Monster from the Deep",en,10.0,2.31428
+131673,HorrorThrillerDrama,It's in the Blood,en,10.0,2.271475
+176915,HorrorScience FictionThriller,Dead Shadows,de,10.0,2.158991
+27625,HorrorScience FictionThriller,It Conquered the World,en,10.0,2.141695
+273509,Horror,Blood Widow,en,10.0,2.094547
+28642,HorrorDrama,It's Gradiva Who Is Calling You,ru,10.0,2.082789
+81463,HorrorActionThrillerCrime,Mad Foxes,es,10.0,1.8574540000000002
+29243,Horror,The Mummy's Ghost,en,10.0,1.569494
+39987,HorrorWar,Gestapo's Last Orgy,it,10.0,1.491001
+56386,HorrorWar,SS Experiment Love Camp,it,10.0,1.486119
+40162,Horror,Porno Holocaust,en,10.0,1.390499
+25693,Horror,Albino Farm,en,10.0,1.377897
+42689,HorrorMysteryThriller,Berserk,en,10.0,1.321551
+47488,Horror,HellBent,en,10.0,1.300187
+42250,Horror,Python 2,en,10.0,1.2948979999999999
+29345,HorrorScience Fiction,The Terror Within,en,10.0,1.292125
+40102,HorrorThriller,Don't Answer the Phone!,en,10.0,1.242731
+143928,HorrorThriller,Hellgate,en,10.0,1.206717
+68116,Horror,Incubus,en,10.0,1.194126
+83579,HorrorCrimeMystery,The Hound of the Baskervilles,en,10.0,1.1902709999999999
+26961,HorrorFantasyScience Fiction,Puppet Master: The Legacy,en,10.0,1.169339
+42033,HorrorScience FictionThrillerAction,Def-Con 4,en,10.0,1.064151
+26679,Horror,Spookies,en,10.0,1.063636
+31463,HorrorScience FictionThriller,Subject Two,en,10.0,1.039179
+298165,HorrorDramaRomance,He Took His Skin Off for Me,en,10.0,1.03593
+156981,Horror,Old 37,en,10.0,1.0230860000000002
+40218,HorrorMystery,The Beast Must Die,en,10.0,0.996366
+366551,Horror,Krampus: The Reckoning,en,10.0,0.9959520000000001
+74008,HorrorThriller,Undocumented,en,10.0,0.986401
+42452,Horror,The House of Seven Corpses,en,10.0,0.9782280000000001
+233208,HorrorThriller,Warhouse,ru,10.0,0.95326
+345888,HorrorFantasy,The Piper,ko,10.0,0.929163
+32540,HorrorThriller,The Disappeared,en,10.0,0.901538
+46439,Horror,Daughters of Satan,en,10.0,0.901392
+57529,HorrorScience Fiction,Ghost Voyage,en,10.0,0.900107
+39303,HorrorThrillerMystery,2:13,en,10.0,0.8612129999999999
+423536,Horror,Ghosts of Darkness,en,10.0,0.817407
+104471,Horror,The Haunted Castle,fr,10.0,0.791909
+31549,HorrorThriller,Blood River,en,10.0,0.7398319999999999
+211505,HorrorThriller,Dabbe: Bir cin vakasi,tr,10.0,0.738837
+6976,HorrorThriller,Whoever Slew Auntie Roo?,en,10.0,0.736877
+139659,Horror,Puppet Master X: Axis Rising,en,10.0,0.724869
+172457,Horror,Afterparty,en,10.0,0.716834
+335753,Horror,The Amityville Playhouse,en,10.0,0.712917
+292625,Horror,The Swimmers,th,10.0,0.704442
+49396,Horror,The Haunted,en,10.0,0.694405
+27498,Horror,Jack O,en,10.0,0.692228
+38446,HorrorThriller,Frightmare,en,10.0,0.6895819999999999
+42872,HorrorScience Fiction,Alien 2: On Earth,it,10.0,0.6865939999999999
+35946,Horror,The Hollow,en,10.0,0.685905
+29318,Horror,Devil Doll,en,10.0,0.6709510000000001
+28314,Horror,Ripper: Letter from Hell,en,10.0,0.650358
+56554,HorrorComedy,Stag Night of the Dead,en,10.0,0.650044
+59762,Horror,"Initiation: Silent Night, Deadly Night 4",en,10.0,0.6167
+22140,HorrorMystery,The Kingdom II,da,10.0,0.5531689999999999
+108181,HorrorScience FictionWestern,The Beast of Hollow Mountain,en,10.0,0.551855
+104704,HorrorComedyFantasy,The Devil in a Convent,fr,10.0,0.55004
+381507,HorrorDramaFamily,Home,en,10.0,0.548523
+27711,Horror,Killjoy,en,10.0,0.531305
+34084,Horror,I Bury the Living,en,10.0,0.5209159999999999
+337218,Horror,Wild in Blue,en,10.0,0.49476899999999996
+86667,HorrorCrimeMystery,Grip of the Strangler,en,10.0,0.48756700000000003
+29600,HorrorThriller,Mountaintop Motel Massacre,en,10.0,0.44365600000000005
+26974,HorrorActionDramaFantasy,Pulgasari,en,10.0,0.435404
+37464,HorrorScience Fiction,Monstrosity,en,10.0,0.404998
+42519,Horror,The Brotherhood of Satan,en,10.0,0.403656
+54285,HorrorMysteryThriller,"301, 302",ko,10.0,0.39662600000000003
+31129,HorrorAdventureFantasy,The Final Sacrifice,en,10.0,0.396057
+52199,HorrorScience FictionComedy,Invasion of the Saucer-Men,en,10.0,0.36086599999999996
+106394,Horror,The Fall of the House of Usher,en,10.0,0.33872199999999997
+54118,HorrorMysteryThriller,Night School,en,10.0,0.262326
+40350,HorrorThriller,Fright,en,10.0,0.100611
+98851,HorrorScience Fiction,Parts: The Clonus Horror,en,10.0,0.008673
+72648,Horror,Devil Times Five,en,10.0,0.007963
+83834,Horror,The Child,en,10.0,0.0005780000000000001
+89659,Horror,Criminally Insane,en,10.0,0.000308
+40341,HorrorThriller,Carnival of Souls,en,9.0,2.9573490000000002
+192023,HorrorThriller,The Invoking,en,9.0,2.756999
+362373,HorrorThriller,Eaters,en,9.0,2.510095
+85349,Horror,Tomie: Unlimited,ja,9.0,2.06907
+19936,HorrorThriller,Hipnos,en,9.0,2.064359
+75006,HorrorActionThriller,Moby Dick,ko,9.0,1.797129
+40465,HorrorForeign,Chain Reaction,en,9.0,1.788295
+3125,HorrorScience Fiction,Dracula vs. Frankenstein,en,9.0,1.513005
+3160,HorrorScience Fiction,Frankenstein Conquers the World,ja,9.0,1.4690809999999999
+27409,HorrorForeign,Night of the Devils,it,9.0,1.447142
+286367,Horror,Classroom 6,en,9.0,1.348183
+23014,HorrorMysteryThriller,Invisible Ghost,en,9.0,1.289375
+54133,Horror,Madhouse,en,9.0,1.289193
+73085,HorrorThriller,Wreckage,en,9.0,1.223968
+124054,Horror,Shark Week,en,9.0,1.2189729999999999
+262088,HorrorComedyDrama,Chocolate Strawberry Vanilla,en,9.0,1.209092
+40387,HorrorMysteryThriller,Night Watch,en,9.0,1.20597
+66881,HorrorScience Fiction,Nightbeast,en,9.0,1.201388
+77173,HorrorMysteryScience Fiction,The Blood Beast Terror,en,9.0,1.17773
+45875,HorrorThriller,Trilogy of Terror II,en,9.0,1.1588399999999999
+28349,HorrorComedy,The Dead Hate the Living!,en,9.0,1.149604
+419747,HorrorComedy,Halloweed,en,9.0,1.1146690000000001
+61716,Horror,Killjoy 3,en,9.0,1.108782
+46359,HorrorThriller,Demons of the Mind,en,9.0,1.068124
+32304,Horror,Nine Lives,en,9.0,0.9908549999999999
+29129,HorrorForeign,The Shiver of the Vampires,en,9.0,0.9762700000000001
+45862,HorrorMysteryThriller,Hangman's Curse,en,9.0,0.965268
+43036,HorrorScience Fiction,Mill of the Stone Women,fr,9.0,0.961691
+29060,Horror,Diary of a Madman,en,9.0,0.95262
+86680,Horror,The Unholy,en,9.0,0.9453520000000001
+4368,Horror,Dark Wolf,en,9.0,0.944886
+28586,Horror,Tormented,en,9.0,0.9305700000000001
+19205,HorrorThriller,Cthulhu,en,9.0,0.9253870000000001
+27699,HorrorThriller,The Awful Dr. Orlof,es,9.0,0.918733
+72153,Horror,Virgin Witch,en,9.0,0.9102399999999999
+22758,Horror,Bloody Pit of Horror,en,9.0,0.9095629999999999
+31244,HorrorFantasy,Merlin's Shop of Mystical Wonders,en,9.0,0.908117
+44444,HorrorMystery,Werewolf In A Girls' Dormitory,it,9.0,0.8944709999999999
+15901,HorrorDocumentary,Faces of Death III,en,9.0,0.8673420000000001
+52395,HorrorThriller,Fear,en,9.0,0.861893
+109122,HorrorScience Fiction,Night of the Blood Beast,en,9.0,0.821709
+221444,Horror,Septic Man,en,9.0,0.762328
+29865,Horror,Trapped Ashes,en,9.0,0.7491359999999999
+44591,HorrorScience Fiction,The Black Scorpion,en,9.0,0.748812
+75020,Horror,Gag,en,9.0,0.709738
+70669,HorrorThriller,Dark Souls,no,9.0,0.679519
+29923,HorrorThriller,Detour,no,9.0,0.66715
+42185,Horror,Shark Attack,fr,9.0,0.661772
+52022,HorrorFantasy,Subspecies 4: Bloodstorm,en,9.0,0.657037
+9940,HorrorThriller,Cheerleader Massacre,en,9.0,0.65575
+364379,Horror,Cat Sick Blues,en,9.0,0.6519659999999999
+110412,Horror,Symptoms,en,9.0,0.638675
+49847,HorrorThriller,The Possession of David O'Reilly,en,9.0,0.630731
+109133,HorrorThriller,The Cabinet of Caligari,en,9.0,0.630494
+10272,HorrorThriller,Jekyll + Hyde,en,9.0,0.627559
+85230,HorrorThriller,The Clown at Midnight,en,9.0,0.620747
+56860,HorrorThriller,Lost Signal,en,9.0,0.617863
+43248,HorrorScience FictionThriller,The Brain from Planet Arous,en,9.0,0.598374
+71326,Horror,Bunnyman,en,9.0,0.594855
+10370,Horror,Premutos: Lord of the Living Dead,de,9.0,0.591754
+48843,Horror,The Barber,en,9.0,0.590398
+21513,HorrorActionThrillerScience FictionForeign,Moon Child,ja,9.0,0.5716979999999999
+210842,HorrorComedy,WNUF Halloween Special,en,9.0,0.542569
+96468,Horror,Tormented,ja,9.0,0.511015
+342896,HorrorMysteryThriller,I-Lived,en,9.0,0.5099130000000001
+44000,Horror,Trog,en,9.0,0.504767
+87874,Horror,Werewolf,en,9.0,0.47521599999999997
+273651,HorrorComedy,America's Most Haunted,en,9.0,0.460032
+273511,HorrorComedy,Ghost of Goodnight Lane,en,9.0,0.459575
+298830,HorrorThriller,The Dorm,en,9.0,0.45172399999999996
+42794,HorrorMusic,The Horror of Party Beach,en,9.0,0.430227
+28602,Horror,Zombie Wars,en,9.0,0.41206099999999996
+49353,Horror,Snowbeast,en,9.0,0.408121
+83857,HorrorDramaThriller,Windows,en,9.0,0.400023
+295627,HorrorThriller,Spawn: The Recall,en,9.0,0.37792600000000004
+83587,HorrorDocumentary,Zombie Girl: The Movie,en,9.0,0.341733
+69576,HorrorMysteryThriller,Who Saw Her Die?,en,9.0,0.132899
+31382,Horror,The Touch of Satan,en,9.0,0.059352999999999996
+38246,HorrorThriller,Servants of Twilight,en,9.0,0.03803
+69870,HorrorThriller,The Sender,en,9.0,0.0005780000000000001
+25713,HorrorThriller,Animals,en,8.0,5.2782800000000005
+28380,HorrorThriller,The Silent Scream,en,8.0,4.800727999999999
+27300,HorrorAnimationComedy,Hair High,en,8.0,3.27204
+36992,Horror,Shakma,fr,8.0,3.185409
+80368,Horror,The Doctor and the Devils,en,8.0,2.993009
+70740,HorrorFantasyScience Fiction,Goblin,en,8.0,2.541932
+28071,Horror,Night of the Seagulls,es,8.0,2.009344
+19095,Horror,A Virgin Among the Living Dead,fr,8.0,1.988945
+32978,HorrorThriller,Necrosis,en,8.0,1.982029
+248781,Horror,ABCs of Death 2.5,en,8.0,1.8574529999999998
+35891,HorrorScience Fiction,Mansquito,en,8.0,1.8012869999999999
+14814,Horror,Chemical Wedding,en,8.0,1.7447689999999998
+84071,HorrorDramaThrillerCrime,Night Game,en,8.0,1.7141520000000001
+319396,Horror,Zombieworld,en,8.0,1.64962
+58218,HorrorFantasy,The Devil's Nightmare,en,8.0,1.57184
+27476,HorrorComedy,Nightmare Sisters,en,8.0,1.453912
+178687,Horror,616: Paranormal Incident,en,8.0,1.4456280000000001
+52854,Horror,Black Magic,zh,8.0,1.4414420000000001
+84362,Horror,Devil Hunter,es,8.0,1.439215
+354534,Horror,The Invoking 2,en,8.0,1.434069
+29491,Horror,The Possession of Joel Delaney,en,8.0,1.4139389999999998
+319188,Horror,Frankenstein vs. The Mummy,en,8.0,1.4137819999999999
+28855,Horror,The Return of Count Yorga,en,8.0,1.402173
+28485,HorrorThriller,Satan's Blood,es,8.0,1.398033
+29128,HorrorMysteryRomanceForeign,Lips of Blood,en,8.0,1.350058
+10124,Horror,Heartstopper,en,8.0,1.292089
+30579,Horror,Hallowed Ground,en,8.0,1.284305
+28847,Horror,Demonia,it,8.0,1.235247
+28652,HorrorThrillerWar,Love Camp 7,en,8.0,1.214539
+30307,HorrorScience Fiction,The Devil Commands,en,8.0,1.209468
+109213,HorrorActionThriller,The Zero Boys,en,8.0,1.176132
+216203,HorrorThriller,Pieces of Talent,en,8.0,1.1712799999999999
+30447,HorrorMystery,Blood Curse,pt,8.0,1.167209
+214629,Horror,Sleepwalker,en,8.0,1.163704
+68347,HorrorScience Fiction,Food of the Gods II,en,8.0,1.159883
+38065,Horror,Salvage,en,8.0,1.112933
+4290,Horror,Supergator,en,8.0,1.1018139999999998
+110980,HorrorDramaRomance,The Mad Monster,en,8.0,1.0845719999999999
+29130,Horror,The Demoniacs,fr,8.0,1.022485
+45431,HorrorThriller,Devil in the Flesh,en,8.0,0.9936450000000001
+23508,Horror,Embodiment of Evil,pt,8.0,0.962933
+186747,HorrorDramaMystery,Ek Thi Daayan,en,8.0,0.960239
+122326,Horror,100 Ghost Street: The Return of Richard Speck,en,8.0,0.9425049999999999
+347855,HorrorMysteryScience Fiction,Curtain,en,8.0,0.936197
+39861,Horror,Corruption,en,8.0,0.9315549999999999
+400610,HorrorThriller,Prey,nl,8.0,0.9142389999999999
+47001,Horror,The Thing That Couldn't Die,en,8.0,0.909133
+87706,HorrorScience Fiction,The Dark,en,8.0,0.8805850000000001
+27651,Horror,Puppet Master: Axis of Evil,en,8.0,0.8669950000000001
+33801,Horror,Beyond the Door,en,8.0,0.865986
+58788,Horror,Attack of the Sabretooth,en,8.0,0.8401790000000001
+55616,Horror,Dracula: Pages from a Virgin's Diary,en,8.0,0.810769
+388410,Horror,Edgar Allan Poe's Lighthouse Keeper,en,8.0,0.79704
+5434,Horror,Death Smiles on a Murderer,en,8.0,0.723834
+43099,HorrorScience Fiction,Mothman,en,8.0,0.706613
+42468,HorrorComedyScience FictionMysteryForeign,Tales That Witness Madness,en,8.0,0.682072
+26925,HorrorScience FictionThriller,The Man They Could Not Hang,en,8.0,0.665719
+73614,HorrorThriller,House of Usher,en,8.0,0.664555
+53187,Horror,The Return of Dracula,en,8.0,0.65617
+35733,HorrorCrime,Amateur Porn Star Killer,en,8.0,0.648648
+69326,HorrorActionForeign,Gothic & Lolita Psycho,ja,8.0,0.6448510000000001
+40448,Horror,The Dead Pit,en,8.0,0.6446649999999999
+67742,Horror,S&Man,en,8.0,0.637189
+24649,Horror,Wishcraft,en,8.0,0.623175
+24198,HorrorScience FictionAction,AVH: Alien vs. Hunter,en,8.0,0.619336
+28585,Horror,Bikini Girls on Ice,en,8.0,0.618161
+56109,Horror,Swamp Devil,en,8.0,0.612139
+86332,Horror,The Redeemer: Son of Satan!,en,8.0,0.611242
+52745,HorrorScience Fiction,The Leech Woman,en,8.0,0.600283
+90291,Horror,Stalker,en,8.0,0.589819
+260163,HorrorDrama,Apocalyptic,en,8.0,0.5895279999999999
+325186,HorrorComedy,Smothered,en,8.0,0.5817939999999999
+56685,HorrorScience FictionThriller,Psalm 21,en,8.0,0.578867
+24777,HorrorComedy,Private Parts,en,8.0,0.578458
+48311,HorrorScience Fiction,Parasite,en,8.0,0.577976
+78239,HorrorActionThrillerScience Fiction,Full Eclipse,en,8.0,0.55186
+138730,Horror,The House of Ghosts,en,8.0,0.550504
+36896,HorrorComedyScience Fiction,Killer Tomatoes Eat France!,en,8.0,0.519994
+34004,HorrorThriller,Children of the Living Dead,en,8.0,0.5177970000000001
+27706,Horror,The Night Child,en,8.0,0.49219700000000005
+15701,Horror,The Irrefutable Truth About Demons,en,8.0,0.47661000000000003
+42628,HorrorScience FictionThriller,"Goke, Body Snatcher from Hell",ja,8.0,0.464229
+84628,HorrorMysteryThriller,The Survivor,en,8.0,0.43266099999999996
+57597,HorrorScience Fiction,Xtro 3: Watch the Skies,en,8.0,0.409937
+368051,Horror,Don't Hug Me I'm Scared 5,en,8.0,0.40566399999999997
+171045,HorrorThriller,Dead End,en,8.0,0.387223
+64852,HorrorDrama,London After Midnight,en,8.0,0.377017
+326446,HorrorMystery,Savageland,en,8.0,0.376757
+42476,HorrorThriller,Ben,en,8.0,0.37223
+242441,Horror,Horror Story,en,8.0,0.351319
+65214,Horror,Dead Hooker in a Trunk,en,8.0,0.336357
+44385,HorrorThriller,Werewolf: The Devil's Hound,en,8.0,0.334555
+44545,HorrorScience Fiction,The Werewolf,en,8.0,0.32765700000000003
+94874,HorrorThriller,Savage Weekend,en,8.0,0.316384
+61054,Horror,Children Of The Night,en,8.0,0.312221
+55429,HorrorComedy,Kołysanka,pl,8.0,0.311789
+123969,HorrorAnimation,The Backwater Gospel,en,8.0,0.29283000000000003
+40467,Horror,Dawn of the Mummy,en,8.0,0.283443
+84419,HorrorMysteryThriller,House of Horrors,en,8.0,0.22281399999999998
+79823,HorrorMystery,Schizoid,en,8.0,0.156142
+290235,Horror,Find Me,en,8.0,0.147431
+83292,Horror,The Suckling,en,8.0,0.009918999999999999
+40145,HorrorThriller,Murder-Rock: Dancing Death,it,8.0,0.006668
+75564,HorrorScience FictionCrime,The Galaxy Invader,en,8.0,0.002001
+84994,HorrorMusic,Rocktober Blood,en,8.0,0.000308
+52203,Horror,The Flesh and the Fiends,en,7.0,3.367599
+28425,HorrorScience Fiction,The Invisible Man's Revenge,en,7.0,2.1023169999999998
+380734,Horror,Forsaken,en,7.0,1.98305
+277686,HorrorThrillerCrime,The Man in the Orange Jacket,lv,7.0,1.7671299999999999
+66194,HorrorThriller,Deadtime Stories,en,7.0,1.7121380000000002
+88922,Horror,The Oily Maniac,zh,7.0,1.618503
+29058,HorrorScience Fiction,The Beast with a Million Eyes,en,7.0,1.456121
+92751,HorrorForeign,Werewolf Woman,it,7.0,1.428941
+18969,Horror,Demon Hunter,en,7.0,1.42662
+5422,Horror,Erotic Nights of the Living Dead,it,7.0,1.420104
+23104,Horror,King of the Zombies,en,7.0,1.387826
+117258,HorrorTV Movie,Look What's Happened to Rosemary's Baby,en,7.0,1.2506030000000001
+134656,Horror,I Love Sarah Jane,en,7.0,1.2264629999999999
+44682,HorrorThriller,Resurrection County,fr,7.0,1.186517
+19951,Horror,1920,hi,7.0,1.183047
+58200,HorrorScience Fiction,Shadowzone,en,7.0,1.179286
+56527,HorrorActionThriller,Skeleton Man,en,7.0,1.179182
+18932,Horror,Knock Knock,en,7.0,1.169505
+215976,HorrorThriller,Reminiscence,en,7.0,1.156922
+71503,HorrorThriller,Cries in the Night,en,7.0,1.143779
+231082,HorrorComedy,Gingerdead Man vs. Evil Bong,en,7.0,1.136578
+29069,Horror,The Velvet Vampire,en,7.0,1.132207
+39824,HorrorThriller,The Sitter,en,7.0,1.131975
+382725,Horror,Sociopathia,en,7.0,1.1127340000000001
+52044,Horror,Insane,en,7.0,1.097638
+173761,Horror,Curandero,en,7.0,1.088587
+39409,HorrorThriller,The Strange Door,en,7.0,1.08745
+22072,HorrorThriller,The Chair,en,7.0,1.068661
+85512,HorrorMysteryThriller,Jaws of Satan,en,7.0,1.026078
+24090,Horror,It Waits,en,7.0,0.952627
+53335,Horror,Candy Stripers,en,7.0,0.91894
+28673,Horror,Nightmare Castle,en,7.0,0.917919
+101422,HorrorMystery,The Reincarnation of Peter Proud,en,7.0,0.9149729999999999
+221737,HorrorFantasyScience Fiction,RoboCroc,en,7.0,0.9104200000000001
+84391,HorrorComedyRomance,My Sucky Teen Romance,en,7.0,0.879848
+30452,Horror,Elves,en,7.0,0.874661
+89351,Horror,Daddy's Deadly Darling,en,7.0,0.873368
+3164,HorrorScience Fiction,Frankenstein 1970,en,7.0,0.8671979999999999
+371003,Horror,Kill Game,en,7.0,0.862874
+59735,Horror,Cameron's Closet,en,7.0,0.8614729999999999
+35908,HorrorThriller,Evil Angel,en,7.0,0.846074
+56669,HorrorThriller,Hider in the House,en,7.0,0.8452459999999999
+28770,HorrorScience Fiction,The Man Who Could Cheat Death,en,7.0,0.844909
+35911,Horror,Cult of the Cobra,en,7.0,0.8430989999999999
+112687,HorrorScience FictionForeign,Doomwatch,en,7.0,0.842879
+29393,HorrorThriller,Macabre,en,7.0,0.837849
+48747,HorrorThrillerTV Movie,Jekyll & Hyde,en,7.0,0.8342379999999999
+109174,HorrorThriller,Silent Predators,fr,7.0,0.8235979999999999
+39407,HorrorThriller,The Climax,en,7.0,0.804396
+130015,HorrorFantasy,Le Papillon Fantastique,en,7.0,0.776598
+64534,Horror,The Strange Case of Dr. Jekyll and Miss Osbourne,fr,7.0,0.765706
+48660,HorrorScience Fiction,The Kindred,en,7.0,0.710875
+83519,Horror,Witchcraft,en,7.0,0.7102649999999999
+200044,Horror,Deranged,en,7.0,0.7023159999999999
+42717,HorrorMysteryThriller,Circus of Fear,en,7.0,0.698245
+59158,HorrorMysteryThriller,The Death Kiss,en,7.0,0.6701239999999999
+3575,HorrorThriller,The Return of Doctor X,en,7.0,0.668053
+12759,Horror,Doll Graveyard,en,7.0,0.657628
+41203,HorrorThriller,Neighbor,en,7.0,0.657356
+134756,Horror,Killjoy Goes To Hell,en,7.0,0.63753
+43045,Horror,The Hypnotic Eye,en,7.0,0.635717
+135561,Horror,Mud Zombies,pt,7.0,0.61256
+49354,HorrorMysteryThriller,Moon of the Wolf,en,7.0,0.607379
+28733,Horror,"Count Yorga, Vampire",en,7.0,0.5922229999999999
+207263,Horror,Dead of the Nite,en,7.0,0.590214
+138544,Horror,American Horror House,en,7.0,0.589213
+61233,Horror,Dark Fields,en,7.0,0.5846060000000001
+25395,Horror,Blood Trails,en,7.0,0.583192
+86068,Horror,The House Where Evil Dwells,en,7.0,0.579947
+69075,HorrorScience FictionAdventureThriller,Snakeman,en,7.0,0.579663
+75903,Horror,The Uncanny,en,7.0,0.57948
+31629,HorrorFantasyThriller,Arundhati,te,7.0,0.558002
+48675,Horror,Small Town Folk,en,7.0,0.55401
+256771,Horror,The Pool,en,7.0,0.5519270000000001
+28671,HorrorThriller,Habit,en,7.0,0.550216
+85498,HorrorScience Fiction,The Maze,en,7.0,0.548048
+259246,Horror,Chasing the Devil,en,7.0,0.524786
+85620,HorrorRomance,Blood and Roses,fr,7.0,0.5237729999999999
+63088,HorrorScience FictionTV Movie,The Eye Creatures,en,7.0,0.518025
+55066,Horror,The Eternal,en,7.0,0.49003500000000005
+31275,HorrorScience Fiction,The Creeping Terror,en,7.0,0.47805
+14157,HorrorMysteryScience FictionThriller,Impulse,en,7.0,0.47698999999999997
+78402,Horror,Killer Crocodile,en,7.0,0.425363
+51260,HorrorScience Fiction,The Crawling Hand,en,7.0,0.405798
+63087,HorrorScience Fiction,The Slime People,en,7.0,0.39090199999999997
+69780,Horror,The Beach Girls and the Monster,en,7.0,0.358309
+255384,Horror,"Don't Hug Me, I'm Scared II: Time",en,7.0,0.34628000000000003
+328216,HorrorThriller,Be My Cat: A Film for Anne,en,7.0,0.339659
+28068,Horror,The Loreley's Grasp,es,7.0,0.33760100000000004
+40460,Horror,A Crack in the Floor,en,7.0,0.33266399999999996
+65252,HorrorScience Fiction,Breeders,en,7.0,0.296848
+66895,Horror,Ticked-Off Trannies with Knives,en,7.0,0.29586399999999996
+85236,HorrorScience Fiction,Chosen Survivors,en,7.0,0.281567
+46537,HorrorComedyThrillerMystery,Dark and Stormy Night,en,7.0,0.280575
+75555,HorrorThriller,The Fear,en,7.0,0.268043
+16280,HorrorThriller,13 Hours in a Warehouse,en,7.0,0.25404
+157161,HorrorComedy,I Didn't Come Here to Die,en,7.0,0.252975
+91237,HorrorThrillerForeign,Loner,ko,7.0,0.252091
+55529,Horror,The Thirst,en,7.0,0.250956
+94583,HorrorComedy,The Gay Bed and Breakfast of Terror,en,7.0,0.250743
+109565,Horror,Catacombs,en,7.0,0.175573
+98106,HorrorScience Fiction,Spasms,en,7.0,0.153038
+91817,Horror,Fear No Evil,en,7.0,0.114527
+29611,HorrorThriller,Sole Survivor,en,7.0,0.041923
+64725,HorrorMysteryThriller,The Dead Are Alive,it,7.0,0.027777
+104308,HorrorThriller,The Spider Labyrinth,it,7.0,0.018017
+40343,HorrorThriller,Death Weekend,en,7.0,0.000308
+27548,Horror,Slime City,en,7.0,1e-06
+430988,HorrorActionFantasyThriller,Vamps,ru,6.0,9.334447
+30049,HorrorScience Fiction,Time Walker,en,6.0,2.936402
+2097,HorrorScience Fiction,"Gappa, the Triphibian Monster",ja,6.0,1.885219
+28775,HorrorScience Fiction,The Neanderthal Man,en,6.0,1.717127
+27730,HorrorForeign,The Revenge of the Living Dead Girls,en,6.0,1.637235
+25088,HorrorComedy,The Willies,en,6.0,1.6250229999999999
+123389,Horror,Mr. Hush,en,6.0,1.553125
+36737,HorrorScience FictionThriller,Carny,en,6.0,1.354308
+60152,Horror,L.A. Zombie,en,6.0,1.3496540000000001
+63081,HorrorThrillerMystery,The Victim,th,6.0,1.327942
+48016,Horror,The Maze,en,6.0,1.280497
+432364,Horror,The Covenant,en,6.0,1.257845
+23692,Horror,The Initiation of Sarah,en,6.0,1.213598
+254126,Horror,Blood Shed,en,6.0,1.194683
+36984,Horror,Trespassing,en,6.0,1.180205
+293093,Horror,Dark Haul,en,6.0,1.151262
+32858,Horror,The Return of the Vampire,en,6.0,1.09212
+45079,Horror,4th Period Mystery,ko,6.0,0.911718
+332488,Horror,Zombie Resurrection,en,6.0,0.8489180000000001
+258255,Horror,Mischief Night,en,6.0,0.8246190000000001
+143146,Horror,Ritual,en,6.0,0.819156
+362736,Horror,The Hexecutioners,en,6.0,0.8153020000000001
+124423,Horror,The Living Skeleton,en,6.0,0.8097409999999999
+279966,HorrorThriller,The Forgotten,en,6.0,0.808207
+57203,Horror,Mega Snake,sv,6.0,0.802397
+40461,Horror,Aenigma,it,6.0,0.8008460000000001
+16079,Horror,The Visitors,sv,6.0,0.794247
+74087,HorrorMysteryThriller,Death Carries a Cane,it,6.0,0.786509
+27832,Horror,The Corpse Grinders,en,6.0,0.783754
+15902,HorrorDocumentary,Faces of Death IV,en,6.0,0.778312
+418691,Horror,Shadows of the Dead,en,6.0,0.7761170000000001
+122544,Horror,The Perfect House,en,6.0,0.773253
+43015,HorrorScience Fiction,Varan the Unbelievable,en,6.0,0.767422
+40222,HorrorScience Fiction,The Brain,en,6.0,0.748217
+292988,HorrorScience FictionThriller,Dark Mountain,en,6.0,0.742753
+445602,Horror,The Raking,en,6.0,0.734142
+20044,HorrorActionThrillerForeign,"Hard Revenge, Milly",ja,6.0,0.7177600000000001
+207260,HorrorMysteryThriller,Wrath of the Crows,en,6.0,0.715155
+47003,HorrorForeignThrillerMystery,The Deadly Bees,en,6.0,0.6887479999999999
+44811,HorrorScience FictionTV Movie,Mongolian Death Worm,en,6.0,0.604059
+70046,HorrorThrillerTV Movie,Grave Secrets: The Legacy of Hilltop Drive,en,6.0,0.5720729999999999
+46695,Horror,Witchcraft,en,6.0,0.5545869999999999
+39493,HorrorThrillerForeignDramaMystery,Goth,ja,6.0,0.553858
+90652,HorrorMysteryScience FictionForeign,Decoder,de,6.0,0.536458
+59802,Horror,Incubus,eo,6.0,0.535626
+28416,HorrorForeign,Forest of the Damned,en,6.0,0.521107
+98116,Horror,Pharaoh's Curse,en,6.0,0.5201180000000001
+91627,HorrorDrama,Love Me Deadly,en,6.0,0.517576
+40226,HorrorAction,The Era of Vampires,en,6.0,0.512034
+140172,Horror,Cool Air,en,6.0,0.509406
+84289,HorrorMusic,Black Roses,en,6.0,0.506961
+73336,HorrorThriller,Buried Alive II,en,6.0,0.506741
+26676,Horror,Neon Maniacs,en,6.0,0.506196
+106402,Horror,The Severed Arm,en,6.0,0.505854
+70247,HorrorScience Fiction,Watchers II,en,6.0,0.487334
+50425,HorrorMystery,Murder Obsession,it,6.0,0.484645
+66762,Horror,Jennifer,en,6.0,0.46819399999999994
+41487,HorrorThriller,Blonde Ice,en,6.0,0.401967
+424643,Horror,Bad Ben,en,6.0,0.373824
+105902,HorrorCrime,Craze,en,6.0,0.34470700000000004
+43023,HorrorRomanceScience Fiction,Konga,en,6.0,0.337964
+59051,HorrorRomance,Dark Angel: The Ascent,en,6.0,0.31254299999999996
+286452,Horror,Varsity Blood,en,6.0,0.310607
+163447,Horror,Criminally Insane 2,en,6.0,0.310577
+87911,Horror,Sweeney Todd: The Demon Barber of Fleet Street,en,6.0,0.307397
+110336,Horror,Blood of Dracula,en,6.0,0.307271
+42487,Horror,Necromancy,en,6.0,0.299238
+92562,HorrorScience Fiction,Metamorphosis : The Alien Factor,en,6.0,0.284147
+222832,Horror,Tales From The Dark 2,cn,6.0,0.28332199999999996
+167673,HorrorThriller,The Mooring,en,6.0,0.267469
+106682,HorrorMysteryThriller,The Comeback,en,6.0,0.25398699999999996
+71548,HorrorWestern,The Dead and the Damned,en,6.0,0.248256
+85204,HorrorCrimeThriller,American Nightmare,en,6.0,0.246148
+334894,HorrorScience FictionThriller,Nightmare Code,en,6.0,0.243615
+89345,HorrorDramaThriller,Bloody Murder,en,6.0,0.238675
+88905,HorrorComedyAdventure,Monster Island,en,6.0,0.23015500000000003
+212494,Horror,Don't Go to the Reunion,en,6.0,0.223536
+88377,HorrorActionThrillerCrimeForeign,Robo Vampire,en,6.0,0.075562
+39882,Horror,Schoolgirls in Chains,en,6.0,0.054443
+78250,Horror,Blood Shack,en,6.0,0.011656
+86633,HorrorScience Fiction,The Alien Factor,en,6.0,0.001586
+65603,Horror,Nightwing,en,6.0,0.0008439999999999999
+204611,HorrorScience FictionThriller,UFO Abduction,en,6.0,0.00022
+44414,HorrorThrillerMysteryRomance,Liebestraum,en,5.0,4.198128
+113525,HorrorScience Fiction,Embryo,en,5.0,3.9496629999999997
+25151,HorrorActionScience FictionForeign,Mutants,en,5.0,2.77735
+229526,HorrorThriller,Killer Holiday,en,5.0,2.1509810000000003
+16008,Horror,Room 205,da,5.0,1.43708
+109109,Horror,Horror Island,en,5.0,1.218141
+133339,HorrorScience Fiction,The Surgeon,fr,5.0,1.141545
+40139,Horror,Mansion of the Doomed,en,5.0,1.096474
+60965,HorrorMysteryThriller,The Legend of Bloody Mary,en,5.0,1.0768879999999998
+29854,Horror,Seizure,en,5.0,1.0590950000000001
+36835,Horror,Oasis of the Zombies,es,5.0,1.04865
+226630,HorrorThriller,Blackout,en,5.0,1.018543
+78247,Horror,Night Terrors,en,5.0,1.011941
+34794,HorrorThriller,The St  Francisville Experiment,en,5.0,0.932625
+47578,HorrorDramaActionFantasy,Legend of the Eight Samurai,ja,5.0,0.8757739999999999
+28279,HorrorForeign,Succubus,de,5.0,0.870649
+166161,Horror,Jacob,en,5.0,0.834734
+8464,HorrorComedyScience Fiction,Top of the Food Chain,en,5.0,0.820675
+35429,HorrorScience Fiction,The Hive,en,5.0,0.8193799999999999
+28686,Horror,War Wolves,en,5.0,0.787961
+15826,HorrorDrama,Restless Souls,en,5.0,0.7670319999999999
+230210,Horror,Kotsutsubo,ja,5.0,0.760241
+44184,HorrorScience Fiction,Venomous,en,5.0,0.722512
+185495,HorrorMystery,Terror in the Wax Museum,en,5.0,0.698608
+160897,Horror,Barrio Tales,fr,5.0,0.6900890000000001
+57008,HorrorThriller,Alice in Murderland,en,5.0,0.678476
+27395,Horror,Count Dracula's Great Love,es,5.0,0.6740430000000001
+112969,HorrorActionThrillerMystery,Slaughter of the Innocents,en,5.0,0.644934
+128866,HorrorScience Fiction,Arachnia,en,5.0,0.643247
+27881,Horror,Zombie Island Massacre,en,5.0,0.6372979999999999
+84058,Horror,From Hell It Came,en,5.0,0.630434
+373541,HorrorMysteryThriller,Dark Awakening,en,5.0,0.6100939999999999
+92779,HorrorScience Fiction,Seedpeople,en,5.0,0.609029
+116327,HorrorScience Fiction,How to Make a Monster,en,5.0,0.525931
+27712,Horror,Killjoy 2: Deliverance from Evil,en,5.0,0.525622
+39279,Horror,AM1200,en,5.0,0.523995
+68503,Horror,Paris by Night of the Living Dead,en,5.0,0.49951599999999996
+59744,Horror,Grotesque,en,5.0,0.49723599999999996
+75393,Horror,The Power of Fear,en,5.0,0.49509200000000003
+24563,HorrorScience FictionTV Movie,Mars Needs Women,en,5.0,0.482867
+105085,HorrorThriller,Cold Eyes of Fear,en,5.0,0.47686999999999996
+15978,Horror,Naina,hi,5.0,0.465984
+107430,HorrorComedy,Full Moon High,en,5.0,0.46246899999999996
+110372,HorrorThrillerScience FictionForeign,Descendents,en,5.0,0.45381800000000005
+113739,HorrorThriller,Ring of Terror,en,5.0,0.45043199999999994
+42591,HorrorForeign,The Bloody Judge,it,5.0,0.44225
+416127,Horror,Dark Exorcism,en,5.0,0.409679
+203890,Horror,2 Hours,en,5.0,0.382739
+45921,HorrorThriller,Haunted Echoes,en,5.0,0.381248
+74035,HorrorActionComedy,Ninjas vs. Zombies,en,5.0,0.3808
+41030,HorrorScience Fiction,The Snow Creature,en,5.0,0.369082
+419371,Horror,Abbey Grace,en,5.0,0.368931
+9949,HorrorThriller,Haunted Highway,en,5.0,0.36078699999999997
+28159,Horror,It Lives By Night,en,5.0,0.35394000000000003
+72754,Horror,Decadent Evil,en,5.0,0.318244
+122408,Horror,Buttcrack,en,5.0,0.314551
+78075,Horror,Abby,en,5.0,0.303398
+297186,Horror,Fatal Frame,ja,5.0,0.274385
+345913,Horror,The Cutting Room,en,5.0,0.273861
+119255,Horror,"Gangsters, Guns and Zombies",en,5.0,0.270539
+43113,HorrorScience Fiction,The H-Man,ja,5.0,0.26876500000000003
+193040,Horror,Slasher House,en,5.0,0.258937
+27743,HorrorComedy,Serial Killing 101,en,5.0,0.25191399999999997
+156068,Horror,Mark of the Witch,en,5.0,0.240923
+103433,HorrorComedyCrime,Hillside Cannibals,en,5.0,0.230679
+29114,Horror,Satan's Cheerleaders,en,5.0,0.22146500000000002
+356482,HorrorMysteryThriller,Murder in the Dark,en,5.0,0.21111100000000002
+28590,HorrorScience Fiction,King Dinosaur,en,5.0,0.209484
+12601,HorrorForeign,Garden of Love,de,5.0,0.19186
+63317,HorrorDrama,Poor Pretty Eddie,en,5.0,0.18801099999999998
+15282,HorrorThriller,The Hide,en,5.0,0.187025
+104232,HorrorComedyRomance,Nesting,en,5.0,0.185579
+42998,Horror,The Horrible Dr. Hichcock,en,5.0,0.184277
+187276,Horror,In Memorium,en,5.0,0.17874500000000001
+45031,Horror,Raiders of the Living Dead,en,5.0,0.124544
+92804,HorrorScience FictionThriller,Bigfoot,en,5.0,0.067229
+86632,Horror,Mad Ron's Prevues from Hell,en,5.0,0.021580000000000002
+69058,HorrorThriller,Crescendo,en,5.0,0.008527
+28851,Horror,Video Violence,en,5.0,0.008267
+80047,HorrorDramaRomanceThriller,Rowing with the Wind,es,5.0,0.00469
+36600,HorrorThriller,The Flesh and Blood Show,en,5.0,0.0008439999999999999
+112481,Horror,Rattlers,en,5.0,0.0005780000000000001
+95551,Horror,The Mansion of Madness,en,5.0,0.00022
+257450,HorrorComedy,Piranha Sharks,en,4.0,1.35227
+256907,HorrorThriller,Darr @ the Mall,hi,4.0,1.283475
+70351,Horror,Mirror Mirror,en,4.0,1.267372
+66925,HorrorComedy,Stripperland,en,4.0,1.260298
+29883,Horror,The Untold,en,4.0,1.259962
+374618,HorrorFantasy,Scrawl,en,4.0,1.0399180000000001
+155288,HorrorMysteryThriller,Bela Kiss: Prologue,de,4.0,1.037843
+72834,Horror,Sweet Home,ja,4.0,1.027139
+90164,HorrorAdventure,The Green Inferno,en,4.0,1.016743
+256750,HorrorDramaThrillerMystery,The Rhythm of Crime,hr,4.0,0.990878
+211914,HorrorFantasy,Unlucky Charms,en,4.0,0.98718
+29338,Horror,No One Heard the Scream,en,4.0,0.9866
+39928,HorrorThriller,H6: Diary of a Serial Killer,es,4.0,0.9768040000000001
+67183,HorrorMusic,Paganini Horror,it,4.0,0.974416
+39453,HorrorThriller,Death and Cremation,en,4.0,0.967814
+95820,HorrorRomanceComedy,Love Bites,en,4.0,0.851883
+65300,HorrorThrillerDramaMysteryScience Fiction,Endangered Species,en,4.0,0.8422370000000001
+351868,HorrorThriller,Appetites,en,4.0,0.8290879999999999
+150201,HorrorThriller,You Are Not Alone,en,4.0,0.793136
+352960,HorrorComedyDramaFantasy,Lace Crater,en,4.0,0.789554
+27662,HorrorScience Fiction,Deep Space,en,4.0,0.785271
+298296,Horror,Heidi,en,4.0,0.784375
+27674,Horror,Wolves of Wall Street,en,4.0,0.776524
+20388,HorrorThrillerMystery,De Indringer,en,4.0,0.748143
+44224,HorrorActionThriller,Bear,en,4.0,0.7411439999999999
+30402,HorrorThriller,Intermedio,en,4.0,0.737291
+21343,Horror,Reverb,en,4.0,0.728179
+14143,HorrorThriller,The Devil's Ground,en,4.0,0.726935
+57326,HorrorScience Fiction,Sabretooth,fr,4.0,0.711905
+30929,Horror,The Mutations,en,4.0,0.709955
+67343,HorrorActionComedy,Mr. Vampire 2,cn,4.0,0.6920270000000001
+52416,Horror,4 Horror Tales - Roommates,ko,4.0,0.686167
+58405,Horror,Don't Look Up,ja,4.0,0.617637
+124501,HorrorMysteryDrama,In the Dark Half,en,4.0,0.613206
+124124,Horror,Grave Secrets,en,4.0,0.6129479999999999
+108933,Horror,The Sleeping Car,en,4.0,0.582357
+41237,HorrorScience FictionThrillerTV Movie,They Are Among Us,en,4.0,0.5258
+26702,HorrorTV Movie,Devil Dog: The Hound of Hell,en,4.0,0.519687
+41023,Horror,Dead Men Walk,en,4.0,0.48078999999999994
+60009,HorrorScience FictionThriller,The Shadow Men,en,4.0,0.480637
+32862,Horror,Revenge of the Zombies,en,4.0,0.476775
+445916,Horror,Asylum of Darkness,en,4.0,0.47406099999999995
+44014,HorrorThriller,Groupie,en,4.0,0.47104700000000005
+64666,Horror,The Scorpion with Two Tails,it,4.0,0.470938
+57568,HorrorThriller,The Intruder,th,4.0,0.45798900000000003
+220514,Horror,HazMat,en,4.0,0.452568
+112355,HorrorDramaThriller,Night Hair Child,en,4.0,0.44770200000000004
+136801,HorrorThriller,Back from Hell,en,4.0,0.44161300000000003
+324930,Horror,Proof of the Devil,en,4.0,0.43936800000000004
+68180,HorrorDrama,"I, Zombie: The Chronicles of Pain",en,4.0,0.42826099999999995
+56428,Horror,Beyond Bedlam,en,4.0,0.42695200000000005
+378607,HorrorThriller,The House,no,4.0,0.416882
+28723,HorrorCrimeRomance,Diary of a Cannibal,en,4.0,0.414275
+55018,HorrorThriller,Crazy As Hell,en,4.0,0.405812
+410634,Horror,Diggers,ru,4.0,0.393518
+99099,Horror,Shogun's Joys of Torture,ja,4.0,0.365884
+29126,Horror,Black Moon,en,4.0,0.336935
+202865,Horror,The Gerber Syndrome: Il Contagio,it,4.0,0.33211399999999996
+72558,HorrorScience FictionForeign,Children,is,4.0,0.321128
+85941,HorrorDrama,"Jasper, Texas",en,4.0,0.315825
+24745,HorrorMusicDramaThriller,Sweeney Todd: The Demon Barber of Fleet Street,en,4.0,0.314668
+131343,HorrorScience FictionThriller,Frost,en,4.0,0.313424
+135482,Horror,Fever Lake,en,4.0,0.293346
+67515,Horror,Luther the Geek,en,4.0,0.256753
+74241,HorrorScience Fiction,Terror Beneath the Sea,ja,4.0,0.246106
+174588,HorrorDramaFantasy,The Queen of Spades,ru,4.0,0.221127
+71392,Horror,Vampire Boys,en,4.0,0.220052
+264269,HorrorThrillerMystery,Apartment 18,ru,4.0,0.217441
+60085,HorrorDrama,Final Flesh,en,4.0,0.20825700000000003
+100661,Horror,Terror Is a Man,en,4.0,0.204179
+28687,HorrorScience FictionThriller,Unholy,en,4.0,0.19533299999999998
+77586,Horror,The Hagstone Demon,en,4.0,0.192393
+52685,Horror,Chill,en,4.0,0.190974
+58899,Horror,Demon Wind,en,4.0,0.178519
+323214,HorrorThriller,Alexia,es,4.0,0.163732
+29597,HorrorScience Fiction,Mutator,en,4.0,0.161919
+55613,HorrorComedyDramaFantasy,Careful,en,4.0,0.160571
+32003,Horror,The Caretaker,en,4.0,0.157168
+46548,Horror,Header,en,4.0,0.153376
+45511,Horror,Devil In The Flesh 2,en,4.0,0.15228
+87148,HorrorForeign,Monster Dog,en,4.0,0.150223
+73306,HorrorDrama,Karaoke Terror,ja,4.0,0.15013900000000002
+84719,HorrorScience Fiction,Man Made Monster,en,4.0,0.14576
+84951,Horror,Witchcraft II: The Temptress,de,4.0,0.145241
+90944,HorrorForeign,Tragic Ceremony,es,4.0,0.144706
+29964,Horror,Haunts,en,4.0,0.100353
+128174,Horror,Blood Thirst,en,4.0,0.081694
+78522,Horror,Prime Evil,en,4.0,0.063059
+119592,HorrorScience Fiction,Nightmare Weekend,en,4.0,0.054964
+86271,Horror,Three on a Meathook,en,4.0,0.045860000000000005
+122677,HorrorScience Fiction,Blood of Ghastly Horror,en,4.0,0.006668
+71697,HorrorFantasyScience FictionFamily,Ghost Chase,en,4.0,0.0022199999999999998
+30792,HorrorThriller,The Corpse,en,4.0,0.000603
+83363,Horror,Offerings,en,4.0,0.00022
+49830,HorrorActionThrillerScience Fiction,Bio Slime,en,3.0,1.5749469999999999
+404461,Horror,The Curse of Robert the Doll,en,3.0,1.539873
+293830,HorrorDrama,Terminal,en,3.0,1.524545
+205943,HorrorThrillerMystery,Severed Footage,en,3.0,1.135373
+30933,HorrorThrillerTV Movie,Home for the Holidays,en,3.0,0.9840709999999999
+59738,Horror,Girls Nite Out,en,3.0,0.9594809999999999
+204839,Horror,The Stepdaughter,en,3.0,0.944486
+290656,Horror,Raised by Wolves,en,3.0,0.9310280000000001
+74831,Horror,The Devil's Wedding Night,en,3.0,0.9266110000000001
+27496,Horror,Nightmare in Wax,en,3.0,0.9132899999999999
+52639,HorrorScience Fiction,Blood of the Vampire,en,3.0,0.8815629999999999
+171277,HorrorThriller,The House Across the Street,en,3.0,0.877618
+236808,HorrorThriller,Pizza 2: Villa,ta,3.0,0.789104
+327674,Horror,The Invited,en,3.0,0.780846
+246218,HorrorThrillerScience Fiction,The Underneath,en,3.0,0.775092
+58384,HorrorThriller,Drowning Ghost,en,3.0,0.766605
+430977,Horror,Seclusion,tl,3.0,0.736739
+174754,Horror,Specters,en,3.0,0.733454
+146380,Horror,The Legend of Bloody Jack,en,3.0,0.712345
+293553,HorrorComedy,Bloody Knuckles,en,3.0,0.708993
+155706,Horror,The Speak,en,3.0,0.707666
+156045,Horror,The Imp,zh,3.0,0.696036
+99261,HorrorMysteryThriller,The Bloodstained Shadow,it,3.0,0.689476
+424182,Horror,Female Werewolf,en,3.0,0.6889930000000001
+73554,HorrorThriller,The Raven,en,3.0,0.68574
+27941,HorrorScience FictionFamilyForeign,Lockjaw: Rise of the Kulev Serpent,en,3.0,0.681163
+72313,HorrorThrillerMystery,Gorilla at Large,en,3.0,0.680359
+28406,Horror,The Fury of the Wolf Man,en,3.0,0.670545
+112525,HorrorMystery,Spellcaster,en,3.0,0.6634140000000001
+80633,HorrorCrimeThriller,The Hands of Orlac,en,3.0,0.64846
+27144,Horror,The Dark Eyes of London,en,3.0,0.6357689999999999
+107781,Horror,The Club,en,3.0,0.573367
+202171,HorrorDramaThriller,The Invitation,en,3.0,0.561609
+75317,HorrorThriller,Dabbe,tr,3.0,0.5538810000000001
+23683,HorrorThriller,The Poker Club,en,3.0,0.545768
+43585,Horror,Headless Horseman,en,3.0,0.5431199999999999
+100122,HorrorThrillerForeign,The Art of Dying,es,3.0,0.539706
+22194,Horror,Possessed,da,3.0,0.529774
+92769,HorrorDrama,Relative Fear,en,3.0,0.499601
+23389,Horror,Revolt of the Zombies,en,3.0,0.482454
+67219,Horror,The Great Alligator,it,3.0,0.481113
+28592,Horror,The Castle of the Living Dead,en,3.0,0.460466
+334175,Horror,Siccin,tr,3.0,0.460433
+30879,Horror,Body Count,en,3.0,0.452924
+36529,HorrorScience Fiction,Metamorphosis,en,3.0,0.444072
+248426,Horror,Babysitter Massacre,en,3.0,0.430172
+76822,Horror,Tales of Terror from Tokyo and All Over Japan: The Movie,fr,3.0,0.410645
+85184,Horror,Nightmares,en,3.0,0.410078
+29403,HorrorThriller,The Night Walker,en,3.0,0.40812800000000005
+65871,Horror,Zombie Undead,en,3.0,0.40679699999999996
+28741,HorrorThriller,I Can See You,en,3.0,0.404425
+41038,HorrorScience Fiction,The Hideous Sun Demon,en,3.0,0.400823
+68715,Horror,Illusion of Blood,ja,3.0,0.39949
+71786,HorrorForeign,Fausto 5.0,fr,3.0,0.397162
+27840,HorrorScience Fiction,Mark of the Astro-Zombies,en,3.0,0.391997
+121620,HorrorThriller,The Touch of Her Flesh,en,3.0,0.371249
+256756,HorrorMystery,Purgatory,es,3.0,0.3475
+128152,HorrorThriller,Dracula's Widow,en,3.0,0.345821
+60410,HorrorScience FictionComedy,Remote Control,en,3.0,0.336057
+58782,Horror,A Dead Calling,en,3.0,0.33511199999999997
+57875,HorrorFantasy,The Snow Woman,ja,3.0,0.299327
+144206,Horror,Whistle and I'll Come to You,en,3.0,0.255256
+97790,Horror,Prison of the Dead,en,3.0,0.235143
+85163,HorrorThriller,Destroyer,en,3.0,0.233781
+28188,Horror,Swamp Zombies!!!,en,3.0,0.22913899999999998
+89723,HorrorThrillerComedy,The Gorilla,en,3.0,0.223875
+43084,Horror,Deadly Species,en,3.0,0.222971
+27671,HorrorThriller,Pop Skull,en,3.0,0.222681
+113649,HorrorDramaThrillerRomance,Be with Me,ko,3.0,0.21928499999999998
+74481,HorrorForeign,Darna Mana Hai,hi,3.0,0.215285
+47631,HorrorFamilyComedy,Bride of Boogedy,en,3.0,0.21101999999999999
+40261,HorrorMysteryThriller,Watch Me When I Kill,it,3.0,0.207819
+155341,Horror,Ax 'Em,en,3.0,0.207064
+88065,Horror,The Werewolf of Washington,en,3.0,0.20664699999999997
+49212,Horror,Black Demons,it,3.0,0.206271
+60190,HorrorThriller,Beyond Darkness,it,3.0,0.19809300000000002
+262474,HorrorActionComedy,Pro Wrestlers vs Zombies,en,3.0,0.177258
+100671,HorrorMystery,The Witchmaker,en,3.0,0.175253
+85873,HorrorMysteryScience Fiction,GhostWatcher,en,3.0,0.173751
+96167,HorrorThriller,Autopsy,en,3.0,0.172285
+106028,Horror,Summer School,en,3.0,0.154578
+81009,HorrorMysteryScience Fiction,Invitation to Hell,en,3.0,0.153382
+161885,HorrorAnimationComedy,Betty Boop's Hallowe'en Party,en,3.0,0.151893
+115909,Horror,Turn of the Screw,en,3.0,0.149945
+376502,HorrorDocumentary,The Blackout Experiments,en,3.0,0.147848
+84233,Horror,Don't Hang Up,en,3.0,0.140147
+95560,HorrorThriller,The Monster Walks,en,3.0,0.136451
+354667,HorrorMysteryThriller,RangiTaranga,kn,3.0,0.13006700000000002
+415255,HorrorMysteryThriller,The Secret of Evil,es,3.0,0.12236300000000001
+67988,HorrorActionComedy,Curse of the Wolf,en,3.0,0.11954200000000001
+28659,Horror,Cat Girl,en,3.0,0.115374
+39992,HorrorForeign,House of Clocks,it,3.0,0.114406
+73408,Horror,Drive-In Horrorshow,en,3.0,0.112972
+27358,HorrorScience Fiction,Monsturd,en,3.0,0.110371
+84505,HorrorDrama,Kongo,en,3.0,0.10854100000000001
+90888,HorrorComedyScience Fiction,Monster High,en,3.0,0.105886
+93890,Horror,I Eat Your Skin,en,3.0,0.10360499999999999
+4443,HorrorThriller,Nuits rouges,fr,3.0,0.060535000000000005
+81464,Horror,"Guru, The Mad Monk",en,3.0,0.041681
+84986,Horror,Screamtime,en,3.0,0.038308
+56429,Horror,Up from the Depths,en,3.0,0.003921
+32322,Horror,"Dr. Black, Mr. Hyde",en,3.0,0.0005780000000000001
+180886,HorrorWestern,Spooky Town,en,2.0,1.4953049999999999
+30872,HorrorThriller,The Devil's Honey,en,2.0,1.354258
+348191,HorrorDocumentary,Leviathan: The Story of Hellraiser and Hellbound: Hellraiser II,en,2.0,1.30706
+262871,Horror,The House of Exorcism,en,2.0,1.251434
+28684,Horror,Ring of Darkness,en,2.0,0.961042
+137533,HorrorThrillerTV MovieScience Fiction,Revenge of the Stepford Wives,en,2.0,0.956557
+28198,Horror,Vampire in Venice,en,2.0,0.9521270000000001
+103578,HorrorScience FictionForeign,Prey,en,2.0,0.9521059999999999
+197537,HorrorThrillerScience Fiction,The Machine,en,2.0,0.935473
+34202,HorrorScience Fiction,Intruders,en,2.0,0.799816
+119353,HorrorScience Fiction,The Terror Within II,en,2.0,0.745915
+77889,HorrorScience Fiction,Brides of Blood,en,2.0,0.7213149999999999
+36620,HorrorThrillerDocumentary,Splinters,en,2.0,0.687295
+22741,HorrorWar,Black Dragons,en,2.0,0.6403409999999999
+84708,HorrorScience Fiction,Captive Wild Woman,en,2.0,0.6274489999999999
+28690,Horror,Fangs of the Living Dead,en,2.0,0.611558
+77257,Horror,Exorcismo,es,2.0,0.605524
+388192,Horror,Siccin 2,en,2.0,0.575968
+109466,HorrorActionThriller,Urban Menace,en,2.0,0.57406
+21841,Horror,09-Jun,en,2.0,0.545307
+29351,HorrorScience Fiction,Satanik,en,2.0,0.47067299999999995
+309811,HorrorScience Fiction,Shadows on the Wall,en,2.0,0.463261
+30478,Horror,Bloody New Year,en,2.0,0.462164
+100770,Horror,The Black Torment,en,2.0,0.40923200000000004
+28533,HorrorThriller,The Ghost,en,2.0,0.385836
+294083,Horror,Dead Girls,en,2.0,0.38043899999999997
+39023,HorrorMysteryThriller,Dead Time,id,2.0,0.369155
+132705,Horror,Morgana,es,2.0,0.36809200000000003
+354133,Horror,Zombeak,da,2.0,0.368079
+279965,HorrorScience FictionAction,Shockwave Darkside,en,2.0,0.364068
+126278,HorrorDocumentary,Vampir-Cuadecuc,ca,2.0,0.343475
+10492,HorrorForeign,Flashback,de,2.0,0.334523
+90029,HorrorForeign,The Mad Butcher,en,2.0,0.322654
+124597,HorrorScience Fiction,Genocide,ja,2.0,0.313494
+3159,Horror,Frankenstein's Castle of Freaks,it,2.0,0.296813
+434661,HorrorComedy,Zombie Pizza,en,2.0,0.26915
+262267,HorrorDrama,Darkest Night,en,2.0,0.256166
+211729,HorrorCrimeThriller,Freeway,en,2.0,0.24109299999999997
+130633,HorrorWar,I Accuse,fr,2.0,0.228809
+76176,HorrorComedy,Da Hip Hop Witch,en,2.0,0.22164499999999998
+144351,HorrorComedy,Ghost Fever,en,2.0,0.22023099999999998
+48613,Horror,The Devil's Veil,it,2.0,0.219358
+81521,Horror,Bloodlock,en,2.0,0.21905500000000003
+36003,HorrorComedy,"Danger! 50,000 Zombies",en,2.0,0.20207
+85024,Horror,Shatter Dead,en,2.0,0.200978
+59912,HorrorForeign,The Reincarnation of Isabel,en,2.0,0.19961800000000002
+54928,HorrorScience Fiction,Project Viper,en,2.0,0.183141
+50688,HorrorMystery,Isle of the Snake People,en,2.0,0.178013
+86901,Horror,The Face of Marble,en,2.0,0.162634
+83121,Horror,The Long Hair of Death,en,2.0,0.157906
+117905,Horror,Do You Wanna Know a Secret?,en,2.0,0.15554
+17469,HorrorThriller,The Cradle,en,2.0,0.152906
+30385,Horror,Chainsaw Sally,en,2.0,0.151445
+242376,Horror,Reality Terror Night,en,2.0,0.146679
+84104,Horror,Shriek of the Mutilated,en,2.0,0.146623
+29168,HorrorScience Fiction,Dr. Moreau's House of Pain,en,2.0,0.14591800000000002
+109097,HorrorThriller,Teen-Age Strangler,en,2.0,0.14085
+48846,HorrorForeign,The Sweet House of Horrors,it,2.0,0.13858199999999998
+414827,Horror,Siccin 3: Curmu Ask,tr,2.0,0.133286
+104729,HorrorComedyRomance,Midnight,en,2.0,0.12726099999999999
+337879,HorrorCrimeDrama,Sorrow,en,2.0,0.12206199999999999
+49960,Horror,Kiss the Abyss,en,2.0,0.12175699999999999
+109554,HorrorThrillerForeign,Suicide Manual,en,2.0,0.11709000000000001
+44693,HorrorScience Fiction,The Astounding She-Monster,en,2.0,0.115448
+72654,HorrorComedy,Parents,en,2.0,0.11006099999999999
+121401,Horror,Eye of the Cat,en,2.0,0.10761199999999999
+29938,HorrorScience Fiction,Alien Escape,en,2.0,0.106499
+39509,HorrorThriller,Cold Storage,en,2.0,0.10541700000000001
+104927,Horror,The Third Eye,it,2.0,0.102133
+86410,HorrorThrillerCrime,The Hounds,en,2.0,0.10170599999999999
+42796,Horror,The Strangler,en,2.0,0.09055
+238358,HorrorThriller,Fear Lives Here,en,2.0,0.086426
+84711,Horror,Jungle Captive,en,2.0,0.082086
+171993,Horror,Deep Blood,en,2.0,0.081735
+29798,Horror,Dead Man's Hand,en,2.0,0.08107400000000001
+115451,Horror,Spirit Stalkers,en,2.0,0.078828
+49343,Horror,Dream Demon,en,2.0,0.078806
+115905,HorrorForeign,Kaalo,hi,2.0,0.077685
+58250,Horror,The Bucks County Massacre,en,2.0,0.077303
+70069,Horror,Doomed,en,2.0,0.074804
+97971,Horror,Chillers,en,2.0,0.070623
+104644,Horror,A Reflection of Fear,en,2.0,0.045860000000000005
+225898,HorrorActionThriller,Exit to Hell,en,2.0,0.041405000000000004
+86239,Horror,The Pack,en,2.0,0.035862
+78163,HorrorFantasyScience FictionActionComedy,School in the Crosshairs,ja,2.0,0.005351
+246417,Horror,"Daddy, Father Frost Is Dead",ru,2.0,0.002001
+87719,HorrorThriller,Savage Abduction,en,2.0,0.001429
+105083,HorrorThriller,Il tuo dolce corpo da uccidere,en,2.0,0.0008439999999999999
+143777,HorrorScience FictionThriller,The Killings at Outpost Zeta,en,2.0,0.000603
+82020,HorrorThriller,The Carpenter,en,2.0,1e-06
+86326,Horror,Phantom of the Mall: Eric's Revenge,en,2.0,1e-06
+192367,HorrorComedyFamily,The Halloween That Almost Wasn't,en,1.0,0.9038719999999999
+106280,HorrorThriller,Dark Tower,en,1.0,0.8817790000000001
+3210,HorrorScience Fiction,The Projected Man,en,1.0,0.720828
+349138,Horror,Ludo,en,1.0,0.689882
+116514,HorrorThriller,The Forest,en,1.0,0.629428
+109102,Horror,Picture Mommy Dead,en,1.0,0.5507920000000001
+114047,HorrorThriller,13 Curses,es,1.0,0.546139
+188719,HorrorMysteryThriller,Khamosh,en,1.0,0.5228119999999999
+108798,Horror,The Haunted Castle,ja,1.0,0.48926899999999995
+174650,Horror,The Return of the Exorcist,en,1.0,0.485904
+228012,HorrorCrimeThriller,Raat,hi,1.0,0.47316899999999995
+112460,HorrorThriller,London Voodoo,en,1.0,0.456527
+289923,Horror,The Burkittsville 7,en,1.0,0.38645
+14482,HorrorForeign,Baba Yaga,ru,1.0,0.378382
+240992,HorrorActionAdventureMystery,Santo vs. the Zombies,es,1.0,0.34729699999999997
+89722,HorrorForeign,Visions of Suffering,en,1.0,0.333848
+30460,Horror,Dracula in Pakistan,ur,1.0,0.323291
+194393,Horror,The Disembodied,en,1.0,0.289541
+34784,Horror,Grim Reaper,en,1.0,0.275394
+5067,HorrorDramaMystery,The Burning Court,en,1.0,0.252374
+326536,HorrorFantasy,The Coven,en,1.0,0.21446500000000002
+320412,HorrorComedy,Camp Massacre,en,1.0,0.20912600000000003
+310933,Horror,Bleeding Hearts,en,1.0,0.181289
+422514,Horror,Killjoy's Psycho Circus,en,1.0,0.168822
+335582,HorrorDrama,A God Without a Universe,da,1.0,0.15981700000000001
+35953,HorrorActionThrillerForeign,Land of Death,en,1.0,0.158494
+187993,HorrorComedyAnimation,Halloween,en,1.0,0.150626
+29466,HorrorDrama,The Magician,en,1.0,0.149622
+198225,Horror,The Ghost Story of Oiwa's Spirit,ja,1.0,0.13967000000000002
+86658,Horror,Zombie Christ,en,1.0,0.13711700000000002
+85162,HorrorThriller,Deadly Dreams,en,1.0,0.136398
+122895,Horror,The Old Temple,hi,1.0,0.129807
+81675,HorrorActionComedyThriller,The Bear,ro,1.0,0.125349
+27696,Horror,The Thirsting,en,1.0,0.116875
+46658,HorrorActionDrama,Night of the Sharks,fr,1.0,0.11078099999999999
+117023,HorrorScience Fiction,Sharkman,en,1.0,0.10448199999999999
+250638,HorrorActionFantasy,Witch from Nepal,cn,1.0,0.096751
+111974,Horror,Cycling Chronicles: Landscapes the Boy Saw,ja,1.0,0.095752
+250610,HorrorDrama,The Crew,en,1.0,0.08959600000000001
+121691,HorrorActionThrillerDocumentary,Hellbound?,en,1.0,0.08880299999999999
+122982,HorrorDrama,The Secretary,en,1.0,0.081332
+263412,HorrorDrama,Akelarre,es,1.0,0.080326
+108648,Horror,The Bride from Hades,ja,1.0,0.076951
+99104,Horror,Bloodletting,en,1.0,0.072171
+414910,Horror,Tonight It's You,en,1.0,0.072118
+140513,Horror,Bakeneko: A Vengeful Spirit,ja,1.0,0.062612
+206574,Horror,Unrated II: Scary as Hell,de,1.0,0.06130700000000001
+73250,Horror,Bloodline,it,1.0,0.061137000000000004
+346093,HorrorScience Fiction,KillerSaurus,en,1.0,0.060371
+84240,Horror,Ghost,en,1.0,0.05959299999999999
+104528,Horror,Dogs,en,1.0,0.058682000000000005
+128264,Horror,Zombie Reanimation,en,1.0,0.058366999999999995
+74829,HorrorAction,The Killing of Satan,tl,1.0,0.056353999999999994
+33784,HorrorThriller,Huset vid vagens ande,en,1.0,0.054755
+93715,Horror,Butchered,en,1.0,0.051973
+316637,Horror,Atrocity,en,1.0,0.048302
+235373,HorrorFantasyThriller,The Flaying,en,1.0,0.047401
+142758,HorrorThriller,Deadly Renovations,en,1.0,0.045141
+67320,Horror,Stanley,en,1.0,0.040508999999999996
+89720,Horror,Kiss of the Tarantula,en,1.0,0.040326
+298228,Horror,Peter Rottentail,en,1.0,0.040075
+52400,HorrorActionForeign,Yoroi: Samurai zombie,en,1.0,0.040003
+104108,Horror,The Craving,en,1.0,0.038949
+26631,HorrorThriller,In the Blood,en,1.0,0.038824000000000004
+42710,Horror,Silent Madness,en,1.0,0.037714
+107413,Horror,Snake Woman's Curse,ja,1.0,0.037007
+187782,Horror,Bedevil,en,1.0,0.036886
+27766,Horror,Santa Claws,en,1.0,0.036799
+108788,HorrorFantasyTV Movie,Out of Mind: The Stories of H.P. Lovecraft,en,1.0,0.03652
+92809,Horror,The Dead Talk Back,en,1.0,0.036475
+85674,Horror,The Twilight People,en,1.0,0.035207
+84108,HorrorComedy,Alabama's Ghost,en,1.0,0.026351
+42477,HorrorScience Fiction,Brain of Blood,en,1.0,0.023982
+85200,Horror,Island of Blood,en,1.0,0.009335
+173080,Horror,Graveyard Shift,en,1.0,0.004351
+89992,Horror,Curse,en,1.0,0.003013
+79911,HorrorScience Fiction,Weasels Rip My Flesh,en,1.0,0.001736
+192573,HorrorComedy,Zapatlela,mr,1.0,0.0008439999999999999
+49711,Horror,The Laboratory of Fear,fr,1.0,0.0005780000000000001
+208579,Horror,The Rites of May,tl,1.0,0.000308
+97559,HorrorThriller,Mako: The Jaws of Death,en,1.0,0.00022
+99106,Horror,The Monster,hi,1.0,0.000151
+170430,HorrorDrama,Man of Her Dreams,en,0.0,0.7982199999999999
+169836,HorrorDrama,A Demon in My View,de,0.0,0.41498199999999996
+455188,Horror,Seizure,en,0.0,0.390678
+338767,HorrorDrama,From The Depths of My Heart,sv,0.0,0.286933
+28072,Horror,Demon Witch Child,es,0.0,0.278839
+333072,HorrorAction,Deadman Inferno,ja,0.0,0.260544
+239628,HorrorAction,Dead End Road,en,0.0,0.23729299999999998
+234652,HorrorDocumentary,I Heart Monster Movies,en,0.0,0.192983
+140632,Horror,Hot Summer Week,en,0.0,0.12986
+28446,HorrorThriller,Suspended Animation,en,0.0,0.12486300000000002
+408140,HorrorThrillerComedy,Blood Moon,en,0.0,0.062812
+29313,Horror,Ella y el miedo,en,0.0,0.056538
+126152,HorrorScience Fiction,With Friends Like These...,en,0.0,0.05639500000000001
+422472,Horror,Family Possessions,en,0.0,0.056003
+317168,HorrorActionFantasy,Santo vs. the She-Wolves,es,0.0,0.052935
+390540,HorrorDocumentary,The Worst of Faces of Death,en,0.0,0.044306
+342695,HorrorComedy,Cannibal Fog,en,0.0,0.029662
+80965,HorrorThriller,Blind Date,en,0.0,0.028517
+97251,HorrorDocumentary,Faces of Death: Fact or Fiction?,en,0.0,0.020447999999999997
+353813,Horror,Saboot,hi,0.0,0.017433
+141757,HorrorDrama,The Phantom,pl,0.0,0.011937999999999999
+122052,Horror,Creature from the Hillbilly Lagoon,en,0.0,0.00978
+153170,Horror,Bandh Darwaza,hi,0.0,0.009279
+68982,HorrorThriller,Psychic Killer,en,0.0,0.009183
+121888,Horror,Bloody Psycho,it,0.0,0.008903
+318535,Horror,The Mesmerist,en,0.0,0.006517
+357106,HorrorFantasy,Lust in the Mummy's Tomb,en,0.0,0.005944
+50317,HorrorMysteryThriller,Head Trauma,en,0.0,0.003939
+228650,Horror,Tahkhana,hi,0.0,0.0030859999999999998
+118427,Horror,Mommy,en,0.0,0.0029620000000000002
+133137,Horror,Dead Creatures,en,0.0,0.002709
+77642,Horror,Night of the Sorcerers,es,0.0,0.001058
+19444,Horror,Bad Karma,en,0.0,0.0006799999999999999
+39535,HorrorThriller,Tarot,es,0.0,0.0005780000000000001
+84418,Horror,Asylum of Satan,en,0.0,0.00034700000000000003
+109074,Horror,Day of the Reaper,en,0.0,8e-05
+301671,Horror,Devil's Domain,hi,0.0,7.3e-05
+303966,Horror,Black Magic,hi,0.0,5.9999999999999995e-05
+167556,HorrorDramaCrime,My Friends Need Killing,en,0.0,5e-05
+222932,Horror,The Deathhead Virgin,en,0.0,4e-06
+29072,Horror,Night of the Zombies,en,0.0,0.0
+315256,Horror,Terror,hi,0.0,0.0

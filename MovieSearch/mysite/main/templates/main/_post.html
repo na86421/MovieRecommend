@@ -1,0 +1,16 @@
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+	  <div class="card" style="width: 18rem;">
+  
+  <div class="card-header">
+    {% if post.user.profile.image %}
+    <img src="{{ post.user.profile.image.url }}" width="25" alt="">
+    {% endif %}
+		  </div>
+	  </div>
+  </body>
+</html>

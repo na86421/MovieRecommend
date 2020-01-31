@@ -1,0 +1,383 @@
+<html>
+
+<head>
+  <title>메인</title>
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Baloo+Paaji&display=swap" rel="stylesheet">
+
+  <!-- jQuery !-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+  <!-- Bootstrap !-->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+  <script>
+   $(function(){
+        $('.navbtn').on("mouseenter", function(){
+            $(this).addClass("colorbtn");
+        });
+        $('.navbtn').on("mouseleave", function(){
+            $(this).removeClass("colorbtn");
+        });
+    })
+    $(function() {
+      $("label[id*='check-area-']").click(function() {//label 클릭시, 클래스명으로 처리
+           //var cnt = $("input[name='movie_check']:checked").length;
+	        	       
+            if($(this).children('input').is(":checked")) //label태그의 자식인 input태그로 체크 여부 확인
+            {            
+                $('#'+this.id).addClass("checked");   
+            }
+            else
+            {
+                $('#'+this.id).removeClass("checked"); 
+              
+            }
+
+      }); 
+    });
+
+    
+
+    function search_list() {
+
+    };
+      
+    var values=[];
+    $(function() {
+        $("#sumbit_button").click(function(){
+            $("input[name=movie_check]:checked").each(function(){
+                console.log(this);
+                values.push($(this).parents('.movie_check').css("background-image")); 
+            });
+            console.log(values); 
+            location.href="/signup?values="+values;  
+        });
+           
+    });
+      
+    
+      
+  </script>
+
+
+  <style>
+    body {
+      background: black;
+
+    }
+	  .colorbtn{
+		  color:red;
+	  }
+
+    #section {
+      height: 550px;
+    }
+
+    #nav {
+      height: 80px;
+      color: #960303;
+      border-bottom: 2px solid #3a0707;
+	  font-family: 'Baloo Paaji', cursive;
+	  
+    }
+
+
+    .movieimg {
+      border: 1px solid black;
+      width: 200px;
+      height: 300px;
+      float: left;
+      margin: 2%;
+      list-style: none;
+    }
+
+    .search-bar {
+      width: 500px;
+    }
+
+    .secondlist {
+      display: none;
+    }
+
+    .selected {
+      border: 2px solid red;
+    }
+
+    .logo {
+      padding: 5px;
+      margin-left: 15px;
+      float: left;
+    }
+
+    .hide {
+      display: none;
+    }
+
+    .menu {
+      float: right;
+      list-style: none;
+      margin-left: 2%;
+      padding: 15px;
+      font-size: 23px;
+    }
+	  a:hover{
+		  
+      color: red;
+	  }  
+	a{
+		  
+      color: #960303;
+	  }
+    a:link {
+      text-decoration: none;
+		
+    }
+
+    .imgcheck {
+      float: left;
+      text-align: center;
+      cursor: pointer !important;
+      width: 200px;
+      height: 300px;
+      margin-left: 6%;
+	
+      margin-top: 2%;
+    }
+
+    #check-area-1 {
+      background: url("/static/action/image/Inception movie.jpg") left/50px no-repeat; 
+      background-size: 200px 300px;
+      width: 200px;
+      height: 300px;
+      border-radius:5px;
+	  }
+
+    #check-area-2 {
+      background: url("/static/action/image/Avatar movie.jpg") left/50px no-repeat;
+      background-size: 200px 300px;
+      width: 200px;
+      height: 300px;
+      border-radius:5px;
+    }
+
+    #check-area-3 {
+      background: url("/static/action/image/Guardians of the Galaxy movie.jpg") left/50px no-repeat;
+      background-size: 200px 300px;
+      width: 200px;
+      height: 300px;
+      border-radius:5px;
+    }
+
+    #check-area-4 {
+      background: url("/static/action/image/The Dark Knight Rises movie.jpg") left/50px no-repeat;
+      background-size: 200px 300px;
+      width: 200px;
+      height: 300px;
+      border-radius:5px;
+    }
+
+    #check-area-5 {
+      background: url("/static/comedy/image/Forrest Gump movie.jpg") left/50px no-repeat;
+      background-size: 200px 300px;
+      width: 200px;
+      height: 300px;
+      border-radius:5px;
+    }
+
+    #check-area-6 {
+      background: url("/static/comedy/image/La La Land movie.jpg") left/50px no-repeat;
+      background-size: 200px 300px;
+      width: 200px;
+      height: 300px;
+      border-radius:5px;
+    }
+
+    #check-area-7 {
+      background: url("/static/comedy/image/The Grand Budapest Hotel movie.jpg") left/50px no-repeat;
+      background-size: 200px 300px;
+      width: 200px;
+      height: 300px;
+      border-radius:5px;
+    }
+
+    #check-area-8 {
+      background: url("/static/drama/image/Shutter Island movie.jpg") left/50px no-repeat;
+      background-size: 200px 300px;
+      width: 200px;
+      height: 300px;
+      border-radius:5px;
+    }
+
+    #check-area-9 {
+      background: url("/static/drama/image/The Intouchables movie.jpg") left/50px no-repeat;
+      background-size: 200px 300px;
+      width: 200px;
+      height: 300px;
+      border-radius:5px;
+    }
+
+    #check-area-10 {
+      background: url("/static/sciencefiction/image/The Avengers movie.jpg") left/50px no-repeat;
+      background-size: 200px 300px;
+      width: 200px;
+      height: 300px;
+      border-radius:5px;
+    }
+
+    #check-area-11 {
+      background: url("/static/sciencefiction/image/The Hunger Games movie.jpg") left/50px no-repeat;
+      background-size: 200px 300px;
+      width: 200px;
+      height: 300px;
+      border-radius:5px;
+    }
+
+    #check-area-12  {
+      background: url("/static/sciencefiction/image/Ant-Man movie.jpg") left/50px no-repeat;
+      background-size: 200px 300px;
+      width: 200px;
+      height: 300px;
+      border-radius:5px;
+    }
+
+    .moviecheck {
+      opcity: 0%;
+      visibility: hidden;
+    }
+
+    .checked {
+      border: 2px solid red;
+    }
+      #signup_notice{
+          text-align:center;
+          color:red;
+          margin-top: 20px;
+          
+          
+      }
+      #sumbit_button{
+          float:right;
+          margin-bottom:30px;
+      }
+  </style>
+
+
+
+</head>
+
+<body>
+  <!-- jquery cdn -->
+  <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+  <!-- Bootstrap cdn !-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  <div id="nav">
+    <h1 class="logo navbtn"><a class="hyper" href="https://moviesearch-sncjv.run.goorm.io">Search</a></h1>
+    <!-- 헤더공백  -->
+    <nav>
+      <ul>
+        {% if user.is_active %}
+        <li class="menu navbtn"><a class="hyper" href="https://moviesearch-sncjv.run.goorm.io/logout">Logout</a></li>
+        <li class="menu navbtn"><a class="hyper" href="https://moviesearch-sncjv.run.goorm.io/profile">Profile</a></li>
+        <li class="menu navbtn"><a class="hyper" href="https://moviesearch-sncjv.run.goorm.io/board">Board</a></li>
+        <li class="menu navbtn"><a class="hyper" href="https://moviesearch-sncjv.run.goorm.io/movies">All</a></li>
+        {% else %}
+        <li class="menu navbtn"><a href="/login">Login</a></li>
+        {%endif%}
+      </ul>
+
+    </nav>
+  </div>
+
+
+  <h1 id="signup_notice">보고싶은 영화를 5개 선택 후 가입하세요!</h1>
+  <!-- 장르선택 -->
+  <div class="container">
+    <form action="signup.jsp" id="movieform" method="post">
+      <div class="imgcheck">
+        <label class="movie_check" id="check-area-1">
+        <input type="checkbox" name="movie_check" style="display:none;">
+        <div class="shape"></div>
+        </label>
+      </div>
+      <div class="imgcheck">
+        <label class="movie_check" id="check-area-2">
+        <input type="checkbox" name="movie_check"  style="display:none;">
+        <div class="shape"></div>
+        </label>
+      </div>
+      <div class="imgcheck">
+        <label class="movie_check" id="check-area-3">
+        <input type="checkbox" name="movie_check" style="display:none;">
+        <div class="shape"></div>
+        </label>
+      </div>
+      <div class="imgcheck">
+        <label class="movie_check" id="check-area-4">
+        <input type="checkbox" name="movie_check" style="display:none;">
+        <div class="shape"></div>
+        </label>
+      </div>
+      <div class="imgcheck">
+        <label class="movie_check" id="check-area-5">
+        <input type="checkbox" name="movie_check" style="display:none;">
+        <div class="shape"></div>
+        </label>
+      </div>
+      <div class="imgcheck">
+        <label class="movie_check" id="check-area-6">
+        <input type="checkbox" name="movie_check" style="display:none;">
+        <div class="shape"></div>
+        </label>
+      </div>
+      <div class="imgcheck">
+        <label class="movie_check" id="check-area-7">
+        <input type="checkbox" name="movie_check" style="display:none;">
+        <div class="shape"></div>
+        </label>
+      </div>
+      <div class="imgcheck">
+        <label class="movie_check" id="check-area-8">
+        <input type="checkbox" name="movie_check" style="display:none;">
+        <div class="shape"></div>
+        </label>
+      </div>
+      <div class="imgcheck">
+        <label class="movie_check" id="check-area-9">
+        <input type="checkbox" name="movie_check" style="display:none;">
+        <div class="shape"></div>
+        </label>
+      </div>
+      <div class="imgcheck">
+        <label class="movie_check" id="check-area-10" >
+        <input type="checkbox" name="movie_check" style="display:none;">
+        <div class="shape"></div>
+        </label>
+      </div>
+      <div class="imgcheck">
+        <label class="movie_check" id="check-area-11">
+        <input type="checkbox" name="movie_check" style="display:none;">
+        <div class="shape"></div>
+        </label>
+      </div>
+      <div class="imgcheck">
+        <label class="movie_check" id="check-area-12">
+        <input type="checkbox" name="movie_check" style="display:none;">
+        <div class="shape"></div>
+        </label>
+      </div>
+
+      <input type="button" id="sumbit_button" class="btn btn-dark mt-5" value="Sign up">
+    </form>
+  </div>
+  <div id="footer">
+    <!-- Footer공백 -->
+  </div>
+
+
+</body>
+
+</html>

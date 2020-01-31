@@ -1,0 +1,211 @@
+<html>
+
+<head>
+  <title>게시판</title>
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Baloo+Paaji&display=swap" rel="stylesheet">
+
+    
+    <!-- jQuery !-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+  <!-- Bootstrap !-->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+  <script>
+    $(function() {
+      $(".moviecheck1").on("click", function() {
+        $(this).addClass("checked");
+
+      });
+
+
+      });
+    });
+  </script>
+
+
+  <style>
+    body {
+      background: black;
+
+    }
+
+    #searchbar {
+      text-align: center;
+      color: white;
+      margin-top: 40px;
+    }
+
+    #section {
+      height: 550px;
+    }
+
+    #nav {
+      height: 80px;
+      color: #960303;
+		font-family: 'Baloo Paaji', cursive;
+      border-bottom: 2px solid #3a0707;
+    }
+
+    .movieimg {
+      border: 1px solid black;
+      width: 300px;
+      height: 200px;
+      float: left;
+      margin: 2%;
+      list-style: none;
+    }
+
+    .search-bar {
+      width: 500px;
+    }
+
+    .secondlist {
+      display: none;
+    }
+
+    .selected {
+      border: 2px solid red;
+    }
+
+    .logo {
+      padding: 5px;
+      margin-left: 15px;
+      float: left;
+    }
+
+    .hide {
+      display: none;
+    }
+	  .forms{
+	  
+	  text-align-last: left;
+	  }
+
+    .menu {
+      float: right;
+      list-style: none;
+      margin-left: 2%;
+      padding: 15px;
+      font-size: 23px;
+    }
+
+	a:hover{
+		  
+      color: red;
+	  }  
+	a{
+		  
+      color: #960303;
+	  }
+    a:link {
+      text-decoration: none;
+		
+    }
+    .imgcheck{
+      float:left;
+      text-align:center;
+      cursor: pointer !important;
+      width:300px;
+      height:300px;
+      margin-left:6%;
+
+      margin-top:2%;
+    }
+    .moviecheck1{
+      background: url("/static/1.jpg") left/50px no-repeat;
+      background-size:300px 300px;
+      width:300px;
+      height:300px;
+    }
+    .moviecheck{
+      opcity:0%;
+      visibility:hidden;
+    }
+    .checked{
+      border : 2px solid red;
+    }
+  </style>
+
+
+
+</head>
+
+<body>
+  <!-- jquery cdn -->
+  <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+  <!-- Bootstrap cdn !-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  <div id="nav">
+      <h1 class="logo"><a href="https://moviesearch-sncjv.run.goorm.io">Search</a></h1>
+    <!-- 헤더공백  -->
+    <nav>
+      <ul>
+    <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/signup">Signup</a></li>  
+    {% if user.is_active %}
+    <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/logout">Logout</a></li>
+    {% else %}
+    <li class="menu"><a href="/login">Login</a></li>
+    {%endif%}
+    <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/profile">Profile</a></li>
+    <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/board">Board</a></li>
+    <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/movies">All</a></li>
+      </ul>
+
+    </nav>
+  </div>
+
+
+  <div id="searchbar" class="container ">
+    <h2>Search Movie</h2>
+
+  
+      <!-- 게시판쓰기 !-->
+  <div id="BoardAll">
+      <div class="container">
+  
+          <form method="post">
+          {%csrf_token%}
+              {% load widget_tweaks %}
+  
+  
+   <div class="forms">
+       <h5>
+		   Name<br>
+	   </h5>
+       {% render_field form.name class="form-control" placeholer="name" %}<br>
+         <h5>
+		   Email<br>
+	   </h5>
+       {% render_field form.email class="form-control" placeholer="email" %}<br>
+         <h5>
+		   Title<br>
+	   </h5>
+       {% render_field form.title class="form-control" placeholer="title" %}<br>
+         <h5>
+		   MainText<br>
+	   </h5>
+       {% render_field form.comment class="form-control" placeholer="maintext"%}<br>
+  
+   </div>
+  
+          <div class="bottominput">
+  
+       <input type="submit" class="btn btn-outline-dark" value="Save">
+       <input type="reset" value="Rewrite"class="btn btn-outline-dark">
+       <input class="btn btn-outline-dark"type="button" value="Back" onclick="history.back(1)">
+              </div>
+         </form>
+      </div>
+   </div>
+      
+  <div id="footer">
+    <!-- Footer공백 -->
+    </div>
+    
+    </body>
+</html>

@@ -1,0 +1,117 @@
+	<html>
+
+<head>
+  <title>로그인</title>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Baloo+Paaji&display=swap" rel="stylesheet">
+
+
+  <!-- jQuery !-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+  <!-- Bootstrap !-->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+
+  <style>
+    body {
+      background: black;
+
+    }
+
+    #searchbar {
+      text-align: center;
+      color: white;
+      margin-top: 40px;
+    }
+
+    #nav {
+      height: 80px;
+      color: #960303;
+      border-bottom: 2px solid #3a0707;
+		font-family: 'Baloo Paaji', cursive;
+    }
+
+    .logo {
+      padding: 5px;
+      margin-left: 15px;
+      float: left;
+    }
+
+    .menu {
+      float: right;
+      list-style: none;
+      margin-left: 2%;
+      padding: 15px;
+      font-size: 23px;
+    }
+
+    
+
+    .login {
+      width: 500px;
+      color: white;
+      padding: 50px;
+    }
+	  a:hover{
+		  
+      color: red;
+	  }  
+	a{
+		  
+      color: #960303;
+	  }
+    a:link {
+      text-decoration: none;
+		
+    }
+    h2 {
+      text-align: center;
+
+    }
+  </style>
+
+
+
+</head>
+
+<body>
+  <!-- jquery cdn -->
+  <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+  <!-- Bootstrap cdn !-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  <div id="nav">
+    <h1 class="logo"><a href="https://moviesearch-sncjv.run.goorm.io">Search</a></h1>
+    <!-- 헤더공백  -->
+    <nav>
+      <ul>
+        <li class="menu"><a href="https://moviesearch-sncjv.run.goorm.io/login">Login</a></li>
+      </ul>
+
+    </nav>
+  </div>
+
+
+  <!-- 로그인폼 -->
+  <div class="section">
+    <div class="container mx-auto mt-5 login">
+      <h2> Login </h2>
+      <form method="post" action="{%url 'login'%}">{%csrf_token%}
+        {{ form.as_p }}<br>
+        Username
+        <input class="form-control" type="text" name="username" placeholder="Username" required="required" /><br>
+        Password
+        <input class="form-control" type="password" name="password" placeholder="Password" required="required" /><br>
+        <button class="btn btn-dark btn-block btn-large ">Login</button>
+
+
+      </form>
+
+    </div>
+
+  </div>
+</body>
+
+</html>
