@@ -1,6 +1,10 @@
-# MovieRecommend
-## Description
-##### This is Movie Recommend Website(Using Django, python)
+# Project Name
+Movie Recommend Website
+
+# Project Description
+This is Movie Recommend Website 
+Using Dajngo, python, javascript  
+
 ## Screenshots
 
 ## intro 
