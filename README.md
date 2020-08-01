@@ -2,7 +2,7 @@
 Movie Recommend Website
 
 # Project Description
-This is Movie Recommend Website Using Dajngo, python, javascript. 
+This is Movie Recommend Website Using Dajngo, python, javascript.   
 The website uses a movie review dataset to select recommended movies based on the user's desired genre.
 
 # Screenshots
