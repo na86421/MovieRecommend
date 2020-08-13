@@ -7,9 +7,9 @@
 추천하여 준다.
 
 ### 프로젝트 개발 기간
-인원 : 2명
-제작 기간 : 2019.9 ~ 2019.12
-프로젝트 내 맡은 역할 : Frontend(javascript 를 활용한 기능 개발), DB 설계 및 개발(sqllite), Backend(Image search Api 구현, MVC 보조 개발)
+인원 : 2명   
+제작 기간 : 2019.9 ~ 2019.12   
+프로젝트 내 맡은 역할 : Frontend(javascript 를 활용한 기능 개발), DB 설계 및 개발(sqllite), Backend(Image search Api 구현, MVC 보조 개발)   
 
 ## 설계
 #### 기능 요구사항
