@@ -9,10 +9,10 @@
 ### 프로젝트 개발 기간
 인원 : 2명   
 제작 기간 : 2019.9 ~ 2019.12   
-프로젝트 내 맡은 역할 : Frontend(javascript 를 활용한 기능 개발), DB 설계 및 개발(sqllite), Backend(Image search Api 구현, MVC 보조 개발)   
+프로젝트 내 맡은 역할 : Frontend(JavaScript 를 활용한 기능 개발), DB 설계 및 개발(SQLite), Backend(Image search API 구현, MVC 보조 개발)   
 
 ### 활용한 라이브러리 및 프레임워크
-Django, Bing Image Search Api
+Django, Bing Image Search API
 
 ## 설계
 |기능 요구사항|구조|프로세스|
@@ -23,11 +23,11 @@ Django, Bing Image Search Api
 Model, View, Controller(Template) 패턴을 활용하여 설계하였다.
 |Model|View|
 |---|---|
-|||
+|![Model](https://user-images.githubusercontent.com/55237012/90224399-8f385000-de4a-11ea-8389-7fb4bebb9be4.PNG)|![View](https://user-images.githubusercontent.com/55237012/90224437-9f502f80-de4a-11ea-9972-a8b141ff1552.PNG)|
 
 |Template1|Template2|
 |---|---|
-|||
+|![Template](https://user-images.githubusercontent.com/55237012/90224366-80ea3400-de4a-11ea-9bc7-9eada50d4162.PNG)|![Template2](https://user-images.githubusercontent.com/55237012/90224455-aa0ac480-de4a-11ea-93eb-3ac9ac68b56c.PNG)|
 
 
 
