@@ -11,7 +11,7 @@
 제작 기간 : 2019.9 ~ 2019.12   
 프로젝트 내 맡은 역할 : Frontend(javascript 를 활용한 기능 개발), DB 설계 및 개발(sqllite), Backend(Image search Api 구현, MVC 보조 개발)   
 
-### 활용한 라이브러이 및 프레임워크
+### 활용한 라이브러리 및 프레임워크
 Django, Bing Image Search Api
 
 ## 설계
@@ -21,7 +21,15 @@ Django, Bing Image Search Api
 
 ### 설계 방법
 Model, View, Controller(Template) 패턴을 활용하여 설계하였다.
-|Mo||
+|Model|View|
+|---|---|
+|||
+
+|Template1|Template2|
+|---|---|
+|||
+
+
 
 ## 스크린샷
 ### 인트로 페이지
