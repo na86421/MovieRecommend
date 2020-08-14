@@ -17,9 +17,7 @@
 |![유스케이스 다이어그램](https://user-images.githubusercontent.com/55237012/90137017-fc4ad780-ddaf-11ea-8f01-147425f7f164.png)|![클래스 다이어그램](https://user-images.githubusercontent.com/55237012/90137020-fd7c0480-ddaf-11ea-8f24-53c2b1a66235.png)|![시퀀스 다이어그램](https://user-images.githubusercontent.com/55237012/90137023-fe149b00-ddaf-11ea-9f08-3d0463b08a95.png)|
 
 ## 구현 기능
-![구현여부](https://user-images.githubusercontent.com/55237012/90137290-6a8f9a00-ddb0-11ea-9449-83984ea540ad.PNG)
-
-<img src="https://user-images.githubusercontent.com/55237012/90137290-6a8f9a00-ddb0-11ea-9449-83984ea540ad.PNG" width="60%">
+<img src="https://user-images.githubusercontent.com/55237012/90137290-6a8f9a00-ddb0-11ea-9449-83984ea540ad.PNG" width="70%">
 
 # Screenshots
 ## intro page 
