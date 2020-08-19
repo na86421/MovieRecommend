@@ -1,15 +1,15 @@
-from django.forms import ModelForm
+from django.forms import ModelForm, forms
 from main.models import *
 from django import *
 #from .models import Profile
+
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth import get_user_model
 
 from django.views.generic import CreateView
-
 from django.contrib.auth.forms import UserChangeForm
 
-##커밋 test
+
 
 class CustomUserCreationForm(ModelForm): 
     class Meta:

@@ -275,15 +275,15 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
   <div id="nav">
-    <h1 class="logo navbtn"><a class="hyper" href="https://moviesearch-sncjv.run.goorm.io">Search</a></h1>
+    <h1 class="logo navbtn"><a class="hyper" href="http://127.0.0.1:8000/">Search</a></h1>
     <!-- 헤더공백  -->
     <nav>
       <ul>
         {% if user.is_active %}
-        <li class="menu navbtn"><a class="hyper" href="https://moviesearch-sncjv.run.goorm.io/logout">Logout</a></li>
-        <li class="menu navbtn"><a class="hyper" href="https://moviesearch-sncjv.run.goorm.io/profile">Profile</a></li>
-        <li class="menu navbtn"><a class="hyper" href="https://moviesearch-sncjv.run.goorm.io/board">Board</a></li>
-        <li class="menu navbtn"><a class="hyper" href="https://moviesearch-sncjv.run.goorm.io/movies">All</a></li>
+        <li class="menu navbtn"><a class="hyper" href="http://127.0.0.1:8000/logout">Logout</a></li>
+        <li class="menu navbtn"><a class="hyper" href="http://127.0.0.1:8000/profile">Profile</a></li>
+        <li class="menu navbtn"><a class="hyper" href="http://127.0.0.1:8000/board">Board</a></li>
+        <li class="menu navbtn"><a class="hyper" href="http://127.0.0.1:8000/movies">All</a></li>
         {% else %}
         <li class="menu navbtn"><a href="/login">Login</a></li>
         {%endif%}
