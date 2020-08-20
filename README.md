@@ -1,15 +1,17 @@
-## 프로젝트명
-영화 추천 웹사이트
+## Service Name
+Search
 
-## 프로젝트 설명
-사용자가 선호하는 장르를 기반으로 추천영화에 대한 정보를 제공하는 웹사이트를 개발하였다.   
-데이터 셋으로 IMDB의 영화 리뷰 데이터 셋을 활용 하였으며, 평균적으로 높은 평점을 가진 영화를 우선적으로
-추천하여 준다.
+## Project Introduction
+This service is a website that provides recommended movies based on the genre that users prefer.   
+IMDB's movie rating(review) dataset is used, and movies with high ratings are preferentially recommended based on the genre that users prefer.
 
-### 프로젝트 개발 기간
-인원 : 2명   
-제작 기간 : 2019.9 ~ 2019.12   
-프로젝트 내 맡은 역할 : Frontend(JavaScript 를 활용한 기능 개발), DB 설계 및 개발(SQLite), Backend(Image search API 구현, MVC 보조 개발)   
+### Period   
+Duration : 2019.9 ~ 2019.12   
+Technologies used : HTML5/CSS3, JavaScript, Python, Djagno, SQLite, Image Search API   
+Role : 
+Frontend - Movie Poster Printing function, Search function, movie_info.csv file Data/String Processing(Ajax), User preferred genre priority printing function
+Backend - (Django), Data Processing
+
 
 ### 활용한 라이브러리 및 프레임워크
 Django, Bing Image Search API
