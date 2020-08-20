@@ -6,7 +6,7 @@ This service is a website that provides recommended movies based on the genre th
 IMDB's movie rating(review) dataset is used, and movies with high ratings are preferentially recommended   
 based on the genre that users prefer.
 
-### why we development
+### why we developed?
 We decided to create a movie recommendation website for us who love both movies and programming.   
 It was developed with an emphasis on data processing into useful information using big data (IMDB's movie dataset).   
 
