@@ -1,5 +1,5 @@
 ## Service Name
-Search
+Moive Search
 
 ## Project Introduction
 This service is a website that provides recommended movies based on the genre that users prefer.   
