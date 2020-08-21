@@ -13,17 +13,13 @@ It was developed with an emphasis on data processing into useful information usi
 ### Period   
 Duration : 2019.9 ~ 2019.12   
 Technologies used : HTML5/CSS3, JavaScript, Python, Djagno, SQLite, Image Search API   
-Role : 
+Role in the project : 
 Frontend - Movie Poster Printing function, Search function, movie_info.csv file Data/String Processing(Ajax),    
-           User preferred genre priority printing function    
+           User preferred genre priority printing function             
 Backend - Image Search API(Bing Image Search), IMDB Movie Dataset Processing(Voterate sorting), AbstractUser Design(models),  
 
-
-### 활용한 라이브러리 및 프레임워크
-Django, Bing Image Search API
-
-## 설계
-|기능 요구사항|구조|프로세스|
+## Software Design
+|Requiremnet|Structure|Process|
 |---|---|---|
 |![유스케이스 다이어그램](https://user-images.githubusercontent.com/55237012/90137017-fc4ad780-ddaf-11ea-8f01-147425f7f164.png)|![클래스 다이어그램](https://user-images.githubusercontent.com/55237012/90137020-fd7c0480-ddaf-11ea-8f24-53c2b1a66235.png)|![시퀀스 다이어그램](https://user-images.githubusercontent.com/55237012/90137023-fe149b00-ddaf-11ea-9f08-3d0463b08a95.png)|
 
