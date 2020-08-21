@@ -11,11 +11,16 @@ We decided to create a movie recommendation website for us who love both movies 
 It was developed with an emphasis on data processing into useful information using big data (IMDB's movie dataset).   
 
 ### Period   
+
 Duration : 2019.9 ~ 2019.12   
+
 Technologies used : HTML5/CSS3, JavaScript, Python, Djagno, SQLite, Image Search API   
-Role in the project : 
+
+Role in the project :    
+
 Frontend - Movie Poster Printing function, Search function, movie_info.csv file Data/String Processing(Ajax),    
            User preferred genre priority printing function             
+           
 Backend - Image Search API(Bing Image Search), IMDB Movie Dataset Processing(Voterate sorting), AbstractUser Design(models),  
 
 ## Software Design
