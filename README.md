@@ -28,8 +28,8 @@ Backend - Image Search API(Bing Image Search), IMDB Movie Dataset Processing(Vot
 |---|---|---|
 |![diagram1](https://user-images.githubusercontent.com/55237012/91019362-d634fb00-e62b-11ea-86b2-ea11792ae7d4.PNG)|![diagram2](https://user-images.githubusercontent.com/55237012/91019358-d503ce00-e62b-11ea-914d-9b819b5526bd.PNG)|![diagram3](https://user-images.githubusercontent.com/55237012/91019364-d634fb00-e62b-11ea-93ba-8d4bb7b995e5.PNG)|
 
-### 설계 방법
-Model, View, Controller(Template) 패턴을 활용하여 설계하였다.
+### How to Desgin?
+It was designed using the MVC(Model, View, Template) pattern.   
 |Model|View|
 |---|---|
 |![Model](https://user-images.githubusercontent.com/55237012/90224399-8f385000-de4a-11ea-8389-7fb4bebb9be4.PNG)|![View](https://user-images.githubusercontent.com/55237012/90224437-9f502f80-de4a-11ea-9972-a8b141ff1552.PNG)|
