@@ -57,6 +57,8 @@ It was designed using the MVC(Model, View, Template) pattern.
 <img src="https://user-images.githubusercontent.com/55237012/91291136-96a71400-e7cf-11ea-955d-6ddeb9eb5626.PNG" width="85%">   
 
 ## Points to be improved    
-1.    
-2.     
-3.     
+1. Responsive Web    
+2. UI Improvement     
+3. Code Refactoring
+
+# How to Install?
