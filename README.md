@@ -61,4 +61,5 @@ It was designed using the MVC(Model, View, Template) pattern.
 2. UI Improvement     
 3. Code Refactoring
 
-# How to Install?
+# Getting Started   
+
