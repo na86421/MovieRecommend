@@ -43,7 +43,7 @@ It was designed using the MVC(Model, View, Template) pattern.
 ## Screenshot
 |Intro|Main|
 |---|---|
-|![intro](https://user-images.githubusercontent.com/55237012/91289388-416a0300-e7cd-11ea-9b94-e9f4f219eeb9.PNG)|![main](https://user-images.githubusercontent.com/55237012/91289394-429b3000-e7cd-11ea-9282-de985efafed2.PNG)|    
+|![intro](https://user-images.githubusercontent.com/55237012/91299351-6fa30f00-e7dc-11ea-87b7-81b9e35515e5.PNG)|![main](https://user-images.githubusercontent.com/55237012/91289394-429b3000-e7cd-11ea-9282-de985efafed2.PNG)|    
 
 |Detail|Profile|
 |---|---|
