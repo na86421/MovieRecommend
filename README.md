@@ -40,19 +40,18 @@ It was designed using the MVC(Model, View, Template) pattern.
 
 
 
-## 스크린샷
-### 인트로 페이지
-<img src="https://user-images.githubusercontent.com/55237012/90220924-20f08f00-de44-11ea-9afd-34536e6ac6c4.png" width="70%">
+## Screenshot
+|Intro|Main|
+|---|---|
+|![intro](https://user-images.githubusercontent.com/55237012/91289388-416a0300-e7cd-11ea-9b94-e9f4f219eeb9.PNG)|![main](https://user-images.githubusercontent.com/55237012/91289394-429b3000-e7cd-11ea-9282-de985efafed2.PNG)|    
 
-### 메인 페이지
-<img src="https://user-images.githubusercontent.com/55237012/73512006-492a1a80-442b-11ea-934f-109f24a14442.PNG" width="70%">
+|Detail|Profile|
+|---|---|
+|![detail](https://user-images.githubusercontent.com/55237012/91289395-4333c680-e7cd-11ea-9776-5875e28ea1b8.PNG)|![profile](https://user-images.githubusercontent.com/55237012/91289403-4464f380-e7cd-11ea-95f6-022e857a7dcf.PNG)|    
 
-### 디테일 페이지
-<img src="https://user-images.githubusercontent.com/55237012/90220917-1cc47180-de44-11ea-9c87-cb95e35768d9.png" width="70%">
-
-### 게시판
-<img src="https://user-images.githubusercontent.com/55237012/90220916-1b934480-de44-11ea-8f42-ef106cde4ea6.png" width="70%">
-<img src="https://user-images.githubusercontent.com/55237012/90220917-1cc47180-de44-11ea-9c87-cb95e35768d9.png" width="70%">
+|Board|Board|
+|---|---|
+|![board](https://user-images.githubusercontent.com/55237012/91289400-43cc5d00-e7cd-11ea-9562-a1e5e38e3a15.PNG)|![board2](https://user-images.githubusercontent.com/55237012/91289401-4464f380-e7cd-11ea-81ac-bbf1af8d497d.PNG)|    
 
 ## 구현된 기능
 <img src="https://user-images.githubusercontent.com/55237012/90137290-6a8f9a00-ddb0-11ea-9449-83984ea540ad.PNG" width="70%">
