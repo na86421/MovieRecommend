@@ -54,4 +54,9 @@ It was designed using the MVC(Model, View, Template) pattern.
 |![board](https://user-images.githubusercontent.com/55237012/91289400-43cc5d00-e7cd-11ea-9562-a1e5e38e3a15.PNG)|![board2](https://user-images.githubusercontent.com/55237012/91289401-4464f380-e7cd-11ea-81ac-bbf1af8d497d.PNG)|    
 
 ## Developed Function
-<img src="https://user-images.githubusercontent.com/55237012/91291136-96a71400-e7cf-11ea-955d-6ddeb9eb5626.PNG" width="85%">
+<img src="https://user-images.githubusercontent.com/55237012/91291136-96a71400-e7cf-11ea-955d-6ddeb9eb5626.PNG" width="85%">   
+
+## Points to be improved    
+1.    
+2.     
+3.     
