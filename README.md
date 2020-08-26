@@ -32,11 +32,11 @@ Backend - Image Search API(Bing Image Search), IMDB Movie Dataset Processing(Vot
 It was designed using the MVC(Model, View, Template) pattern.   
 |Model|View|
 |---|---|
-|![Model](https://user-images.githubusercontent.com/55237012/90224399-8f385000-de4a-11ea-8389-7fb4bebb9be4.PNG)|![View](https://user-images.githubusercontent.com/55237012/90224437-9f502f80-de4a-11ea-9972-a8b141ff1552.PNG)|
+|![modelpy](https://user-images.githubusercontent.com/55237012/91287632-f5b65a00-e7ca-11ea-8550-75d92446d47a.PNG)|![viewpy](https://user-images.githubusercontent.com/55237012/91287629-f51dc380-e7ca-11ea-83c5-59cddc7030dc.PNG)|
 
 |Template1|Template2|
 |---|---|
-|![Template](https://user-images.githubusercontent.com/55237012/90224366-80ea3400-de4a-11ea-9bc7-9eada50d4162.PNG)|![Template2](https://user-images.githubusercontent.com/55237012/90224455-aa0ac480-de4a-11ea-93eb-3ac9ac68b56c.PNG)|
+|![templatepy1](https://user-images.githubusercontent.com/55237012/91287633-f5b65a00-e7ca-11ea-8449-f613d9332717.PNG)|![templatepy2](https://user-images.githubusercontent.com/55237012/91287626-f3ec9680-e7ca-11ea-86b2-5e09a0ff3403.PNG)|
 
 
 
