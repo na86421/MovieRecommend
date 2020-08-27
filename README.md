@@ -64,5 +64,7 @@ It was designed using the MVC(Model, View, Template) pattern.
 # Getting Started   
 Server Start
 ```bash
+$ python manage.py migrate
 $ python manage.py runserver
+click 127.0.0.1
 ```
