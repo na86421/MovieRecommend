@@ -66,5 +66,4 @@ Server Start
 ```bash
 $ python manage.py migrate
 $ python manage.py runserver
-click 127.0.0.1
 ```
